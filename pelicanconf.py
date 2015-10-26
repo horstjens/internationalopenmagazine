@@ -40,7 +40,6 @@ SITESUBTITLE = u'open source. open education. open everything!'
 #EXPAND_LATEST_ON_INDEX = True
 SHARE = True
 SITELOGO = '/images/international-open-magazine-logo-small-gradient.png'
-#SITELOGO = '/extra/international-open-magazine-logo-small.png'
 SITELOGO_SIZE = 200
 HIDE_SITENAME = False
 DISPLAY_RECENT_POSTS_ON_MENU = False
@@ -48,7 +47,7 @@ DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_TAGS_ON_MENU = False
 
-#PLUGIN_PATHS = [u'/home/horst/code/magazine/plugins/']
+#PLUGIN_PATHS = [u'/home/horst/code/internationalopenmagazine/plugins/']
 #PLUGINS = ['tag_cloud'] # stört anscheindend das theme pelican-twitchy
 #PLUGIN_PATHS = ['/home/horst/code/blog/plugins']
 #PLUGINS = ['tag_cloud']
