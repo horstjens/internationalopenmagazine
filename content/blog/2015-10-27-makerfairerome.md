@@ -11,6 +11,7 @@ Summary: <div style="float: left; padding:5px"><img src="http://internationalope
 <b>contact</b>: <a href="http://spielend-programmieren.at/de:kontakt">horstjens@gmail.com</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/jK0zv4">http://goo.gl/jK0zv4</a><br>
 <b>Hashtag:</b> <tt>&#35;FR15</tt><br>
+<b>fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/blog/2015-10-27-makerfairerome.md">on Github</a><br>
 <b>extras:</b> <a href="https://flic.kr/s/aHsknsYBvd">photo album</a>, <a href="http://internationalopenmagazine.org/2015-10-20-internationalopenpodcast_episode_001.html">podcast</a><br>
 <b>License</b> of text and photos:<br>
 <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa88x31.png" alt="cc-by-sa"></a><br>
