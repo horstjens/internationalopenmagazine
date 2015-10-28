@@ -133,11 +133,11 @@ While Derek got involved into some Workshop for Kids (teaching Scratch) I manage
 
 ## making makers happy
 
-One (of many) project I instantly liked was an open source sojus spaceship docking maneuver simulator, to train cosmonauts the procedures for the docking of sojus spaceships to the international space station. 
+One (of many) project I instantly liked was an [open source sojus spaceship docking maneuver simulator](http://www.bis-italia.it/), to train cosmonauts the procedures for the docking of sojus spaceships to the international space station. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/horstjens/22115288139/in/album-72157659989524426/" title="Maker Faire Rome 2015"><img src="https://farm1.staticflickr.com/705/22115288139_0dbce5da6e_b.jpg" width="1024" height="768" alt="Maker Faire Rome 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br><small>very proud-to-be-admired students explaining me their spaceship simulator project</small>
 
-Another cool (and of course, open-source!) project was made by a guy who transformed his colleague into an cool-looking, alive human avatar with body-webcam, microphone and speakers for enhanced remote-control possibilities. Imagine out-sourcing stressful non-nerd activities like going to school or having an social live or partying to human avatars while sitting in comfort behind your computer! You can hear all, speak with everyone, hopefully remote-control your avatar to do pranks, greet friends or dance wildly and all it took is a simple mouse click! 
+Another [cool (and of course, open-source!) project](http://www.makerfairerome.eu/en/exhibitors/?ids=1284) was made by a guy who transformed his colleague into an cool-looking, alive human avatar with body-webcam, microphone and speakers for enhanced remote-control possibilities. Imagine out-sourcing stressful non-nerd activities like going to school or having an social live or partying to human avatars while sitting in comfort behind your computer! You can hear all, speak with everyone, hopefully remote-control your avatar to do pranks, greet friends or dance wildly and all it took is a simple mouse click! 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/horstjens/21679388124/in/album-72157659989524426/" title="Maker Faire Rome 2015"><img src="https://farm6.staticflickr.com/5807/21679388124_1a458dd237_b.jpg" width="1024" height="768" alt="Maker Faire Rome 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br><small>remote control your social life with this avatar kit</small>
 
