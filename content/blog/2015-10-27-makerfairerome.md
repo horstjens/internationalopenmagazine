@@ -1,7 +1,6 @@
 Title: report: Maker Faire Rome 2015
 Date: 2015-10-27 14:30
-Modfied: 2015-10-28 15:54
-
+Modfied: 2015-10-28 17:14
 Tags: report, conference, making
 Slug: 2015-10-27-makerfairerome
 Summary: <div style="float: left; padding:5px"><img src="http://internationalopenmagazine.org/images/2015-10-27-makerfairerome/makerlogo.jpg" width="100" alt="Maker Faire rome logo"></div>Report of my visit to the Maker Faire Rome 2015 with many photos and some personal impressions of Rome, Italians and the Maker movement. Enriched with travel tips, a promise to come back next year and "how to troll the press center" and "how to make Makers happy" tutorials.<div style="clear:both;"></div>
