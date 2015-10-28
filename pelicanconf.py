@@ -46,6 +46,8 @@ DISPLAY_RECENT_POSTS_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_TAGS_ON_MENU = False
+RECENT_POST_COUNT = 15
+
 
 #PLUGIN_PATHS = [u'/home/horst/code/internationalopenmagazine/plugins/']
 #PLUGINS = ['tag_cloud'] # stört anscheindend das theme pelican-twitchy

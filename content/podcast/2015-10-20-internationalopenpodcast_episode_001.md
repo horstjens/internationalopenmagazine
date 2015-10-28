@@ -1,6 +1,6 @@
 Title: international open podcast episode 001
 Date: 2015-10-20 18:30
-Modified: 2015-10-26 18:32
+Modified: 2015-10-26 23:54
 tags: code, report, conference
 Slug: 2015-10-20-internationalopenpodcast_episode_001
 status: published
@@ -18,6 +18,12 @@ After our trip to Maker Faire Rome (hashtag #mfr15) we had a lot to relate.
 </td><td>
 <iframe width="250" height="188" src="https://www.youtube.com/embed/jB2Sn93BSp4" frameborder="0" allowfullscreen></iframe> <br><a href="https://youtu.be/jB2Sn93BSp4">https://youtu.be/jB2Sn93BSp4</a>
 </td></tr></table>
+
+## transcript
+
+The youtube description as well as the shownote site (biertaucherpodcast 227) has timestamps and content description, but there exist no meaningful caption. All we have until now is the auto-generated caption from youtube. Sadly, it is more or less useless. If you want to help:
+
+  * please [help to improve the automatic-generated captions](https://internationalopenmagazine.titanpad.com/1) for international open podcast episode 001 
 
 
 ## photos

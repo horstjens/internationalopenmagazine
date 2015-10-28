@@ -1,13 +1,12 @@
 Title: team
 Date: 2015-10-25 18:00
-Modified: 2015-10-25 18:00
+Modified: 2015-10-27 09:32
 Tags: internal
 
 
-## team
 
 
-<img src="/images/derek_and_horst_small.jpg" alt="Horst JENS and Derek BREEN" withd="800">
+<img src="/images/derek_and_horst_small.jpg" alt="Horst JENS and Derek BREEN" width="640">
 <br>
 Horst JENS (left) and Derek Breen (right) near Maker Faire Rome oct 2015
 
@@ -19,6 +18,16 @@ Horst JENS (left) and Derek Breen (right) near Maker Faire Rome oct 2015
   * Art Director: [Derek BREEN](https://twitter.com/breenworks) `breenworks@gmail.com`
 
 
+## imprint
+
+    Horst JENS
+    Brigittenauerlände 6
+    1020 Wien
+    Austria
+    email: horst.jens@spielend-programmieren.at
+    tel: +43 660 52 65 377
+    web: http://spielend-programmieren.at/de:kontakt
+
 ## authors
 
-please note that most content of the **International Open Magazine** will be not submitted by the team members above but by others. To become an author, please see the page [contribute](pages/contribute).
+please note that most content of the **International Open Magazine** will be not submitted by the team members above but by others. To become an author, please see the page [contribute](/pages/contribute.html).
