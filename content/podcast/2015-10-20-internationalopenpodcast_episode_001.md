@@ -31,3 +31,19 @@ The youtube description as well as the shownote site (biertaucherpodcast 227) ha
 [Flickr photo album](https://flic.kr/s/aHsknsYBvd):
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/horstjens/albums/72157659989524426" title="Maker Faire Rome 2015"><img src="https://farm6.staticflickr.com/5663/22302002905_7508f420c3_b.jpg" width="600" height="800" alt="Maker Faire Rome 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+# advertisement (google adsense)
+
+<hr style="height: 3px;">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- intopenmag-unten -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-3535173094498375"
+     data-ad-slot="7210184316"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
