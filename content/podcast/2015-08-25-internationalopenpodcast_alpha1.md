@@ -7,7 +7,7 @@ status: published
 Authors: Horst JENS
 Summary: <div style="float: left; padding:5px"><img src="http://spielend-programmieren.at/_media/de:podcast:biertaucher:biertaucherlogo.png?w=150&tok=bed4c4" width="100" alt="logo"></div> The first test version of our podcast, without name yet. published as Biertaucherpodcast 219 and later renamed into **international open podcast alpha 1**. Derek and Horst talk about the Scratch conference Amsterdam.<div style="clear:both;"></div>
 
-This podcast was made after i have met Derek at the Scratch conference Amsterdam 2015 (hashtag: #sratchams2015). 
+This podcast was made after I have met Derek at the Scratch conference Amsterdam 2015 (hashtag: #sratchams2015). 
 
   * [international open podcast alpha 1](http://spielend-programmieren.at/de:podcast:biertaucher:2015:219) Please note that an extra, english-only shownote page is under construction and will be published soon.
   

@@ -11,7 +11,7 @@ Donations are highly welcome and help keeping the the team motivated, the server
   * writing us. Tell us what you like. And what you dislike. But mostly what you like.
   * spreading the word: use your preferred social networks (see the **Share** and **#intopenmag** links in the left sidebar 
   * recruting: you know people who love to write articles? Tell them about us!
-  
+
 ## Flattr:
 [Flattr](http://flattr.com) is an European website to allow Micro-Donations. Use this link: 
 
