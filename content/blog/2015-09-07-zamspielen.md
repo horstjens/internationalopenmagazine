@@ -89,3 +89,18 @@ other links about this event:
   * [Biertaucherpodcast 221](http://spielend-programmieren.at/de:podcast:biertaucher:2015:221) german language Podcast about zamspielen. including interview Josef Wiesner
   * [ZamSpielen Facebook group](https://www.facebook.com/zamspielen)
   * [ZamSpielen at flickr](https://www.flickr.com/search/?q=zamspielen)
+
+# advertisement (google adsense)
+
+<hr style="height: 3px;">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- intopenmag-unten -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-3535173094498375"
+     data-ad-slot="7210184316"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+

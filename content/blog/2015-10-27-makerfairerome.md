@@ -218,8 +218,17 @@ Some random observations and lessons learned:
   * Using 4 different keys and passing 3 iron gates just to go into your room at night seems a bit like self-inflicted imprisoment. While we did indeed not lose anything to thieves at night, I wonder if not a simpler system could be invented: You leave your no-longer-fashionable clothes and travel equipment (like everything older than 24 hours) outside the door for thieves to inspect and in turn not get your money and documents stolen. 
   * Whatever they bring with them, travelers will feel underdressed in Rome anyway. Maybe some clever makers could invent a cheap system of handing out waiting-list numbers to smartphones, so the thieves do have to wait in line for inspecting the luggage. 
 
+# advertisement (google adsense)
 
-## advertisement
+<hr style="height: 3px;">
 
-coming soon: google adsense ad
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- intopenmag-unten -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-3535173094498375"
+     data-ad-slot="7210184316"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
