@@ -220,6 +220,20 @@ Some random observations and lessons learned:
   * Using 4 different keys and passing 3 iron gates just to go into your room at night seems a bit like self-inflicted imprisoment. While we did indeed not lose anything to thieves at night, I wonder if not a simpler system could be invented: You leave your no-longer-fashionable clothes and travel equipment (like everything older than 24 hours) outside the door for thieves to inspect and in turn not get your money and documents stolen. 
   * Whatever they bring with them, travelers will feel underdressed in Rome anyway. Maybe some clever makers could invent a cheap system of handing out waiting-list numbers to smartphones, so the thieves do have to wait in line for inspecting the luggage. 
 
+
+# update (2015 October 29)
+
+Maker Faire Rome responded via Facebook comments to some of the points:
+  * According to Facebook Maker Faire Rome, the student protests had mostly other reasons than the Maker Faire fee
+  * press kit was given to official registered journalists
+  * only comanies pay for tables, makers get a free table even if they sells stuff (if i understood correctly)
+
+See the original comments here:
+
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/de_DE/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/internationalopenmagazine/posts/833643026750811" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/internationalopenmagazine/posts/833643026750811"><p>finally! article about Maker Faire Rome 2015 is online: goo.gl/jK0zv4 #MFR15 #intopenmag  Maker Faire Rome Maker Faire Vienna</p>Posted by <a href="https://www.facebook.com/internationalopenmagazine/">International open magazine</a> on&nbsp;<a href="https://www.facebook.com/internationalopenmagazine/posts/833643026750811">Mittwoch, 28. Oktober 2015</a></blockquote></div></div>
+  
+  
+
 # advertisement (google adsense)
 
 <hr style="height: 3px;">
