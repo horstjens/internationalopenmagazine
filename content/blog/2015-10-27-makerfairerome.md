@@ -3,19 +3,21 @@ Date: 2015-10-27 14:30
 Modfied: 2015-10-28 17:14
 Tags: report, conference, making
 Slug: 2015-10-27-makerfairerome
+Authors: Horst JENS
 Summary: <div style="float: left; padding:5px"><img src="http://internationalopenmagazine.org/images/2015-10-27-makerfairerome/makerlogo.jpg" width="100" alt="Maker Faire rome logo"></div>Report of my visit to the Maker Faire Rome 2015 with many photos and some personal impressions of Rome, Italians and the Maker movement. Enriched with travel tips, a promise to come back next year and "how to troll the press center" and "how to make Makers happy" tutorials.<div style="clear:both;"></div>
 
 
 <div style="float:right; padding: 5px; margin: 5px; background-color: #BBBBBB;">
-<b>contact</b>: <a href="http://spielend-programmieren.at/de:kontakt">horstjens@gmail.com</a><br>
+<b>Name</b>: <a href="http://spielend-programmieren.at/de:kontakt">Horst JENS</a><br>
+<b>Contact</a></b>: <a href="http://spielend-programmieren.at/de:kontakt">horstjens@gmail.com</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/jK0zv4">http://goo.gl/jK0zv4</a><br>
-<b>Hashtag:</b> <tt>&#35;FR15</tt><br>
-<b>fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/blog/2015-10-27-makerfairerome.md">on Github</a><br>
-<b>extras:</b> <a href="https://flic.kr/s/aHsknsYBvd">photo album</a>, <a href="http://internationalopenmagazine.org/2015-10-20-internationalopenpodcast_episode_001.html">podcast</a><br>
-<b>License</b> of text and photos:<br>
+<b>Hashtag</b>: <tt>&#35;FR15</tt><br>
+<b>Fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/blog/2015-10-27-makerfairerome.md">on Github</a><br>
+<b>Extras:</b>: <a href="https://flic.kr/s/aHsknsYBvd">photo album</a>, <a href="http://internationalopenmagazine.org/2015-10-20-internationalopenpodcast_episode_001.html">podcast</a><br>
+<b>License</b>: of text and photos:<br>
 <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa88x31.png" alt="cc-by-sa"></a><br>
-<b>Donate author:</b> <script id='fbxryof'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//api.flattr.com/button/view/?uid=horstjens&button=compact&url=http%3A%2F%2Finternationalopenmagazine.org%2F2015-10-27-makerfairerome.html';f.title='Flattr';f.height=20;f.width=110;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fbxryof');</script><br>other options: <a href="http://spielend-programmieren.at/de:kontakt#spenden">Bitcoin, PayPal, etc</a><br>
-<b>Location:</b> <a href="https://www.google.at/maps/@41.9024844,12.5139454,16.25z?hl=en">41.9024844,12.5139454]</a><br>
+<b>Donate author</b>: <script id='fbxryof'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//api.flattr.com/button/view/?uid=horstjens&button=compact&url=http%3A%2F%2Finternationalopenmagazine.org%2F2015-10-27-makerfairerome.html';f.title='Flattr';f.height=20;f.width=110;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fbxryof');</script><br>other options: <a href="http://spielend-programmieren.at/de:kontakt#spenden">Bitcoin, PayPal, etc</a><br>
+<b>Location</b>: <a href="https://www.google.at/maps/@41.9024844,12.5139454,16.25z?hl=en">41.9024844,12.5139454]</a><br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d4994.17177517052!2d12.513945374714327!3d41.9024843895056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sde!2sat!4v1445958697681" width="250" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 

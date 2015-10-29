@@ -3,7 +3,7 @@ Date: 2015-10-26 18:42
 Modified: 2015-10-26 18:42
 tags: report, conference, 
 Slug: 2015-10-26-makerfairerome
-status: published
+status: draft
 Authors: Horst JENS
 Summary: <div style="float: left; padding:5px"><img src="/images/doppeltuxklein.jpeg" width="100" alt="logo"></div> While i still have to write an article about Maker Faire Rome 2015, there is already a podcast to hear and a photo album to see.<div style="clear:both;"></div>
 

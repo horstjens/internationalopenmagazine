@@ -1,10 +1,10 @@
-Title: international open podcast episode 001
+Title: podcast: international open podcast episode 001
 Date: 2015-10-20 18:30
 Modified: 2015-10-26 23:54
-tags: code, report, conference
+tags: coding, report, conference
 Slug: 2015-10-20-internationalopenpodcast_episode_001
 status: published
-Authors: Horst JENS
+Authors: Horst JENS, Stefan HASLINGER, Denis KNAUF, Derek BREEN
 Summary: <div style="float: left; padding:5px"><img src="/images/international-open-podcast-logo.png" width="100" alt="logo"></div> Our third  podcast, and the first **official** one. Published as Biertaucherpodcast 227 and later renamed into **international open podcast episode 001**. Derek and Horst talk about their trip to Maker Faire Rome 2015 in Italy, Stefan speaks about the refugee Hackathon in Vienna.<div style="clear:both;"></div>
 
 The first **official** Podcast!

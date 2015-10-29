@@ -1,8 +1,9 @@
-Title: the games of zam spielen 
+Title: report: the games of zam spielen 
 Date: 2015-09-08 19:00
-Modified: 2015-10-27 00:12
+Modified: 2015-10-29 07:28
 Tags: report, art, games, Vienna
 Slug: 2015-09-07-zamspielen
+authors: Horst JENS
 Summary: <div style="float: left; padding:5px"><img src="https://farm6.staticflickr.com/5786/21204926312_907f39bca3_t.jpg" width="100" height="75" alt="2015 09 06 zamSpielen Wien Resselpark"></div>Impressions of the "zam spielen" social computer game event in Vienna with photos.<div style="clear:both;"></div>
 
 # Zam spielen social event
