@@ -8,11 +8,11 @@ Summary: <div style="float: left; padding:5px"><img src="https://farm6.staticfli
 
 <div style="float:right; padding: 5px; margin: 5px; background-color: #BBBBBB;">
 <b>Name</b>: <a href="http://spielend-programmieren.at/de:kontakt">Lucy Hochgstöttner</a><br>
-<b>Contact</b></<br>
-<b>Shorturl</b>: <br>
+<b>Contact</b> <br>
+<b>Shorturl</b>:<a href="http://goo.gl/ocKBPI">http://goo.gl/ocKBPI</a><br>
 <b>Hashtag</b>: <tt>&#35;spielendprogrammieren</tt><br>
-<b>Fork / improve</b>: <br>
-<b>Extras:</b>: <a href="images/2015-10-29-lucyderek/2015-10-22_interview_lucy_interviews_derek_breen_about_scratch_for_kids_for_dummies.mp3">raw audio interview (mp3)<br>
+<b>Fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/blog/2015-10-29-lucyderek.md">on Github</a> <br>
+<b>Extras:</b>: <a href="images/2015-10-29-lucyderek/2015-10-22_interview_lucy_interviews_derek_breen_about_scratch_for_kids_for_dummies.mp3">raw audio interview (mp3)</a><br>
 <b>License</b>: of text and audio and photos:<br>
 <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa88x31.png" alt="cc-by-sa"></a><br>
 <b>Donate author</b>: <br>
@@ -22,21 +22,16 @@ Summary: <div style="float: left; padding:5px"><img src="https://farm6.staticfli
 
 Lucy, learning to code [Python](http://python.org) at [Horst](http://spielend-programmieren.at/de:kontakt)'s afternoon [programming courses](http://spielend-programmieren.at), was recruited to do her first ever professional interview with world travelling artist and book author [Derek Breen](http://twitter.com/breenworks).
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/horstjens/22412924671/in/album-72157646471853013/" title="international open magazine: Lucy and Derek Interview"><img src="https://farm6.staticflickr.com/5676/22412924671_05fa0341d9_z.jpg" width="480" height="640" alt="international open magazine: Lucy and Derek Interview"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/horstjens/22402082165/in/album-72157646471853013/" title="international open magazine: Lucy and Derek Interview"><img src="https://farm6.staticflickr.com/5822/22402082165_40c1201c67_b.jpg" width="1024" height="768" alt="international open magazine: Lucy and Derek Interview"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 
 ## transcript
 
+
 <div style="float:right; padding:5px; margin:5px;"><a rel="nofollow" href="http://www.amazon.de/gp/product/1119014875/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=1119014875&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1119014875&Format=_SL250_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=1119014875" width="1" height="1" border="0" alt="amazon" style="border:none !important; margin:0px !important;" /><br><small>image rights: Amazon Partner program</small></div>
 
-
- 
-  
   * Lucy (L): Why did you write the book?
   * Derek (D): The publishers, [John Wiley &amp; sons](https://en.wikipedia.org/wiki/John_Wiley_%26_Sons), came to me and said [that] they are looking for sombody who had a lot of experience teaching [Scratch](http://scratch.mit.edu) to write a book about *Scratch for kids* in the *[for dummies](https://en.wikipedia.org/wiki/For_Dummies)* series. And since i did'nt had a job at the time i said: "Sure, i can do that". And i really was hoping that i can teach some of my favorites tricks, and teaching Scratch more for design rather than just coding. So i was really happy to do that.
   * L: What is your favorite trick in Scratch?
-  * D: My favorite trick is ~~taking~~ making [sprites](https://en.wikipedia.org/wiki/Sprite_(computer_graphics)) from vector graphics, starting with *really* simple shapes. And then gradually making the shapes more and more complex to be things like faces and arms and legs, zombie teeths and werewolf claws. And also being able to take simple shapes and combine them with multiple shapes to make really cool looking animation and game characters.
+  * D: My favorite trick is <strike>taking</strike> making [sprites](https://en.wikipedia.org/wiki/Sprite_(computer_graphics)) from vector graphics, starting with *really* simple shapes. And then gradually making the shapes more and more complex to be things like faces and arms and legs, zombie teeths and werewolf claws. And also being able to take simple shapes and combine them with multiple shapes to make really cool looking animation and game characters.
   * L: What is your favorite thing from Scratch?
   * D: I think my favorite thing is being able to quickly and then add just a little bit of code to bring it to life.
   * L: [pause] Did you had fun making it?
@@ -54,10 +49,16 @@ Lucy, learning to code [Python](http://python.org) at [Horst](http://spielend-pr
   * D: Ahhh, i don't know... i introduced Scratch to over a thousand kids just last week in [South Africa](https://youtu.be/7-pmMrL6bso), so that means way more than onethousand kids. Probably, um... When i think about it this way: every teacher that i teached Scratch to could teach 20, 30 or 100 kids. And i introduced [Scratch to] a lot of teachers. So i think 150342. That's how many. 
   
 
+<div style="float:right; margin:5px">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/horstjens/22412924671/in/album-72157646471853013/" title="international open magazine: Lucy and Derek Interview"><img src="https://farm6.staticflickr.com/5676/22412924671_05fa0341d9_z.jpg" width="240" height="320" alt="international open magazine: Lucy and Derek Interview"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/7-pmMrL6bso" frameborder="0" allowfullscreen></iframe><br>
 <small>Derek teaching scratch (and breakdancing) in South africa during African Code week</small>
 
+
+
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/horstjens/22402082165/in/album-72157646471853013/" title="international open magazine: Lucy and Derek Interview"><img src="https://farm6.staticflickr.com/5822/22402082165_40c1201c67_b.jpg" width="1024" height="768" alt="international open magazine: Lucy and Derek Interview"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/horstjens/22412924311/in/album-72157646471853013/" title="international open magazine: Lucy and Derek Interview"><img src="https://farm1.staticflickr.com/722/22412924311_d1fb196f39_b.jpg" width="1024" height="768" alt="international open magazine: Lucy and Derek Interview"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
