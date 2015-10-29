@@ -1,6 +1,6 @@
 Title: report: Maker Faire Rome 2015
 Date: 2015-10-27 14:30
-Modfied: 2015-10-28 17:14
+Modfied: 2015-10-29 08:23
 Tags: report, conference, making
 Slug: 2015-10-27-makerfairerome
 Authors: Horst JENS
@@ -224,15 +224,16 @@ Some random observations and lessons learned:
 # update (2015 October 29)
 
 Maker Faire Rome responded via Facebook comments to some of the points:
+
   * According to Facebook Maker Faire Rome, the student protests had mostly other reasons than the Maker Faire fee
-  * press kit was given to official registered journalists
+  * press kit pictures and other privileges were given to official registered journalists
   * only comanies pay for tables, makers get a free table even if they sells stuff (if i understood correctly)
 
-See the original comments here:
+See the original comments [direct in Facebook](https://www.facebook.com/internationalopenmagazine/posts/833643026750811) or in this screenshot:
 
-<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/de_DE/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/internationalopenmagazine/posts/833643026750811" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/internationalopenmagazine/posts/833643026750811"><p>finally! article about Maker Faire Rome 2015 is online: goo.gl/jK0zv4 #MFR15 #intopenmag  Maker Faire Rome Maker Faire Vienna</p>Posted by <a href="https://www.facebook.com/internationalopenmagazine/">International open magazine</a> on&nbsp;<a href="https://www.facebook.com/internationalopenmagazine/posts/833643026750811">Mittwoch, 28. Oktober 2015</a></blockquote></div></div>
-  
-  
+<img src="images/2015-10-27-makerfairerome/facebookresponse.png" alt="facebookresponse">
+
+
 
 # advertisement (google adsense)
 
