@@ -14,7 +14,17 @@
     <div class="col-lg-9">
         <header class="page-header">
             <h1>all items in category "{{ category }}" </h1>            
+            
+   
+
         </header>
     </div>
 </div>
+
+xxx{{ category }}yyy
+{% if category == 'podcast' %}
+ some specific podcast text
+{% endif %}
+
+
 {% endblock %}

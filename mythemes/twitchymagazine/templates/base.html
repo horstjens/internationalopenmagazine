@@ -226,17 +226,13 @@
                         </a>
                     </li>
                     {% endfor %}
+                         
                 </ul></li>
                 {% endif %}
                 
-                {% if DISPLAY_TAGS_ON_MENU %}
-                <!--
-                    {% if DISPLAY_TAGS_INLINE %}
-                        {% set tags = tag_cloud | sort(attribute='0') %}
-                    {% else %}
-                        {% set tags = tag_cloud | sort(attribute='1') %}
-                    {% endif %}
-                -->
+                
+                {% if HORST_MENU %} <!-- was: DISPLAY_TAGS_ON_MENU -->
+
                 <li class="nav-divider"></li>
                 <li>
                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse-tags">
@@ -252,26 +248,9 @@
                          <li><a href="{{ SITEURL }}/tag/coding.html"><i class="fa fa-tag padding-small"></i>coding <span class="badge pull-right categorybadge">{{ CODING }}</span></a></li>
                          <li><a href="{{ SITEURL }}/tag/making.html"><i class="fa fa-tag padding-small"></i>making <span class="badge pull-right categorybadge">{{ MAKING }}</span></a></li>
                          <li><a href="{{ SITEURL }}/tag/teaching.html"><i class="fa fa-tag padding-small"></i>teaching <span class="badge pull-right categorybadge">{{ TEACHING }}</span></a></li>
-                         <li><small><a href="{{ SITEURL }}/tag"><i class="fa fa-tags padding-small"></i>list of all tags</a></small></li>
-                         <!--{% for tag, articles in tags %}
-                           {{tag }} {{ articles|count }}
-                         {% endfor %}-->
-                    <!--{% for tag in tags %}
-                    <li class="tag-{{ tag.1 }}">
-                        <a href="{{ SITEURL }}/{{ tag.0.url }}">
-                            {{ tag.0 }}
-                        </a>
-                    </li>
-                    {% endfor %} -->
-                    <!-- Horst start 
-                    <ul>
-                        {% for article in articles if FAVORITES_TAG in article.tags %}
-                            {% if loop.index <= FAVORITES_COUNT %} 
-                                <li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>
-                            {% endif %}
-                        {% endfor %}
-                    </ul>
-                        
+                         <li><small><a href="{{ SITEURL }}/tags"><i class="fa fa-tags padding-small"></i>list of all tags</a></small></li>
+                         <li><small><a href="{{ SITEURL }}/authors"><i class="fa fa-tags padding-small"></i>list of all authors</a></small></li>
+     
                     Horst end -->
                     </ul></li>
                 {% endif %}
@@ -331,6 +310,9 @@
                     </li>
                 </ul></li>
                 {% endif %}
+                <hr>
+                <!-- <li><small><a href="{{ SITEURL }}/tags"><i class="fa fa-tags padding-small"></i>list of all tags</a></small></li>
+                <li><small><a href="{{ SITEURL }}/authors"><i class="fa fa-tags padding-small"></i>list of all authors</a></small></li> -->
                 
             </ul>
         </div>

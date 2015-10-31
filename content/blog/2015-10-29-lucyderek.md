@@ -3,7 +3,7 @@ Date: 2015-10-29 13:30
 Modfied: 2015-10-29 13:30
 Tags: interview, coding, art, review, books
 Slug: 2015-10-29-lucyderek
-Authors: Lucy Hochgstöttner, Derek Breen
+Authors: Lucy HOCHGSTÖTTNER, Derek BREEN
 Summary: <div style="float: left; padding:5px"><img src="https://farm6.staticflickr.com/5822/22402082165_40c1201c67_t.jpg" width="100" alt="Lucy Derek interview"></div>Lucy (student at [spielend-programmieren programming courses](http://spielend-programmieren.at)) makes her first interview with Derek Breen about his book: **Scratch for kids for dummies**<div style="clear:both;"></div>
 
 <div style="float:right; padding: 5px; margin: 5px; background-color: #BBBBBB;">
