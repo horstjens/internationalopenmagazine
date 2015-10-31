@@ -18,8 +18,8 @@
                 <div id="collapse-{{tag.slug}}" class="panel-collapse collapse">
                     <div class="panel-body">
                     {% for article in articles %}
-                        <p><span class="categories-timestamp"><time datetime="{{ article.date|strftime('%Y-%m-%d') }}">{{ article.locale_date }}</time></span> <i>{{ article.category }}</i>: <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a> by 
-                               {% for author in article.authors %} <a href="{{ SITEURL }}/{{ author }}.html"><i class="fa fa-user padding-small"></i>{{ author }}</a>{% endfor %}</p>
+                        <p><span class="categories-timestamp"><i class="fa fa-calendar padding-small"></i><time datetime="{{ article.date.isoformat() }}"> {{ article.date|strftime('%Y-%m-%d') }} </time></span>  <i class="fa fa-folder-open padding-small"></i><i>{{ article.category }}</i>: <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a> by 
+                               {% for author in article.authors %} <a href="{{ SITEURL }}/{{ author.url }}"><i class="fa fa-user padding-small"></i>{{ author }}</a>{% endfor %}</p>
                     {% endfor %}
                     </div>
                 </div>

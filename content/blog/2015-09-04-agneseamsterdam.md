@@ -3,7 +3,7 @@ Date: 2015-09-04 14:30
 Modfied: 2015-10-29 06:30
 Tags: report, conference, coding
 Slug: 2015-19-04-agneseamsterdam
-Authors: Agnese ADDONE
+Authors: ADDONE Agnese
 Summary: <div style="float: left; padding:5px"><img src="images/2015-09-04-agneseamsterdam/io_catemos.jpg" width="100" alt="Maker Faire rome logo"></div>Agnese Addone tells what happened at the Scratch conference Amsterdam 2015<div style="clear:both;"></div>
 
 
