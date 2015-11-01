@@ -1,4 +1,4 @@
-Title: podcast: international open podcast episode 001
+Title: international open podcast episode 001
 Date: 2015-10-20 18:30
 Modified: 2015-10-26 23:54
 tags: coding, report, conference

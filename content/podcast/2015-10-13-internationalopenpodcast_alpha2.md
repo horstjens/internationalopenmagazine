@@ -1,4 +1,4 @@
-Title: podcast: international open podcast alpha 2
+Title: international open podcast alpha 2
 Date: 2015-10-13 18:30
 Modified: 2015-10-26 18:31
 tags: code, report

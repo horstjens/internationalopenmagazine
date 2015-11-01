@@ -1,4 +1,4 @@
-Title: podcast: international open podcast alpha1
+Title: international open podcast alpha1
 Date: 2015-08-25 18:30
 Modified: 2015-10-29 07:14
 tags: conference, code, report

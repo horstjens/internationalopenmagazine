@@ -5,10 +5,11 @@
     {% if articles %}
         {% for article in (articles_page.object_list if articles_page else articles) %}
             <article>
-                <h4>
-                    <time datetime="{{ article.date.isoformat() }}"> {{ article.date|strftime('%Y-%m-%d') }}</time>
-                    <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-                </h4>
+                <!--h4-->
+                    <!--<time datetime="{{ article.date.isoformat() }}"> {{ article.date|strftime('%Y-%m-%d') }}</time>
+                    <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>-->
+                    <p> <span class="categories-timestamp"><i class="fa fa-calendar padding-small"></i><time datetime="{{ article.date.isoformat() }}"> {{ article.date|strftime('%Y-%m-%d') }} </time></span>  <i class="fa fa-folder-open padding-small"></i><i>{{ article.category }}</i>: <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>     <i class="fa fa-tags padding-small"></i> {% for tag in article.tags %} <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %} / {% endif %}{% endfor %} by {% for author in article.authors %} <a href="{{ SITEURL }}/{{ author.url }}"><i class="fa fa-user padding-small"></i>{{ author }}</a>{% endfor %}</p>
+                <!--/h4-->
             </article>
         {% endfor %}
     {% endif %}

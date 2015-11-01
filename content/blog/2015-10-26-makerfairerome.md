@@ -1,7 +1,7 @@
 Title: Maker Faire Rome - article in progress
 Date: 2015-10-26 18:42
 Modified: 2015-10-26 18:42
-tags: report, conference, 
+tags: report, conference
 Slug: 2015-10-26-makerfairerome
 status: draft
 Authors: JENS Horst

@@ -231,7 +231,7 @@
                 {% endif %}
                 
                 
-                {% if HORST_MENU %} <!-- was: DISPLAY_TAGS_ON_MENU -->
+                <!-- was: DISPLAY_TAGS_ON_MENU HORST_MENU --> 
 
                 <li class="nav-divider"></li>
                 <li>
@@ -242,18 +242,23 @@
                 </li>
                 <li class="panel anti-panel">
                     <ul id="collapse-tags" class="sidebar_submenu collapse {% block collapse_tags %}{% endblock %}">
-                         <!--wo sind die tags-->
-                         <li><a href="{{ SITEURL }}/tag/report.html"><i class="fa fa-tag padding-small"></i>report <span class="badge pull-right categorybadge">{{ REPORT }}</span></a></li>
-                         <li><a href="{{ SITEURL }}/tag/review.html"><i class="fa fa-tag padding-small"></i>review <span class="badge pull-right categorybadge">{{ REVIEW }}</span></a></li>
-                         <li><a href="{{ SITEURL }}/tag/coding.html"><i class="fa fa-tag padding-small"></i>coding <span class="badge pull-right categorybadge">{{ CODING }}</span></a></li>
-                         <li><a href="{{ SITEURL }}/tag/making.html"><i class="fa fa-tag padding-small"></i>making <span class="badge pull-right categorybadge">{{ MAKING }}</span></a></li>
-                         <li><a href="{{ SITEURL }}/tag/teaching.html"><i class="fa fa-tag padding-small"></i>teaching <span class="badge pull-right categorybadge">{{ TEACHING }}</span></a></li>
-                         <li><small><a href="{{ SITEURL }}/tags"><i class="fa fa-tags padding-small"></i>list of all tags</a></small></li>
-                         <li><small><a href="{{ SITEURL }}/authors"><i class="fa fa-tags padding-small"></i>list of all authors</a></small></li>
+                         <!--da sind die tags-->
+                         
+                         
+                         {% for sidetag in SIDEMENUTAGS %}
+                            {% for tag, article in tags %}
+                               {% if tag == sidetag %}
+                            <li><a href="{{ SITEURL }}/{{ tag.url }}"><i class="fa fa-tag padding-small"></i>{{ tag }}<span class="badge pull-right categorybadge">{{ article|count }}</span></a></li>
+                               {% endif %}
+                            {% endfor %}
+                         {% endfor %}
+                         
+                         <li><small><a href="{{ SITEURL }}/tags.html"><i class="fa fa-tags padding-small"></i>list of all tags</a></small></li>
+                         <li><small><a href="{{ SITEURL }}/authors.html"><i class="fa fa-tags padding-small"></i>list of all authors</a></small></li>
      
-                    Horst end -->
+                    <!--Horst end -->
                     </ul></li>
-                {% endif %}
+                <!-- da war ein endif -->
 
                 <!-- SOCIAL NETWORKS ------------------         -->
                 {% if SOCIAL %}  <!-- discuss, social -->

@@ -1,4 +1,4 @@
-Title: report: the games of zam spielen 
+Title: the games of "zam spielen" in Vienna
 Date: 2015-09-08 19:00
 Modified: 2015-10-29 07:28
 Tags: report, art, games, Vienna

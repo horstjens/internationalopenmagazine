@@ -1,4 +1,4 @@
-Title: report: Maker Faire Rome 2015
+Title: my trip to Maker Faire Rome 2015
 Date: 2015-10-27 14:30
 Modfied: 2015-10-29 08:23
 Tags: report, conference, making
