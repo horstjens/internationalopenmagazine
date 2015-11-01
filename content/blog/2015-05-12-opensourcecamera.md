@@ -2,6 +2,10 @@ Title: axiom open source film camera
 Date: 2015-05-12 16:00
 Tags: event, report, making
 Authors: JENS Horst
+ICBM: 48.23967, 16.37785
+GeoRegion: AT-9
+GeoPlacename: Vienna
+GeoPosition: 48.23967;16.37785
 Slug: 2015-05-12-opensourcecamera
 Summary: <div style="float: left; padding:5px"><img src="http://spielend-programmieren.at/blog/images/20150512_axiom.jpg" width="100" alt="axiom camera"></div>impressions of the open source/open hardware camera project AXIOM (seen on Linuxtage Wien) and axiom teams' insights given in a talk about crowdfunding <div style="clear:both;"></div>
 

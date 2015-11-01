@@ -19,9 +19,20 @@
     {% if article.summary %}
         <meta name="description" content="{{ article.summary|striptags|escape }}" />
     {% endif %}
+    
     {% if article.icbm %}
         <meta name="ICBM" content="{{ article.icbm }}" />
     {% endif %}
+    {% if article.geoposition %}
+        <meta name="geo.position" content="{{ article.geoposition }}" />
+    {% endif %}
+    {% if article.geoplacename %}
+        <meta name="geo.placename" content="{{ article.geoplacename }}" />
+    {% endif %}
+    {% if article.geoplacename %}
+        <meta name="geo.region" content="{{ article.georegion }}" />
+    {% endif %}
+    
     
     
 {% endblock %}

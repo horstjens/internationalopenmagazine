@@ -10,20 +10,19 @@
                  
                  <span>Author{% if article.authors|count > 1 %}s{% endif %}: </span>
                 {% for author in article.authors %}
-                      <!-- <a href="{{ SITEURL }}/{{ article.author.url }}">--> <a href="{{ SITEURL }}/pages/team.html"><i class="fa fa-user padding-small"></i>{{ author }} </a>
+                      <!-- <a href="{{ SITEURL }}/{{ article.author.url }}">--> <a href="{{ SITEURL }}/{{ article.author.url }}"><i class="fa fa-user padding-small"></i>{{ author }} </a>
                 {% endfor %}
-            <!-- {% endif %}
-            {% if article.author %} -->
             {% else %}
                 <span>Author: </span>
-                <!-- <a href="{{ SITEURL }}/{{ article.author.url }}">--><a href="{{ SITEURL }}/pages/team.html"><i class="fa fa-user padding-small"></i>{{ article.author }}</a>
+                <!-- <a href="{{ SITEURL }}/{{ article.author.url }}">--><a href="{{ SITEURL }}/{{ article.author.url }}"><i class="fa fa-user padding-small"></i>{{ article.author }}</a>
             {% endif %}
             
             <span class="category">
-                <i class="fa fa-folder-open padding-small"></i><a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+                 <i class="fa fa-folder-open padding-small"></i><a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
             </span>
             {% if article.icbm %}
-                Geodata: <a href="http://www.openstreetmap.org/#map=16;{{ article.icbm|replace(", ","/") }}">{{ article.icbm }}</a>
+            {% set geolist = article.icbm.split(',') %}            
+                Geodata: <a href="http://www.openstreetmap.org/?mlat={{- geolist[0] }}&mlon={{- geolist[1] }}#map=16/{{ article.icbm|replace(", ","/") }}&layers=N">{{ article.icbm }}</a>
             {% endif %}
             {% if article.tags %}
             <span class="tags">

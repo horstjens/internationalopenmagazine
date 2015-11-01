@@ -4,12 +4,12 @@ Modfied: <!-- format: YYYY-MM-DD HH:MM -->
 Tags:    <!-- comma seperated tags. -->
 Status: published <!-- change "published" into "draft" if you want to that the article to be not visible without knowing the exact url -->
 Slug:    <! -- please use as slugname YYYY-MM-DD-SLUGTITLE Make sure on webpage/github that your date-slugtitle combo is not already in use. The slug can NOT be changed later, it's the url of your article. if you cover a topic that may be covered by another authors as well (a main event, conference etc) include your name or callsign into the slugtitle. Important: if you use additional media (audio, images etc.) please create a new folder named like your slugtitle inside "content/images" -->
-Authors: <! -- comma seperated list of author(s). Please use: Firstname LASTNAME (capitalizing the last name) -->
-geo.positoin: 35.1592;-98.4422;410       <!-- replace with your data see https://en.wikipedia.org/wiki/Geotagging or http://geotags.com/geo/geotags2.html-->   
-geo.placename:                           <!-- see https://en.wikipedia.org/wiki/Geotagging or http://geotags.com/geo/geotags2.html-->   
-geo.region:                              <!-- see https://en.wikipedia.org/wiki/Geotagging or http://geotags.com/geo/geotags2.html-->   
+Authors: <! -- comma seperated list of author(s). Please use: LASTNAME Firstname (capitalizing the last name) -->
+ICBM: 48.224938, 16.368992                <!-- replace this with your geodata. use http://www.geo-tag.de/generator/en.html-->
+GeoPosition: 48.224938; 16.368992        <!-- replace with your data see https://en.wikipedia.org/wiki/Geotagging or http://geotags.com/geo/geotags2.html-->   
+GeoPlacename: Wien                          <!-- see https://en.wikipedia.org/wiki/Geotagging or http://geotags.com/geo/geotags2.html-->   
+GeoRegion:  AT-9                            <!-- see https://en.wikipedia.org/wiki/Geotagging or http://geotags.com/geo/geotags2.html-->   
 Summary: <div style="float: left; padding:5px"><img src="SUMMARYIMAGEURL" width="100" alt="SUMMARYIMAGEALTTEXT"></div>SUMMARY TEXT WITHOUT NEW LINE<div style="clear:both;"></div>
-
 
 <div style="float:right; padding: 5px; margin: 5px; background-color: #bbbbbb;"> 
 <b>Name</b>: <a href="YOUR HOMEPAGE">Firstname LASTNAME</a><br>

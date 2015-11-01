@@ -1,3 +1,12 @@
+'''python3 script to recursive walk throug all non-draft files inside the
+content folder and extract information
+
+no longer necessary since i found out how to do count tags with 
+pelican itself. The script may be useful for other purposes,
+like automatic replacement or counting of strings
+'''
+
+
 import os
 
 tagger = { "teaching" : 0,
