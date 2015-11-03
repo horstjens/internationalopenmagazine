@@ -48,7 +48,7 @@ In Cape Town, South Africa, whoever you talked to, from the hotel concierge staf
 The Cape Town Science Centre has run 5 Scratch workshops a day, for 10 days. Many children came with their parents or were brought by school buses during that week.
 I'm glad I could get there in time to join them and participate of the Scratch workshops.
 
-![africacodeweek](/images/2015-11-02-heloisa_zal_africacodeweek/zal1.png) ![africacodeweek](/images/2015-11-02-heloisa_zal_africacodeweek/zal2.png) ![africacodeweek](/images/2015-11-02-heloisa_zal_africacodeweek/zal3.png) ![africacodeweek](/images/2015-11-02-heloisa_zal_africacodeweek/zal4.png) ![africacodeweek](/images/2015-11-02-heloisa_zal_africacodeweek/zal5.png) ![africacodeweek](/images/2015-11-02-heloisa_zal_africacodeweek/zal6.png) 
+![africacodeweek](/images/2015-11-02-heloisa_zal_africacodeweek/zal1.png) ![africacodeweek](/images/2015-11-02-heloisa_zal_africacodeweek/zal2.png) ![africacodeweek](/images/2015-11-02-heloisa_zal_africacodeweek/zal3.png) ![africacodeweek](/images/2015-11-02-heloisa_zal_africacodeweek/zal4.png)  ![africacodeweek](/images/2015-11-02-heloisa_zal_africacodeweek/zal6.png) 
 
 The three guys who were in charge of the Scratch workshops, very welcomed me in the activities. It was such a wonderful experience to meet this people and work on Scratch with African children! 
 
