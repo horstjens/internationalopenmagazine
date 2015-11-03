@@ -21,8 +21,10 @@ Summary: <div style="float: left; padding:5px"><img src="SUMMARYIMAGEURL" width=
 <b>License</b> of text and photos:<br>
 <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa88x31.png" alt="cc-by-sa"></a><br>
 <b>Donate author</b>: <a href="DONATE URL">DONATE TEXT</a><br>
-<b>Location</b>: <a href="https://www.google.at/maps/@52.3727389,4.8977752,16z">52.3727389,4.8977752]</a><br> <!-- replace with your geo data -->
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2435.868160198496!2d4.8980969506934535!3d52.37281055478109!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609b93deae857%3A0xa3c3b57e66c44946!2sWaag+Society!5e0!3m2!1sde!2sat!4v1446096753374" width="250" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+<b>Location</b>: <a href="http://www.openstreetmap.org/?mlat=-34.18993780387419&mlon=%2018.937339782714844#map=16/-34.18993780387419/18.937339782714844&layers=N<br> <!-- replace with your geo data -->
+<iframe width="250" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=18.937339782714844%2C-34.18993780387419%2C19.050636291503906%2C-34.13027893649785&amp;layer=mapnik&amp;marker=-34.16011363932644%2C18.993988037109375" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=-34.18993780387419&amp;mlon=19.050636291503906#map=14/-34.18993780387419/19.050636291503906&amp;layers=N">View Larger Map</a></small>
+</div>
+
 </div>
 
 # HEADLINE
