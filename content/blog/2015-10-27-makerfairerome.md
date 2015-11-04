@@ -1,6 +1,6 @@
 Title: my trip to Maker Faire Rome 2015
 Date: 2015-10-27 14:30
-Modfied: 2015-10-29 08:23
+Modfied: 2015-11-04 08:23
 Tags: report, conference, making
 Slug: 2015-10-27-makerfairerome
 ICBM: 41.902771, 12.511618
@@ -8,21 +8,21 @@ GeoRegion: IT-RM
 GeoPlacename: Roma
 GeoPosition: 41.902771; 12.511618
 Authors: JENS Horst
-Summary: <div style="float: left; padding:5px"><img src="http://internationalopenmagazine.org/images/2015-10-27-makerfairerome/makerlogo.jpg" width="100" alt="Maker Faire rome logo"></div>Report of my visit to the Maker Faire Rome 2015 with many photos and some personal impressions of Rome, Italians and the Maker movement. Enriched with travel tips, a promise to come back next year and "how to troll the press center" and "how to make Makers happy" tutorials.<div style="clear:both;"></div>
+Summary: <div style="float: left; padding:5px"><img src="/images/2015-10-27-makerfairerome/makerlogo.jpg" height="100" alt="Maker Faire rome logo"> <img src="/images/horst.png" alt="horst" height="100"></div>Report of my visit to the Maker Faire Rome 2015 with many photos and some personal impressions of Rome, Italians and the Maker movement. Enriched with travel tips, a promise to come back next year and "how to troll the press center" and "how to make Makers happy" tutorials.<div style="clear:both;"></div>
 
-
-<div style="float:right; padding: 5px; margin: 5px; background-color: #BBBBBB;">
+<div style="float:right; padding: 5px; margin: 5px; background-color: #BBBBBB; width:260px;">
 <b>Name</b>: <a href="http://spielend-programmieren.at/de:kontakt">Horst JENS</a><br>
 <b>Contact</a></b>: <a href="http://spielend-programmieren.at/de:kontakt">horstjens@gmail.com</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/jK0zv4">http://goo.gl/jK0zv4</a><br>
-<b>Hashtag</b>: <tt>&#35;FR15</tt><br>
+<b>Hashtag</b>: <tt>&#35;MFR15</tt><br>
 <b>Fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/blog/2015-10-27-makerfairerome.md">on Github</a><br>
 <b>Extras:</b>: <a href="https://flic.kr/s/aHsknsYBvd">photo album</a>, <a href="http://internationalopenmagazine.org/2015-10-20-internationalopenpodcast_episode_001.html">podcast</a><br>
-<b>License</b>: of text and photos:<br>
-<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa88x31.png" alt="cc-by-sa"></a><br>
+<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa88x31.png" align="right" alt="cc-by-sa"></a><b>License</b> for text and photos in this article, unless indicated otherwise (e.g. <i>Image rights</i> notice below pictures): <a href="https://creativecommons.org/licenses/by-sa/4.0/">creative commons attribute share-alike 4.0</a><br>
+<b>Location</b>: <a href="http://www.openstreetmap.org/?mlat=41.9025&amp;mlon=12.5147#map=16/41.9025/12.5147">41.9024844,12.5139454</a><br>
+<iframe width="250" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=12.500488758087156%2C41.8954093035243%2C12.528812885284424%2C41.909639073973274&amp;layer=mapnik&amp;marker=41.90252458514959%2C12.514650821685791" style="border: 1px solid black"></iframe><br>
+<img src="/images/horst.png" width="100" alt="Horst" align="right">
+<b>about the author</b>: Horst JENS runs <a href="http://spielend-programmieren.at">spielend-programmieren.at</a>, an afternoon programming school for children</a> in Vienna, Austria. He makes a weekly <a href="http://biertaucher.at">podcast in German language</a> and is interested in everything about teaching <a href="http://python.org">Python</a>, game programming and <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">open source/ free sofware</a> values to children.<br>
 <b>Donate author</b>: <script id='fbxryof'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//api.flattr.com/button/view/?uid=horstjens&button=compact&url=http%3A%2F%2Finternationalopenmagazine.org%2F2015-10-27-makerfairerome.html';f.title='Flattr';f.height=20;f.width=110;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fbxryof');</script><br>other options: <a href="http://spielend-programmieren.at/de:kontakt#spenden">Bitcoin, PayPal, etc</a><br>
-<b>Location</b>: <a href="https://www.google.at/maps/@41.9024844,12.5139454,16.25z?hl=en">41.9024844,12.5139454]</a><br>
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d4994.17177517052!2d12.513945374714327!3d41.9024843895056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sde!2sat!4v1445958697681" width="250" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 

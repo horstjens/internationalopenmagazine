@@ -1,6 +1,6 @@
 Title: interview with "Scratch for kids for dummies" author Derek Breen
 Date: 2015-10-29 13:30
-Modfied: 2015-10-29 13:30
+Modfied: 2015-11-04 21:00
 Tags: interview, coding, art, review, books
 Slug: 2015-10-29-lucyderek
 ICBM: 48.224938, 16.368992
@@ -8,23 +8,21 @@ GeoRegion: AT-9
 GeoPlacename: Wien
 GeoPosition: 48.224938; 16.368992
 Authors: HOCHGSTÖTTNER Lucy, BREEN Derek
-Summary: <div style="float: left; padding:5px"><img src="https://farm6.staticflickr.com/5822/22402082165_40c1201c67_t.jpg" width="100" alt="Lucy Derek interview"></div>Lucy (student at [spielend-programmieren programming courses](http://spielend-programmieren.at)) makes her first interview with Derek Breen about his book: **Scratch for kids for dummies**<div style="clear:both;"></div>
+Summary: <div style="float: left; padding:5px"><img src="https://farm1.staticflickr.com/722/22412924311_d1fb196f39_t.jpg" height="100" alt="Lucy"> <img src="https://farm6.staticflickr.com/5676/22412924671_05fa0341d9_t.jpg" height="100" alt="Derek"></div>Lucy (student at [spielend-programmieren programming courses](http://spielend-programmieren.at)) makes her first interview with Derek Breen about his book: **Scratch for kids for dummies**<div style="clear:both;"></div>
 
-<div style="float:right; padding: 5px; margin: 5px; background-color: #BBBBBB;">
+<div style="float:right; padding: 5px; margin: 5px; background-color: #BBBBBB; width:260px;" >
 <b>Name</b>: <a href="http://spielend-programmieren.at/de:kontakt">Lucy Hochgstöttner</a><br>
 <b>Contact</b> <br>
 <b>Shorturl</b>:<a href="http://goo.gl/ocKBPI">http://goo.gl/ocKBPI</a><br>
 <b>Hashtag</b>: <tt>&#35;spielendprogrammieren</tt><br>
 <b>Fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/blog/2015-10-29-lucyderek.md">on Github</a> <br>
 <b>Extras:</b>: <a href="images/2015-10-29-lucyderek/2015-10-22_interview_lucy_interviews_derek_breen_about_scratch_for_kids_for_dummies.mp3">raw audio interview (mp3)</a><br>
-<b>License</b>: of text and audio and photos:<br>
-<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa88x31.png" alt="cc-by-sa"></a><br>
+<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa88x31.png" align="right" alt="cc-by-sa"></a><b>License</b> for text and photos in this article, unless indicated otherwise (e.g. <i>Image rights</i> notice below pictures): <a href="https://creativecommons.org/licenses/by-sa/4.0/">creative commons attribute share-alike 4.0</a> <br>
 <b>Donate author</b>: <br>
-<b>Location</b>: <a href="https://www.google.at/maps/@48.2249416,16.366798,17z">48.2249416,16.366798]</a><br>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2658.048453829774!2d16.36680331568662!3d48.224941553050954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07b16b804ab3%3A0x83df4b1ccdfda427!2sspielend+programmieren!5e0!3m2!1sen!2sat!4v1446120127479" width="250" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
-
-Lucy, learning to code [Python](http://python.org) at [Horst](http://spielend-programmieren.at/de:kontakt)'s afternoon [programming courses](http://spielend-programmieren.at), was recruited to do her first ever professional interview with world travelling artist and book author [Derek Breen](http://twitter.com/breenworks).
+<b>Location</b>: <a href="http://www.openstreetmap.org/?mlat=48.22489&amp;mlon=16.36903#map=19/48.22489/16.36903">48.2249416,16.366798</a><br>
+<iframe width="250" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=16.36726051568985%2C48.22409547173156%2C16.370801031589508%2C48.225687609040826&amp;layer=mapnik&amp;marker=48.22489065312164%2C16.36903077363968" style="border: 1px solid black"></iframe><br>
+<img src="images/2015-10-29-lucyderek/lucyportrait.png" alt="lucy" align="right" width="100"><b>about the author</b>: 
+Lucy still goes to school and is currently learning to code <a href="http://python.org">Python</a> games at <a href="http://spielend-programmieren.at/de:kontakt">Horst's</a> afternoon courses (<a href="http://spielend-programmieren.at">http://spielend-programmieren.at</a>). After a lesson, she was recruited to do her first ever professional interview with world travelling artist and book author <a href="http://twitter.com/breenworks">Derek BREEN</a>.</div>
 
 
 ## transcript

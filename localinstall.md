@@ -54,11 +54,15 @@ why to do that:
 
   * make sure you are inside the `internationalopenmagazine` folder
   * install pelican as described here: http://docs.getpelican.com/en/3.6.3/index.html
-    * i always use this method:
     
-    sudo pip install -e "git+https://github.com/getpelican/pelican.git#egg=pelican"
-    sudo pip install Markdown
-    sudo pip install typogrify
+    * sudo apt-get install python-pelican
+    
+    had problems with this method
+    #* i always use this method:
+    #
+    #sudo pip install -e "git+https://github.com/getpelican/pelican.git#egg=pelican"
+    #sudo pip install Markdown
+    #sudo pip install typogrify
     
   * check out the installed themes
   
