@@ -4,7 +4,7 @@ Modfied: 2015-11-01 10:11
 Tags:  internal 
 Status: published 
 Slug: 2015-11-01-collecting
-Authors: JENS, Horst 
+Authors: JENS Horst 
 ICBM: 48.239636, 16.37775               
 GeoPosition: 48.239636: 16.37775        
 GeoPlacename:  Wien                         

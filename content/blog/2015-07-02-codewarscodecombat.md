@@ -3,10 +3,25 @@ Date: 2015-07-02 11:30
 Tags: coding, teaching, review
 Slug: 2015-07-02-codewarscodecombat
 Authors: JENS Horst 
-Summary: <div style="float: left; padding:5px"><img src="http://spielend-programmieren.at/blog/images/20150702_codecombat.png" width="100" alt="logo"></div>A quick look into two interesting, open-source aware websites to learn and train coding skills: codecombat.com and codewars.com<div style="clear:both;"></div>
+Summary: <div style="float: left; padding:5px"><img src="http://spielend-programmieren.at/blog/images/20150702_codecombat.png" height="100" alt="logo"><img src="/images/horst.png" alt="Horst JENS" height="100"></div>A quick look into two interesting, open-source aware websites to learn and train coding skills: codecombat.com and codewars.com<div style="clear:both;"></div>
+
+<div style="float:right; padding: 5px; width:260px; margin: 5px; background-color: #BBBBBB;">
+<b>Name</b>: <a href="http://spielend-programmieren.at/de:kontakt">Horst JENS</a><br>
+<b>Contact</a></b>: <a href="http://spielend-programmieren.at/de:kontakt">horstjens@gmail.com</a><br>
+<b>Shorturl</b>: <a href="http://goo.gl/qZqajP">http://goo.gl/qZqajP</a><br>
+<b>Hashtag</b>: <tt>#spielendporgrammieren</tt><br>
+<b>Fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/blog/2015-07-02-codewarscodecombat.md">on Github</a><br>
+<b>Extras</b>: None<br>
+<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa88x31.png" align="right" alt="cc-by-sa"></a><b>License</b> for text and photos in this article, unless indicated otherwise (e.g. <i>Image rights</i> notice below pictures): <a href="https://creativecommons.org/licenses/by-sa/4.0/">creative commons attribute share-alike 4.0</a> <br>
+<b>Location</b>: <a href="http://www.openstreetmap.org/?mlat=52.37275&amp;mlon=4.90031#map=19/52.37275/4.90031">52.3727389,4.8977752</a><br>
+<img src="/images/horst.png" width="100" alt="Horst" align="right">
+<b>about the author</b>: Horst JENS likes the values of the <a href="https://en.wikipedia.org/wiki/Free_software_movement">free software movement</a> and is interested in everything about teaching <a href="http://python.org">Python</a> and <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">open source</a> game programming to children. He runs an <a href="http://spielend-programmieren.at">afternoon programming school for children in Vienna, Austria</a>. He enjoys making an weekly <a href="http://biertaucher.at">nerd podcast in German language</a> together with friends.<br> 
+<b>Donate author</b>:<script id='fbjc8gy'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//api.flattr.com/button/view/?uid=horstjens&button=compact&url=http%3A%2F%2Finternationalopenmagazine.org%2F2015-07-02-codewarscodecombat.html';f.title='Flattr';f.height=20;f.width=110;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fbjc8gy');</script><br>other options: <a href="http://spielend-programmieren.at/de:kontakt#spenden">Bitcoin, PayPal, etc</a><br>
+</div>
+
+*This article was first published on the [open everything blog](http://goo.gl/4lnyTe) of Horst JENS*
 
 # learn to code
-<small><a href="http://goo.gl/4lnyTe">This article</a> was first published on the "<a href="http://spielend-programmieren.at/blog">open everything" blog</a> of Horst JENS. Shortlink: http://goo.gl/4lnyTe</small>
 
 I recently  [stumbled](https://www.reddit.com/r/Python/comments/3bgjud/you_sit_down_with_your_machine_and_a_person_who/csmd4yz) upon two different websites offering the possibility to learn and train coding skills:
 
@@ -18,30 +33,20 @@ Both websites use a free software philosophy (all code examples [free licensed](
 
 # CodeCombat
 
-<div align="center">
-<dl style="background-color: #dddddd;">
-<br>
-<dt>
+
 <a href="http://codecombat.com"><img border="0" src="http://spielend-programmieren.at/blog/images/20150702_codecombat.png" width="800"></a>
-</dt>
-<dd>Artwork of the <a href="http://codecombat.com">CodeCombat</a> start page</dd>
-</dl>
-</div>
+<br>
+<small>Screenshot of CodeCombat. Image rights: <a href="http://codecombat.com">CodeCombat</a></small>
 
 CodeCombat focus on [gameification](https://en.wikipedia.org/wiki/Gamification) and is suitable for a younger audience. If you like RPG games with cartoon fantasy graphics, you will like it. The concept of code combat build up from older learn-to-code systems such as [Rurple](https://en.wikipedia.org/wiki/RUR-PLE), [Karel](https://en.wikipedia.org/wiki/Karel_(programming_language)) and other programming enviroments. The screen is splitted into a coding editor (right half) and a labyrinth or level on the left half. Placed inside the labyrinth is a (beautiful painted) avatar, to be controlled by the player using a restricted set of commands, like `self.moveDown()`, `self.moveRight()`, `self.attack(self.findNearestEnemy())` etc. Those commands have to be typed correctly in the code editor to control the avatar. Incorrect programs with logical faults (like commanding the avatar to run against a wall) will let the avatar loose hitpoints and die, like in a computer game. 
  
 The student/player has in each level a task to complete, usually to collect gems with the avatar, defeat monsters and move to the exit of a level. Gradually, the player is introduced into new commands, like loops, conditionals and variables. Diamonds collected in a level can be invested between levels in better armor, weapons and programming commands (cleverly symbolized as spellbooks and magic devices) to master the increasingly more tricky tasks in the higher levels.
 
 
-<div align="center">
-<dl style="background-color: #dddddd;">
-<br>
-<dt>
+
 <a href="https://en.wikipedia.org/wiki/RUR-PLE#/media/File:RUR-PLE-Python_Learning_Environment.png"><img border="0" src="http://spielend-programmieren.at/blog/images/20150702_rurple.png" width="800"></a>
-</dt>
-<dd><a href="http://rur-ple.sourceforge.net/">Rurple</a>, one of many code-learing enviroments</dd>
-</dl>
-</div>
+<br>
+<small>Screenshot of Rur-ple. Image rights: <a href="http://rur-ple.sourceforge.net/">Rurple</a>, one of many code-learing enviroments</small>
 
 Code Combat begins with a slow learning curve, suitable for children who never had coding experience before. As the player makes progress and solves more and more levels, the tasks involve more complex programming concepts. Most important, the levels itself become more complex due to more possible interaction with the objects in the game world: fences can be buid, fire traps can be set, enemys can be lured into minefields, special weapons allow special attacks with a cooldown timer etc. 
 
@@ -65,15 +70,9 @@ As the complete Codecombat source code is on Github, [forkers](https://en.wikipe
 
 CodeCombat seeks the participation of users for level-design, coding, translation and other task. I look especially forward into community-created content of teachers and educators, like lesson plans or best-practice guidebooks of how to integrate codecombat sessions into computer science courses.
 
-<div align="center">
-<dl style="background-color: #dddddd;">
-<br>
-<dt>
 <a href="http://codecombat.com/contribute"><img border="0" src="http://spielend-programmieren.at/blog/images/20150702_codecombatcontribute.png" width="800"></a>
-</dt>
-<dd>Participating is possible in many ways at <a href="http://codecombat.com/contribute">CodeCombat</a></dd>
-</dl>
-</div>
+<br>
+<small>Participating is possible in many ways at <a href="http://codecombat.com/contribute">CodeCombat</a></small>
 
 
 ## teaching experience 
@@ -115,15 +114,9 @@ Included is an in-build web forum were solutions of a kata can be discussed.
 
 There is not much gameification in Codewars, but solving katas will slowly raise the rank of a student, as do other activities, such as submitting your own katas.
 
-<div align="center">
-<dl style="background-color: #dddddd;">
-<br>
-<dt>
 <a href="http://www.codewars.com/kata/simple-pig-latin/python"><img border="0" src="http://spielend-programmieren.at/blog/images/20150702_codewars.png" width="800"></a>
-</dt>
-<dd>From the pythonic verbose to the perl-like on-liner: There exist many different solutions for a <a href="http://www.codewars.com/kata/simple-pig-latin/python">pig latin kata</a></dd>
-</dl>
-</div>
+<br>
+<small>From the pythonic verbose to the perl-like on-liner: There exist many different solutions for a <a href="http://www.codewars.com/kata/simple-pig-latin/python">pig latin kata</a></small>
 
 
 ## Kumite
@@ -156,9 +149,7 @@ I have nothing at all to critisize about CodeWars. I just wonder about CodeWars 
 <hr>
 
   * This article was republished on July 30, 2015 at [OpenSource.com](http://opensource.com/education/15/7/codewars-codecombat-review), thanks to [Jen Wike Huger](https://twitter.com/JenWike).
-  * This article was republished on October 29, 2015 at [internationalopenmagazine](http://internationalopenmagazine.org)
-
-
+ 
 
 
 # advertisement (google adsense)

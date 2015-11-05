@@ -1,6 +1,6 @@
 Title: Jane Austen on Python: The intersection of literature and tech
 Date:  2015-11-04 00:00   
-Modfied: 2015-11-04 00:00 
+Modfied: 2015-11-05 07:17 
 Tags: python, coding, art
 Status: published 
 Slug:   2015-10-06-janeausten 
@@ -9,7 +9,7 @@ ICBM: 30.267153, -97.743061
 GeoPosition: 30.267153;-97.743061
 GeoPlacename: Austin
 GeoRegion:  US-TX
-Summary: <div style="float: left; padding:5px"><img src="/images/2015-10-06-janeausten/jane_austen.jpg" alt="Jane Austen" height="100"><img src="/images/2015-10-06-janeausten/LaceyWilliamsHenschel.jpg" height="100" alt="Lacey Williams Henschel"></div>Lacey Williams Henschel draws fascinating parallels between coding python and writing novels.<div style="clear:both;"></div>
+Summary: <div style="float: left; margin:5px"><img src="/images/2015-10-06-janeausten/jane_austen.jpg" alt="Jane Austen" height="100"><img src="/images/2015-10-06-janeausten/LaceyWilliamsHenschel.jpg" height="100" alt="Lacey Williams Henschel"></div>Lacey Williams Henschel draws fascinating parallels between coding python and writing novels, and explores the connection of style guides for for both.<div style="clear:both;"></div>
 
 <div style="float:right; width:260px; padding: 5px; margin: 5px; background-color: #bbbbbb;"> 
 <b>Name</b>: <a href="https://www.linkedin.com/profile/in/laceynwilliams">Lacey WILLIAMS HENSCHEL</a><br>
@@ -26,7 +26,9 @@ Summary: <div style="float: left; padding:5px"><img src="/images/2015-10-06-jane
 <b>Donate the author</b>: No donation address given yet<br>
 </div>
 
+<div style="float: left; margin: 5px; background-color: #cccccc"><a href="https://opensource.com/business/15/10/jane-austen-on-python"><img src="/images/opensourcecom.png" width="220" alt="opensource.com logo"></a><br><small>Logo & image rights: <a href="http://opensource.com">opensource.com</a></small></div>
 *This article was originally published 2015-oct-06 under a [creative-commons share-alike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/) at [opensource.com](https://opensource.com/business/15/10/jane-austen-on-python)*
+<div style="clear:left;"></div>
 
 <p>This article is for the English majors, the bookworms, the lovers of literature, and the people with humanities backgrounds who sometimes struggle with the question, "So do you ever use your English degree?" It's also for the people who've asked that question of their colleagues with non-STEM backgrounds, who've been confused about how someone could start in psychology and end up in Python.</p>
 <!--break--></p>
@@ -45,8 +47,11 @@ Summary: <div style="float: left; padding:5px"><img src="/images/2015-10-06-jane
 <p>The broader point about Strunk &amp; White is that this is a guide written to help people write clearer, more concise, more consistent, more readable English. PEP8 is also a guide for helping people write clearer, more concise, more consistent, and more readable code.</p>
 </p>
 <h2>Plot-driven development</h2>
-<div style="float:left; margin: 20px;">
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/internetarchivebookimages/14777001832/in/photolist-ovMZPE-ovN3K9-oejR8Q-ovxACg-ovxyGT-ovxE8x-ovPNMP-ovN5mf-oejVe5" title="Image from page 106 of &quot;The novels and letters of Jane Austen&quot; (1906)"><img src="https://farm4.staticflickr.com/3842/14777001832_dff08f63a7_z.jpg" width="403" height="640" alt="Image from page 106 of &quot;The novels and letters of Jane Austen&quot; (1906)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
+
+<div style="float:right; margin: 20px; width=405; background-color: #bbbbbb;">
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/internetarchivebookimages/14774185771/in/photolist-ovMZPE-ovN3K9-oejR8Q-ovxACg-ovxyGT-ovxE8x-ovPNMP-ovN5mf-oejVe5/" title="Image from page 9 of &quot;The novels and letters of Jane Austen&quot; (1906)"><img src="https://farm4.staticflickr.com/3891/14774185771_75e08e83ea_z.jpg" width="405" height="640" alt="Image from page 9 of &quot;The novels and letters of Jane Austen&quot; (1906)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br><small>Image from page 9 of "The novels and letters of Jane Austen" (1906).<br><a href="https://www.flickr.com/commons/usage/">No known copyright restrictions</a></small>
+</div>
+
 <p>Let's talk about testing, because testing is a perfect example of where some concepts from your literature class might come in handy. Perhaps you remember the basics of <a href="https://en.wikipedia.org/wiki/Story_arc" target="_blank">story arc</a>:</p>
 <ul>
 <li>The exposition is where you learn who the characters are, where they are, and the basics of what is happening.</li>
@@ -72,6 +77,11 @@ Summary: <div style="float: left; padding:5px"><img src="/images/2015-10-06-jane
 <p>You know what else looks like an outline? Basically, all Python code. Python loves whitespace and indenting and pretty formatting, even more than an English major does.</p>
 <p>Python code actually uses a lot of the same formatting as many other written works, such as news stories, blog posts, novels, research papers, and even <a href="http://www.npr.org/sections/thesalt/2011/10/20/141554113/a-coconut-cake-from-emily-dickinson-reclusive-poet-passionate-baker" target="_blank">Emily Dickinson's handwritten coconut cake recipe</a>. Your function definition is like the title. And your <a href="https://www.python.org/dev/peps/pep-0257/" target="_blank">docstring</a> is like the abstract to a research paper, or the forward to a new edition of a favorite novel. The docstring tells you a little bit about what's coming, and it gives you a peek into the author's or programmer's mind. Then there's everything in the middle: the meat of the function, the paragraphs of the article or story. And finally, you conclude. You return something, and your journey through this particular function is over.</p>
 </p>
+
+<div style="float:right; margin: 20px; width=405; background-color: #bbbbbb;">
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/internetarchivebookimages/14777001832" title="Image from page 106 of &quot;The novels and letters of Jane Austen&quot; (1906)"><img src="https://farm4.staticflickr.com/3842/14777001832_dff08f63a7_z.jpg" width="403" height="640" alt="Image from page 106 of &quot;The novels and letters of Jane Austen&quot; (1906)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br><small>Image from page 106 of "The novels and letters of Jane Austen" (1906).<br><a href="https://www.flickr.com/commons/usage/">No known copyright restrictions</a></small>
+</div>
+
 <h2>Readability counts</h2>
 <p>A well-written piece of code will be readable, but what do we even mean by that? Machines don't need code to be readable, but in <a href="https://www.python.org/dev/peps/pep-0020/" target="_blank">PEP20: The Zen of Python</a>, Tim Peters is pretty clear that <i>readability counts</i>. The computer or compiler (or whatever) doesn't care at all if your code is a mess, as long as it works. But your colleagues care. The people who come after you care. The people who share in your work need your code to be readable.</p>
 <p>Writing readable code requires empathy and means that you care about your fellow coder. Readable and conscientiously commented code also helps future programmers understand what you struggled with, or why you made decisions the way you did. Comments can even help you re-orient yourself in your own code. A friend of mine once said, "Comments are like love notes to yourself." A coworker likes to say that comments are what keep you sane at 3:00 AM when you get the phone call that something has gone catastrophically wrong.</p>

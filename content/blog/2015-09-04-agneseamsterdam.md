@@ -8,21 +8,22 @@ GeoRegion: NL-NH
 GeoPlacename: Amsterdam
 GeoPosition: 52.372774; 4.90035
 Authors: ADDONE Agnese
-Summary: <div style="float: left; padding:5px"><img src="images/2015-09-04-agneseamsterdam/io_catemos.jpg" width="100" alt="Maker Faire rome logo"></div>Agnese Addone tells what happened at the Scratch conference Amsterdam 2015<div style="clear:both;"></div>
+Summary: <div style="float: left; padding:5px"><img src="http://spielend-programmieren.at/blog/images/20150823_scratchansicht.jpg" alt="scratch podcard" height="100"><img src="images/2015-09-04-agneseamsterdam/io_catemos.jpg" height="100" alt="Maker Faire rome logo"></div>Agnese Addone tells what happened at the Scratch conference Amsterdam 2015<div style="clear:both;"></div>
 
 
-<div style="float:right; padding: 5px; margin: 5px; background-color: #BBBBBB;">
+<div style="float:right; padding: 5px; width:260px; margin: 5px; background-color: #BBBBBB;">
 <b>Name</b>: <a href="https://it.linkedin.com/pub/agnese-addone/94/ba7/a02/en">Agnese ADDONE</a><br>
 <b>Contact</b>: <a href="https://twitter.com/agaddone">@agaddone</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/6fNoGV">http://goo.gl/6fNoGV</a><br>
 <b>Hashtag</b>: <tt>&#35;ScratchAMS2015</tt><br>
 <b>Fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/blog/2015-09-04-agneseamsterdam.md">on Github</a><br>
 <b>Extras</b>: <a href="http://www.chefuturo.it/2015/09/scratch-conference-amsterdam/">Italian version</a><br>
-<b>License</b> of text and photos:<br>
-<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa88x31.png" alt="cc-by-sa"></a><br>
-<b>Donate author</b>: please contact her<br>
-<b>Location</b>: <a href="https://www.google.at/maps/@52.3727389,4.8977752,16z">52.3727389,4.8977752]</a><br>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2435.868160198496!2d4.8980969506934535!3d52.37281055478109!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609b93deae857%3A0xa3c3b57e66c44946!2sWaag+Society!5e0!3m2!1sde!2sat!4v1446096753374" width="250" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa88x31.png" align="right" alt="cc-by-sa"></a><b>License</b> for text and photos in this article, unless indicated otherwise (e.g. <i>Image rights</i> notice below pictures): <a href="https://creativecommons.org/licenses/by-sa/4.0/">creative commons attribute share-alike 4.0</a> <br>
+<b>Location</b>: <a href="http://www.openstreetmap.org/?mlat=52.37275&amp;mlon=4.90031#map=19/52.37275/4.90031">52.3727389,4.8977752</a><br>
+<iframe width="250" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=4.8985424637794495%2C52.37201958397327%2C4.902082979679108%2C52.37347863870885&amp;layer=mapnik&amp;marker=52.372748298592334%2C4.900312721729279" style="border: 1px solid black"></iframe><br>
+<img src="/images/2015-09-04-agneseamsterdam/io_catemos.jpg" alt="Agnese ADDONE" width="100" align="right">
+<b>About the author</b>: Agnese is an Italian teacher and education activist. She is very active on <a href="https://www.facebook.com/agnese.addone">social networks</a> and is an active part of the Italian <a href="http://codeweek.eu/">codeweek.eu</a> group.<br>
+<b>Donate author</b>: No donatian adress given (yet)<br>
 </div>
 
 # I tell you what happened at the Scratch Conference 2015 in Amsterdam

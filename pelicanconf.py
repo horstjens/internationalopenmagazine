@@ -95,4 +95,4 @@ DEFAULT_PAGINATION = 200
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-THEME = "twitchymagazine"
+THEME = "/home/horst/code/internationalopenmagazine/mythemes/twitchymagazine"
