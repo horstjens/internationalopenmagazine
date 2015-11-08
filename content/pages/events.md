@@ -2,7 +2,7 @@ Title: events
 Date: 2015-11-08 20:00
 Modified: 2015-11-08 20:00
 
-To add / modify an event, you can make those edits directly on [Github](https://github.com/horstjens/internationalopenmagazine/tree/master/content/pages). Don't forget to click the green "Send pull request" button on Github after editing!
+To add / modify an event, you can make those edits directly on [Github](https://github.com/horstjens/internationalopenmagazine/blob/master/content/pages/events.md). Don't forget to click the green "Send pull request" button on Github after editing!
 
 ## upcoming events
 
@@ -27,17 +27,3 @@ start date  | end date  |  country, location  |  event
 ## past events
 
 
-
-# advertisement (google adsense) 
-
-<hr style="height: 3px;">
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- intopenmag-unten -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-3535173094498375"
-     data-ad-slot="7210184316"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
