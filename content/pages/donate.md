@@ -1,6 +1,6 @@
 Title: donate
 Date: 2015-10-26 23:55
-Modified: 2015-10-26 23:55
+Modified: 2015-11-10 23:55
 Tags: internal
 
 
@@ -21,3 +21,7 @@ Donations are highly welcome and help keeping the the team motivated, the server
 
 You can find more detailed donation addresses [at the site of Horst JENS](http://spielend-programmieren.at/de:kontakt#spenden).
 
+
+## Amazon:
+
+By clicking on the Amazon partner links (mostly books and video images) in this podcast before shopping at Amazon you support the **international open magazin** (via Amazon partner program)

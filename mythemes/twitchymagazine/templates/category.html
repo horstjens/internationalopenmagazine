@@ -15,8 +15,11 @@
         <header class="page-header">
             
        {% if category == 'podcast' %}
-           <h1>all items in the category "{{ category }}" </h1>            
-                podcast feed coming soon
+           <h1>all items in the category "{{ category }}" </h1>
+           <hr>
+           <small>
+           podcast feeds: ogg format: <a href="http://spielend-programmieren.at/intopenpodcastogg.xml">intopenpodcastogg.xml</a></li>, mp3 format:  <a href="http://spielend-programmieren.at/intopenpodcast.xml">intopenpodcast.xml</a>
+           </small>            
        {% elif category == 'blog' %}
            <h1>all items in the category "{{ category }}" </h1>            
                 Most articles start as an blog entry
