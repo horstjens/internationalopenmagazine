@@ -7,6 +7,7 @@ GeoRegion: AT-9
 GeoPlacename: Vienna
 GeoPosition: 48.23967;16.37785
 Slug: 2015-05-12-opensourcecamera
+Summarytext: Impressions of the open source/open hardware camera project AXIOM (seen on Linuxtage Wien) and axiom teams' insights given in a talk about crowdfunding 
 Summary: <div style="float: left; padding:5px"><img src="http://spielend-programmieren.at/blog/images/20150512_axiom.jpg" height="100" alt="axiom camera"><img src="/images/horst.png" alt="Horst JENS" height="100"></div>Impressions of the open source/open hardware camera project AXIOM (seen on Linuxtage Wien) and axiom teams' insights given in a talk about crowdfunding <div style="clear:both;"></div>
 
 <div style="float:right; padding: 5px; margin: 5px; background-color: #BBBBBB; width:260px;">

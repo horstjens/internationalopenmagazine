@@ -3,6 +3,7 @@ Date: 2015-07-02 11:30
 Tags: coding, teaching, review
 Slug: 2015-07-02-codewarscodecombat
 Authors: JENS Horst 
+Summarytext: A quick look into two interesting, open-source aware websites to learn and train coding skills: codecombat.com and codewars.com
 Summary: <div style="float: left; padding:5px"><img src="http://spielend-programmieren.at/blog/images/20150702_codecombat.png" height="100" alt="logo"><img src="/images/horst.png" alt="Horst JENS" height="100"></div>A quick look into two interesting, open-source aware websites to learn and train coding skills: codecombat.com and codewars.com<div style="clear:both;"></div>
 
 <div style="float:right; padding: 5px; width:260px; margin: 5px; background-color: #BBBBBB;">

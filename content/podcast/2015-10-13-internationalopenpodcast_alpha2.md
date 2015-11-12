@@ -1,14 +1,16 @@
 Title: international open podcast alpha 2
 Date: 2015-10-13 18:30
 Modified: 2015-10-26 18:31
-tags: codeing, report
+tags: coding, report
 Slug: 2015-10-13-internationalopenpodcast_alpha2
 status: published
+Ogg: http://spielend-programmieren.at/biertaucherfiles/biertaucher226.ogg
 ICBM: 48.201724, 16.340746
 GeoRegion: AT-9
 GeoPlacename: Vienna
 GeoPosition: 48.201724; 16.340746
 Authors: JENS Horst, BREEN Derek, PRIDUN Gregor, KNAUF Denis, SCHLAPSI Bernd, PERL Thomas
+Summarytext: The second episode of our podcast, already with a name. published as Biertaucherpodcast 226 and later renamed into **international open podcast alpha 2**. Derek speaks about African Code week and his Turtlestitch / Scratch Workshop in Vienna.
 Summary: <div style="float: left; padding:5px"><img src="/images/international-open-podcast-logo.png" width="100" alt="logo"></div> The second episode of our podcast, already with a name. published as Biertaucherpodcast 226 and later renamed into **international open podcast alpha 2**. Derek speaks about African Code week and his Turtlestitch / Scratch Workshop in Vienna.<div style="clear:both;"></div> 
 
 <div style="float:right; margin: 5px;"><iframe width="250" height="188" src="https://www.youtube.com/embed/ieGUUGM2SIU" frameborder="0" allowfullscreen></iframe><br><a href="https://youtu.be/ClYj8k4z4Xk">https://youtu.be/ieGUUGM2SIU</a></div>

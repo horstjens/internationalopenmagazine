@@ -8,6 +8,7 @@ GeoRegion: IT-RM
 GeoPlacename: Roma
 GeoPosition: 41.902771; 12.511618
 Authors: JENS Horst
+Summarytext: Report of my visit to the Maker Faire Rome 2015 with many photos and some personal impressions of Rome, Italians and the Maker movement. Enriched with travel tips, a promise to come back next year and "how to troll the press center" and "how to make Makers happy" tutorials
 Summary: <div style="float: left; padding:5px"><img src="/images/2015-10-27-makerfairerome/makerlogo.jpg" height="100" alt="Maker Faire rome logo"> <img src="/images/horst.png" alt="horst" height="100"></div>Report of my visit to the Maker Faire Rome 2015 with many photos and some personal impressions of Rome, Italians and the Maker movement. Enriched with travel tips, a promise to come back next year and "how to troll the press center" and "how to make Makers happy" tutorials.<div style="clear:both;"></div>
 
 <div style="float:right; padding: 5px; margin: 5px; background-color: #BBBBBB; width:260px;">

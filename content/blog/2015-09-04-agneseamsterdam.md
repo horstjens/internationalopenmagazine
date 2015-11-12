@@ -8,6 +8,7 @@ GeoRegion: NL-NH
 GeoPlacename: Amsterdam
 GeoPosition: 52.372774; 4.90035
 Authors: ADDONE Agnese
+Summarytext: Agnese Addone tells what happened at the Scratch conference Amsterdam 2015
 Summary: <div style="float: left; padding:5px"><img src="http://spielend-programmieren.at/blog/images/20150823_scratchansicht.jpg" alt="scratch podcard" height="100"><img src="images/2015-09-04-agneseamsterdam/io_catemos.jpg" height="100" alt="Maker Faire rome logo"></div>Agnese Addone tells what happened at the Scratch conference Amsterdam 2015<div style="clear:both;"></div>
 
 

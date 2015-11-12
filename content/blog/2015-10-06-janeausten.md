@@ -9,6 +9,7 @@ ICBM: 30.267153, -97.743061
 GeoPosition: 30.267153;-97.743061
 GeoPlacename: Austin
 GeoRegion:  US-TX
+Summarytext: Lacey Williams Henschel draws fascinating parallels between coding python and writing novels, and explores the connection of style guides for for both.
 Summary: <div style="float: left; margin:5px"><img src="/images/2015-10-06-janeausten/jane_austen.jpg" alt="Jane Austen" height="100"><img src="/images/2015-10-06-janeausten/LaceyWilliamsHenschel.jpg" height="100" alt="Lacey Williams Henschel"></div>Lacey Williams Henschel draws fascinating parallels between coding python and writing novels, and explores the connection of style guides for for both.<div style="clear:both;"></div>
 
 <div style="float:right; width:260px; padding: 5px; margin: 5px; background-color: #bbbbbb;"> 

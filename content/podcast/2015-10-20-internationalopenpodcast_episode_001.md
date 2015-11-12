@@ -4,11 +4,13 @@ Modified: 2015-10-26 23:54
 tags: coding, report, conference
 Slug: 2015-10-20-internationalopenpodcast_episode_001
 status: published
+Ogg: http://spielend-programmieren.at/biertaucherfiles/biertaucher227.ogg
 ICBM: 48.201724, 16.340746
 GeoRegion: AT-9
 GeoPlacename: Vienna
 GeoPosition: 48.201724; 16.340746
 Authors: JENS Horst, HASLINGER Stefan, KNAUF Denis , BREEN Derek
+Summarytext: Our third  podcast, and the first **official** one. Published as Biertaucherpodcast 227 and later renamed into **international open podcast episode 001**. Derek and Horst talk about their trip to Maker Faire Rome 2015 in Italy, Stefan speaks about the refugee Hackathon in Vienna.
 Summary: <div style="float: left; padding:5px"><img src="/images/international-open-podcast-logo.png" width="100" alt="logo"></div> Our third  podcast, and the first **official** one. Published as Biertaucherpodcast 227 and later renamed into **international open podcast episode 001**. Derek and Horst talk about their trip to Maker Faire Rome 2015 in Italy, Stefan speaks about the refugee Hackathon in Vienna.<div style="clear:both;"></div>
 
 <div style="float:right; margin: 5px;"><iframe width="250" height="188" src="https://www.youtube.com/embed/zSbeZT1BLLE" frameborder="0" allowfullscreen></iframe><br><a href="https://youtu.be/zSbeZT1BLLE">https://youtu.be/zSbeZT1BLLE</a></div>

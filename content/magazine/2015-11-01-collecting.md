@@ -9,6 +9,7 @@ ICBM: 48.239636, 16.37775
 GeoPosition: 48.239636: 16.37775        
 GeoPlacename:  Vienna                         
 GeoRegion:  AT-9                            
+Summarytext: No magazine issues yet - more articles wanted
 Summary: <div style="float: left; padding:5px"><img src="/images/woodenpuppets.jpg" width="100" alt="wooden teamwork puppets" title="cc-0 by https://pixabay.com/en/articulated-male-meeting-together-818202/#"></div>No magazine issues yet - more articles wanted<div style="clear:both;"></div>
 
 There are not yet enough articles in the **international open magazine** to create a meaningful magazine to download. You can help by [contributing your own articles](/pages/contribute.html) or by telling your friends to do so.

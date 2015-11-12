@@ -1,4 +1,4 @@
-{% extends "include/article_list.html" %}
+{% extends "include/article_list_cat.html" %}
 {% block title %}{{ category }} - {{ SITENAME }}{% endblock %}
 
 
@@ -15,11 +15,16 @@
         <header class="page-header">
             
        {% if category == 'podcast' %}
-           <h1>all items in the category "{{ category }}" </h1>
-           <hr>
-           <small>
-           podcast feeds: ogg format: <a href="http://spielend-programmieren.at/intopenpodcastogg.xml">intopenpodcastogg.xml</a></li>, mp3 format:  <a href="http://spielend-programmieren.at/intopenpodcast.xml">intopenpodcast.xml</a>
-           </small>            
+           <div style="float: left; margin: 10px;"><img src="/images/international-open-podcast-logo2.png" alt="podcastlogo" width="320"></div>
+           <div style="float:right; margin: 2px;"><a href="http://playogg.org"><img title="I support PlayOgg!" src="http://static.fsf.org/playogg/play_ogg_medium.png" width="125" alt="PlayOgg"/></a><br><a href="http://gpodder.net/subscribe?url=http://spielend-programmieren.at/intopenpodcast.xml"><img src="http://gpodder.net/media/author_subscribe.png" /></a></div>
+           <h1>International open podcast</h1>
+           <h4>the podcast for international open magazine</h4>           
+           <b>RSS podcast feeds</b>: 
+           <ul><li>in ogg format: <a href="http://spielend-programmieren.at/intopenpodcastogg.xml">intopenpodcastogg.xml</a></li>
+               <li>in mp3 format:  <a href="http://spielend-programmieren.at/intopenpodcast.xml">intopenpodcast.xml</a></li>
+               <li>more information about <a href="/pages/podcastfeed.html">this podcast, how to subscribe to every episode</a> etc.</li>
+           </ul>
+
        {% elif category == 'blog' %}
            <h1>all items in the category "{{ category }}" </h1>            
                 Most articles start as an blog entry

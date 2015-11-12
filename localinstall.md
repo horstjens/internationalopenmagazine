@@ -109,7 +109,9 @@ why to do that:
    * if you changed several files, read https://help.github.com/articles/using-pull-requests/
    
     
-  
+## working with vagrant
+
+   * due to unknown reasons, there exist problems with the ubuntu version of pelican / jinja but not with the debian version. It is fixed for now using Vagrant, see [#Issue 6]([#Issue 7](https://github.com/horstjens/internationalopenmagazine/issues/6) for detailed instructions of how to set up Vagrant and work with it.
       
     
  

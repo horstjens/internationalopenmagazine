@@ -8,7 +8,9 @@ ICBM: 48.217124, 16.352994
 GeoRegion: AT-9
 GeoPlacename: Vienna
 GeoPosition: 48.217124;16.352994
+Ogg: http://spielend-programmieren.at/biertaucherfiles/biertaucher219.ogg
 Authors: JENS Horst, PRIDUN Gregor, BREEN Derek
+Summarytext: The first test version of our podcast, without name yet. published as Biertaucherpodcast 219 and later renamed into **international open podcast alpha 1**. Derek and Horst talk about the Scratch conference Amsterdam.
 Summary: <div style="float: left; padding:5px"><img src="/images/international-open-podcast-logo.png" width="100" alt="logo"></div> The first test version of our podcast, without name yet. published as Biertaucherpodcast 219 and later renamed into **international open podcast alpha 1**. Derek and Horst talk about the Scratch conference Amsterdam.<div style="clear:both;"></div>
 
 <div style="float:right; margin:5px"><iframe width="250" height="188" src="https://www.youtube.com/embed/ClYj8k4z4Xk" frameborder="0" allowfullscreen></iframe><br><a href="https://youtu.be/ClYj8k4z4Xk">https://youtu.be/ClYj8k4z4Xk</a></div>

@@ -87,6 +87,7 @@ SOCIAL = (
           ('Diaspora', 'https://joindiaspora.com/tags/intopenmag'),
           ('Gnusoical.de', 'https://gnusocial.de/search/notice?q=%23intopenmag'),
           ('Reddit', 'https://www.reddit.com/r/intopenmag/'),
+          ('Youtube', 'https://www.youtube.com/channel/UC9DpDUfgPBmYroK1mdWq3Ow/feed?view_as=public'),
           )
 # ('Google+ Community', 'https://plus.google.com/b/101914803942842117545/communities/114297625315121661514'),
 # ('Facebook Group', 'https://www.facebook.com/groups/1660191657562162/'),

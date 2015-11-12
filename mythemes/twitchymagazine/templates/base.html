@@ -144,6 +144,34 @@
                         {% endif %}
                     </a>
                 </li>
+                
+                
+                 {% if DISPLAY_CATEGORIES_ON_MENU %}
+                <li class="nav-divider"></li>
+                <!--<li>
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-categories">
+                        <i class="fa fa-folder-open padding-small"></i>
+                            Content formats 
+                    </a>
+                </li> -->
+                <!--<li class="panel anti-panel"><ul id="collapse-categories" class="sidebar_submenu collapse {% block collapse_categories %}{% endblock %}">-->
+                <li><ul class="sidebar_submenu">
+                    {% for cat, articles in categories %}
+                    <li {% if cat == category %}class="active"{% endif %}>
+                        <a href="{{ SITEURL }}/{{ cat.url }}">
+                            <i class="fa fa-folder-open padding-small"></i>
+                            {{ cat }}
+                            <span class="badge pull-right categorybadge">{{ articles|count }}</span>
+                        </a>
+                    </li>
+                    {% endfor %}
+                         
+                </ul></li>
+                {% endif %}
+        
+                
+                
+                
                 {% if DISPLAY_RECENT_POSTS_ON_MENU %}
                     <li class="nav-divider"></li>
                     <li>
@@ -208,27 +236,7 @@
                 </ul></li>
                 {% endif %}
                 
-                {% if DISPLAY_CATEGORIES_ON_MENU %}
-                <li class="nav-divider"></li>
-                <li>
-                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-categories">
-                        <i class="fa fa-folder-open padding-small"></i>
-                            Content formats <!-- categories -->
-                    </a>
-                </li>
-                <li class="panel anti-panel"><ul id="collapse-categories" class="sidebar_submenu collapse {% block collapse_categories %}{% endblock %}">
-                    {% for cat, articles in categories %}
-                    <li {% if cat == category %}class="active"{% endif %}>
-                        <a href="{{ SITEURL }}/{{ cat.url }}">
-                            <i class="fa fa-folder-open padding-small"></i>
-                            {{ cat }}
-                            <span class="badge pull-right categorybadge">{{ articles|count }}</span>
-                        </a>
-                    </li>
-                    {% endfor %}
-                         
-                </ul></li>
-                {% endif %}
+                
                 
                 
                 <!-- was: DISPLAY_TAGS_ON_MENU HORST_MENU --> 
@@ -315,6 +323,11 @@
                     </li>
                 </ul></li>
                 {% endif %}
+                
+               
+        
+                
+                
                 <hr>
                 <!-- Search: --> <script>
   (function() {
@@ -354,6 +367,9 @@
             <span id="right-arrow" class="glyphicon glyphicon-chevron-right"  title="expand sidebar"></span>
             <span id="left-arrow" class="glyphicon glyphicon-chevron-left" title="minimize sidebar"></span>
         </a>
+        <!-- content formats -->
+        
+        
        <!-- /open/close sidebar -->
 
         <!-- Page Content -->

@@ -9,6 +9,7 @@ ICBM: 55.755826, 37.6173
 GeoPosition: 55.755826;37.6173
 GeoPlacename: Moscow
 GeoRegion:  RU
+Summarytext: Article in progress, first videos online: Derek Breen teaching Scratch in Moscow and meeting very intersting robot geeks
 Summary: <div style="float: left; padding:5px"><img src="/images/derek.jpeg" height="100" alt="Derek Breen"></div>Article in progress, first videos online: Derek Breen teaching Scratch in Moscow and meeting very intersting robot geeks<div style="clear:both;"></div>
 
 <div style="float:right; width:260px; padding: 5px; margin: 5px; background-color: #bbbbbb;"> 
