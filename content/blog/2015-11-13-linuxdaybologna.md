@@ -17,7 +17,7 @@ Summarytext: report from CoderDojo Bologna
 <b>Contact</b>: <a href="https://twitter.com/bradasim">@bradasim</a><br>
 <b>Shorturl</b>: <a href="SHORTURL">SHORTURL</a><br> <!-- you can create shorturl in advance by using a service like goo.gl and http://internationalopenmagazine.org/SLUG.html -->
 <b>Hashtag</b>: <tt>#intopenmag</tt><br>
-<b>Fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/blog/SLUG">on Github</a><br>
+<b>Fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/blog/2015-11-13-linuxdaybologna.md">on Github</a><br>
 <b>Extras</b>: <a href="http://www.coderdojobologna.it/coderdojo-linuxday/">italian original version</a><br> <!-- additional material, translations, video, audio etc you want to hint at -->
 <b>License</b> of text and photos:<br>
 <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa88x31.png" alt="cc-by-sa"></a><br>
