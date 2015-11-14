@@ -4,7 +4,7 @@ Modfied: 2015-11-13 00:20
 Tags:    report, coding, teaching, linux
 Status: published 
 Slug:    2015-11-13-linuxdaybologna
-Authors: GIGANTE Francesco
+Authors: GIGANTE Francesco, LOMBARDO Angela Sofia, MAGISANO Giacomo, CERAMI Gabriele
 ICBM: 44.48972, 11.28522              
 GeoPosition: 44.48972; 11.28522
 GeoPlacename: Bologna                          <!-- see https://en.wikipedia.org/wiki/Geotagging or http://geotags.com/geo/geotags2.html-->   
@@ -13,8 +13,8 @@ Summary: report from CoderDojo Bologna<div style="clear:both;"></div>
 Summarytext: report from CoderDojo Bologna
 
 <div style="float:right; padding: 5px; margin: 5px; background-color: #bbbbbb; width:260px;"> 
-<b>Name</b>: <a href="YOUR HOMEPAGE">Francesco GIGANTE</a><br>
-<b>Contact</b>: <a href="https://twitter.com/bradasim">@bradasim</a><br>
+<b>Name</b>: <a href="http://www.coderdojobologna.it">Francesco GIGANTE, Angelasofia LOMBARDO, Giacomo MAGISANO, Gabriele CERAMI</a><br>
+<b>Contact</b>: <a href="https://twitter.com/coderdojobo">@coderdojobo</a><br>
 <b>Shorturl</b>: <a href="SHORTURL">SHORTURL</a><br> <!-- you can create shorturl in advance by using a service like goo.gl and http://internationalopenmagazine.org/SLUG.html -->
 <b>Hashtag</b>: <tt>#intopenmag</tt><br>
 <b>Fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/blog/2015-11-13-linuxdaybologna.md">on Github</a><br>
@@ -24,57 +24,67 @@ Summarytext: report from CoderDojo Bologna
 <b>Donate author</b>: <a href="DONATE URL">DONATE TEXT</a><br>
 <b>Location</b>: <a href="http://www.openstreetmap.org/?mlat=44.48972&amp;mlon=11.28522#map=17/44.48972/11.28522">44.48972, 11.28522</a><br> 
 <iframe width="250" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=11.278141736984251%2C44.48648694784601%2C11.292303800582886%2C44.492954321089925&amp;layer=mapnik&amp;marker=44.48972072410906%2C11.28522276878357" style="border: 1px solid black"></iframe><br>
-<img src="/images/Matrim_Michele_20080920-231902.jpg" alt="Francesco GIGANTE" width="100" align="right">
-<b>about the author</b>: YOUR Bio / info about you .<br>
+<img src="/images/FrancescoGigante.jpg" alt="Francesco GIGANTE" width="100" align="right">
+<img src="/images/AngelaSofiaLombardo.jpg" alt="Angela Sofia LOMBARDO" width="100" align="right">
+<img src="/images/GiacomoMagisano.jpg" alt="Giacomo MAGISANO" width="100" align="right">
+<img src="/images/GabrieleCerami.jpg" alt="Gabriele CERAMI" width="100" align="right">
+<b>about the authors</b>: <ul><li><b>Angela Sofia Lombardo</b> Constructivist Psychologist and CoderDojo Bologna mentor.
+When I was a student I always wondered why lessons were soo boring and why teachers always had to frustrate learners with judgements like “you are not able to do that”... Now, after 20 years, I found a group of people that teach kids coding in an unusual way, CoderDojo, then I read a book called Mindstorm written by Seymour Papert...and everything in my life finally changed!!
+Since that moment I design constructionist learning environments to offer kids of every age the most useful experience with coding and robotics. </li><li><b>Giacomo Magisano</b> I suffer from congenital curiosity since my birth. I was seduced at an early age by the power of computers, and by videogames too. Mostly videogames, though.
+I'm a professional programmer since the last decade of the past century. 
+Around the year 2000 I got involved in teaching as a lecturer in courses on advanced coding for adults. In the last years, with the rise of Arduino and the spreading of visual programming environments I'm rediscovering the joy of creative learning and making.</li><li><b>Francesco Gigante</b> I worked in medical informatics for the past 10 years, specifically software for mammographies.
+It's been a year since I discovered CoderdojoBologna and the awesome group of volunteers, the mentors, of which I now am part. </li><li><b>Gabriele Cerami</b> Computher Enthusiast since 1988. Programmer. Mentor at Coderdojo Bologna</li></ul><br>
 <b>Donate the author</b>: YOUR donation adresses<br>
 </div>
 
 # Linux Day Bologna
 
 
-Saturday, 24 october was throughout Italy the day of [Linux Day](http://www.linuxday.it/), an event that for 14 years has been promoting Linux and free software ... .. but not only that! :)
+Saturday, 24 october Italy celebrated [Linux Day](http://www.linuxday.it/), an event that in the last 14 years has been promoting Linux and free software ... and a lot more ! :)
 
-More than 90 groups of fans across Italy will have committed to deliver engaging experiences with the aim of spreading a more open approach to digital culture, animated by a spirit of sharing!
+More than 90 groups of enthusiasts across Italy worked hard to offer engaging experiences with the goal of spreading a more open approach to digital culture, animating it by the spirit of sharing!
 
-In Bologna, the whole initiative has been carried out with commitment from [Erlug association](http://www.erlug.linux.it/) that organized the celebrations for the [Linux Day](http://erlug.linux.it/linuxday/2015/) in the computer labs of the Institute [Belluzzi Fioravanti](http://www.belluzzifioravanti.it/)!
+In Bologna, the preparations were conducted, with the usual commitment, by [Erlug association](http://www.erlug.linux.it/) that organized the celebrations for [Linux Day](http://erlug.linux.it/linuxday/2015/), which this year was hosted by the Technical School [Istituto Belluzzi Fioravanti](http://www.belluzzifioravanti.it/)!
 
-The events were many and were attended by young and old ... all in a really cool and fun atmosphere!
+Many events were presented and attended by both youngs and adults ... all in a really cool and fun atmosphere!
 
-Among the realities present in the festivities as well as Erlug was [RaspiBo](http://www.raspibo.org/). We were there to [CoderDojo Bologna](http://www.coderdojobologna.it/)!
+Among the organizations participating at the festivities alongside Erlug itself and [RaspiBo](http://www.raspibo.org/) there were us too! [CoderDojo Bologna](http://www.coderdojobologna.it/)!
 
+Our mentors could not miss a chance to be a part of this celebration dedicated to Open Source!
 
-* ?? Our mentor could not just be run a party full of open source !! ?? *
+So, thanks to Erlug, we organized an event to show our "ninjas" (= children visitors) too, little but growing programmers of the future, that sharing and "remixing" (= modification of existing scratch code) are not only principles of CoderDojo or of the Scratch community, but are also the basis of many highly successful "large" projects.
 
-So, thanks to Erlug, we organized an event to also show our "ninjas" (= children visitors), small programmers of the future, that sharing and remixing are not only principles of CoderDojo or the Scratch community, but are also the basis of many highly successful "large" projects. 
+Linux Day gave us a fantastic view of the results that can be achieved by combining several elements such as active collaboration, commitment to an alternative education system, the call to experimentation and the liberties offered by free software.
 
-Linux Day gave us a fantastic window on the results that can be achieved by combining some elements such as the active collaboration, commitment to an alternative study, the invitation to experimentation and the freedom 'offered by free software.
+We were audience to great lessons on sharing thanks to various presentations: like the one that showed that a different teaching method is possible (and much needed) offered by [Renzo Davoli](https://it.wikipedia.org/wiki/Renzo_Davoli), professor at University of Bologna, a long time evangelist of effective ways to teach computer science.
 
-We could see the great lessons of sharing through the various presentations: like those of a "teaching different" from University [Prof. Davoli](https://it.wikipedia.org/wiki/Renzo_Davoli) of Bologna, he has always been an evangelist of effective ways to teach informatics / computer science.
+There were also beautiful demo projects rotating around the Linux ecosystem developed in recent years by students, professors and alumni of the Belluzzi-Fioravanti School. Not forgetting the technical presentations from veteran professionals.
 
-There were also beautiful demo projects in the Linux world developed in recent years by students, professors and alumni of the Institute Belluzzi-Fioravanti. Not to forget the technical interventions of veteran professionals.
+Friends of the RaspiBo project have exhibited their coolest creations, exciting young and adult visitors with robots, 3D printers and many other compelling projects.
 
-Friends of the RaspiBo project have exhibited their work: cool stuff, fascinated and  passionate young and old visitors played throughout the day with robots, 3D printers and many other compelling projects.
+In the afternoon, CoderDojo Bologna celebrated Linux Day too in its own way!
 
-In the afternoon, we at CoderDojo Bologna we celebrated the Linux Day!
+To continue with the recurring theme of this great day we chose to propose a "Free Style" Dojo to offer the "ninjas" (participants) a chance to give full rein to their creativity!
 
-To continue with the recurring theme of this "super day" we chose to propose a "Free Style" Dojo to give the "ninjas" (participants) a chance to give full rein to their creativity!
+Volunteering for this session were Alessandro, Marco, Raffaele, Daniele, Gabriele, Fabio (directly from the newly formed Dojo in the nearby town of Monte SanPietro) and the ever-present black belt ninja Giacomo. They explained to the young Scratch users what an operating system is and why Linux is given an official celebrative day on its own, in which we all love to participate.
 
-Mentors were Alessandro, Marco, Raffaele, Daniel, Panda, Fabio (directly from neo-Dojo Monte SanPietro) and the ever-present black belt ninja James. They  told the young Scratch users what an OS is and why' Linux has an national party day of its own which we alle love to celebrate.
+After getting to know more about the world of Linux, the "ninjas" were encouraged to push their creativity to extreme limits  ... in complete freedom!
 
-After getting to know more about the world of Linux, the "ninjas" were encouraged to push their creativity to the extreme limits  ... in complete freedom!
+On this Linux-Dojo mentors didn't put forward a tutorial, nor a theme ... every "ninja" chose a project on his own to start coding. And some chose to get help from other participants with their projects.
 
-This Linux-Dojo mentors have not proposed a tutorial, nor a theme ... every "ninja" chose independently a project of his own to start coding. And some choose to get help from other participants for their projects.
+Events such as Linux Day are special occasions for us mentors of CoderDojo Bologna. They give us the opportunity to raise awareness, not only among the "ninjas", but also among their families about those issues that are so dear to us, such as:
+  * the appraisal of individual creative expression, even when they are "outside the box"
+  * and the importance of collaboration and sharing, even when working on different projects.
 
-
-Events such as the Linux Day are a special occasions for us mentors of CoderDojo Bologna. They give us the opportunity to raise awareness not only among the "ninjas" but also among their families about those issues that are so dear to us, such as:
-  * the enhancement of individual creative expression even when they are "outside the box"
-  * and the importance of collaboration and sharing even when working on different projects.
-
-To see the full program of LinuxDay 2015 and relive this wonderful experience thanks to the content provided by the speakers please click [this link](http://erlug.linux.it/linuxday/2015/index.html#programma)
+To see the full schedule of LinuxDay 2015 in Bologna and relive this wonderful experience, thanks to the content provided by the speakers, please click [this link](http://erlug.linux.it/linuxday/2015/index.html#programma)
 
 May every day be a Linux Day !!! :)
 
 Be Cool
+
+Authors note: because we strongly believe in what we teach and in what we wrote in
+this article, you should know that the 4 authors actively
+contributed to its drafting using online collaboration tools
 
 - See more at: <http://www.coderdojobologna.it/#sthash.CyLWQgBB.dpuf>
 
