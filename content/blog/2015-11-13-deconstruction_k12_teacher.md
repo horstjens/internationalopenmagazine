@@ -17,7 +17,7 @@ Summary: <div style="float: left; margin:5px"><img src="/images/2015-11-13-decon
 <b>Contact</b>: <a href="https://twitter.com/themrgodsey">@TheMrGodsey</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/R1HiE2">http://goo.gl/R1HiE2</a><br> 
 <b>Hashtag</b>: <tt>&#35;intopenmag</tt><br>
-<b>Fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/</a><br>
+<b>Fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/blog/2015-11-13-deconstruction_k12_teacher.md</a>on Github<br>
 <b>Extras</b>: <a href="http://www.theatlantic.com/education/archive/2015/03/the-deconstruction-of-the-k-12-teacher/388631/">Original article in "The Atlantic"</a>, <a href="http://www.theatlantic.com/education/archive/2015/03/the-deconstruction-of-the-k-12-teacher/388631/#article-comments">Comments</a><br> 
 <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa88x31.png" align="right" alt="cc-by-sa"></a><b>License</b> for text and photos in this article, unless indicated otherwise (e.g. <i>Image rights</i> notice below pictures): <a href="https://creativecommons.org/licenses/by-sa/4.0/">creative commons attribute share-alike 4.0</a> <br>
 <b>Location</b>: <a href="http://www.openstreetmap.org/#map=13/35.2660/-120.6515">35.2660,-120.6515</a><br>
