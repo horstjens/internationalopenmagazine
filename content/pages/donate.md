@@ -6,7 +6,7 @@ Tags: internal
 
 ## donate
 
-Donations are highly welcome and help keeping the the team motivated, the servers running and articles flowing. If you find yourself unable to donate money despite liking the **International Open Magazine**, please consider to at least:
+Donations are highly welcome and help keeping the the team motivated, the servers running and articles flowing. If you find yourself unable to donate money despite liking the **International Open Magazine**, please consider to [contribute](http://internationalopenmagazine.org/pages/contribute.html) by:
 
   * writing us. Tell us what you like. And what you dislike. But mostly what you like.
   * spreading the word: use your preferred social networks (see the **Share** and **#intopenmag** links in the left sidebar 

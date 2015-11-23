@@ -7,12 +7,19 @@ If you want to contribute content to the **International Open Magazine**:
 
 You're welcome!
 
+# non-authors
+
+  * We seek people interested in maintaining an worldwide [conference and event list](http://internationalopenmagazine.org/pages/events.html)
+  
+
 ## improve, discuss
 
 Have a feature request? Detected bad spelling or worse errors in an article? Don't hesitate to create an [Issue at our Github site](https://github.com/horstjens/internationalopenmagazine/issues).
 
-If you just want to discuss an article with others, please use you preferred social media network using the hashtag `#IntOpenMag`. Click on the *#IntOpenMag* Icon on the left sidebar to see a selection of social networks. If you prefer email over social networks (good choice!), use our [mailing list](https://groups.google.com/forum/#!forum/internationalopenmagazine).
+If you just want to discuss an article with others, please use you preferred social media network using the hashtag `#IntOpenMag`. Click on the *Discuss* Icon on the left sidebar to see a selection of social networks. If you prefer email over social networks (good choice!), use our [mailing list](https://groups.google.com/forum/#!forum/internationalopenmagazine).
 
+
+# for authors
 
 ## wanted topics
 
@@ -26,7 +33,7 @@ The **International Open Magazine** needs especially articles about the topics *
 Detailed instructions of how to submit content via [git](https://de.wikipedia.org/wiki/Git) can be found at the [official Github project](https://github.com/horstjens/internationalopenmagazine) page of the **International Open Magazine**:
 
   * inside [README.md](https://github.com/horstjens/internationalopenmagazine/blob/master/README.md) if you knwo how to work with Github / git
-  * inside [localinstall.md](https://github.com/horstjens/internationalopenmagazine/blob/master/localinstall.md) if you have no experience with git
+
 
 It is also possible to simply send the article by email to: `horstjens@gmail.com`. 
 

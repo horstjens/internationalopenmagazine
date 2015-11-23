@@ -2,13 +2,14 @@ Title: events
 Date: 2015-11-08 20:00
 Modified: 2015-11-17 20:00
 
-To add / modify an event, you can make those edits directly on [Github](https://github.com/horstjens/internationalopenmagazine/blob/master/content/pages/events.md). Don't forget to click the green "Send pull request" button on Github after editing!
 
 ## international events
 
-Do you know of an interesting event ( like a conference about free/libre open source or education topics ) ? Please write an email to `horstjens@gmail.com` to start co-editing this calendar!
+Do you know of an interesting event (like a conference about free/libre open source or education topics) ? Please write an email to `horstjens@gmail.com` to start co-editing this calendar!
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=3k7ak599megslma27ihs2ilfog%40group.calendar.google.com&amp;color=%2328754E&amp;src=p%23weeknum%40group.v.calendar.google.com&amp;color=%23182C57&amp;ctz=Europe%2FVienna" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  * <small>[ical file](https://calendar.google.com/calendar/ical/3k7ak599megslma27ihs2ilfog%40group.calendar.google.com/public/basic.ics)</small>
+
+<iframe src="https://calendar.google.com/calendar/embed?title=international%20open%20magazine%20-%20conference%20and%20event%20calendar&amp;height=600&amp;wkst=2&amp;hl=en&amp;bgcolor=%23FFFFFF&amp;src=3k7ak599megslma27ihs2ilfog%40group.calendar.google.com&amp;color=%2328754E&amp;ctz=Etc%2FGMT" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <!--
 start date  | end date  |  country, location  |  event 
@@ -25,10 +26,6 @@ start date  | end date  |  country, location  |  event
 -->
 
 
-<small>event list copied from [Sven Guckes](http://www.guckes.net/), <http://cal.guckes.net/> and others </small>
-
-
-
-## past events
+<small>event list copied from [Sven Guckes](http://www.guckes.net/), <http://cal.guckes.net/> and other sources </small>
 
 

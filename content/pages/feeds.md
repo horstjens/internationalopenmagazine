@@ -10,6 +10,7 @@ In the case you are using an [feedreader](https://en.wikipedia.org/wiki/News_agg
 
   * Atom Feed for all articles: [http://internationalopenmagazine.org/feeds/all.atom.xml](http://internationalopenmagazine.org/feeds/all.atom.xml) 
   * RSS Feed for all articles: [http://internationalopenmagazine.org/feeds/all.rss.xml](http://internationalopenmagazine.org/feeds/all.rss.xml)
+  * all feeds (for tags and categories): <http://internationalopenmagazine.org/feeds/>
 
 
   

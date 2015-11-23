@@ -1,6 +1,6 @@
 Title: interview with "Scratch for kids for dummies" author Derek Breen
 Date: 2015-10-29 13:30
-Modfied: 2015-11-04 21:00
+Modfied: 2015-11-19 16:00
 Tags: interview, coding, art, review, books
 Slug: 2015-10-29-lucyderek
 ICBM: 48.224938, 16.368992
@@ -31,26 +31,27 @@ Lucy still goes to school and is currently learning to code <a href="http://pyth
 
 <div style="float:right; padding:5px; margin:5px;"><a rel="nofollow" href="http://www.amazon.de/gp/product/1119014875/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=1119014875&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1119014875&Format=_SL250_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=1119014875" width="1" height="1" border="0" alt="amazon" style="border:none !important; margin:0px !important;" /><br><small>image rights: Amazon Partner program</small></div>
 
+
   * Lucy (L): Why did you write the book?
-  * Derek (D): The publishers, [John Wiley &amp; sons](https://en.wikipedia.org/wiki/John_Wiley_%26_Sons), came to me and said [that] they are looking for sombody who had a lot of experience teaching [Scratch](http://scratch.mit.edu) to write a book about *Scratch for kids* in the *[for dummies](https://en.wikipedia.org/wiki/For_Dummies)* series. And since i did'nt had a job at the time i said: "Sure, i can do that". And i really was hoping that i can teach some of my favorites tricks, and teaching Scratch more for design rather than just coding. So i was really happy to do that.
-  * L: What is your favorite trick in Scratch?
-  * D: My favorite trick is <strike>taking</strike> making [sprites](https://en.wikipedia.org/wiki/Sprite_(computer_graphics)) from vector graphics, starting with *really* simple shapes. And then gradually making the shapes more and more complex to be things like faces and arms and legs, zombie teeths and werewolf claws. And also being able to take simple shapes and combine them with multiple shapes to make really cool looking animation and game characters.
+  * Derek (D): The publishers, [John Wiley &amp; sons](https://en.wikipedia.org/wiki/John_Wiley_%26_Sons), came to me and asked me, because they were looking for somebody who has a lot of experience in teaching [Scratch](http://scratch.mit.edu) to write a book about *Scratch for kids* in the *[for dummies](https://en.wikipedia.org/wiki/For_Dummies)* series. Since I didn't have a job at that time I said: "Sure, I can do that". I was really hoping that I can teach some of my favorite tricks, and that I could teach Scratch more from the designing than just coding. So I was really happy to do that.
+  * L: Which is your favorite trick in Scratch?
+  * D: My favorite trick is <strike>taking</strike> making [sprites](https://en.wikipedia.org/wiki/Sprite_(computer_graphics)) from vector graphics, starting with *really* simple shapes. And then gradually making the shapes more and more complex to be things like faces and arms and legs, zombie teeths and werewolf claws. Also, being able to take simple shapes and combine them with multiple shapes to make really cool looking animations and game characters.
   * L: What is your favorite thing from Scratch?
-  * D: I think my favorite thing is being able to quickly and then add just a little bit of code to bring it to life.
-  * L: [pause] Did you had fun making it?
-  * D: I had so much fun making the book... But the hardest part, -that i did'nt had so much fun with it-, was the animation section. Because sometimes it is hard to write abount an animation, you want to show how it works. So a lot of times i wished that i can have little videos that people could click on, more like an ebook on an kindle or an ipad. 
-  * L: What do you find easier, learning from an book or from an video?
-  * D: I like to go back and forth, so for some things i definitely find it easyier to learn from video, like making music or doing animation. But for doing video game stuff i found it helpful to read a little bit and follow the code rather than stopping and starting a video over and over and over again. 
-  * L: Why did you [write] especially for kids? 
-  * D: I think kids are actually more creative than adults so i was excited that if kids have a little bit of coding and a little bit of designing experience with Scratch they can make way cooler projects than adults, [Horst enter the room] like [Horst](http://spielend-programmieren.at). 
+  * D: I think my favorite thing is being able to quickly do stuff and add a little coding for it to bring it to live.
+  * L: (pause) Did you have fun making the book?
+  * D: I had so much fun making the book... But the hardest part, -that I didn't have so much fun with -, was the animation section. Because sometimes, it is hard to write about an animation, when you want to show how it works. A lot of times I had wished that I have little videos which people could click on, more like an ebook, a kindle or an iPad. 
+  * L: What do you find easier, learning from a book or from a video?
+  * D:I like to go back and forth to look at stuff more precisely, so for some things I definitely find it easier to learn from videos, like making for making music or doing animation. But for learning how to make video games I found it helpful to read a little bit and follow the code rather than stopping and starting a video over and over and over again. 
+  * L: Why did you (write) the book, especially for kids? 
+  * D: I think kids are actually more creative than adults, so I was excited to think what would happen if kids learn a little bit of coding and a little bit of designing with Scratch they can make way cooler projects than adults, [Horst enters the room] like [Horst](http://spielend-programmieren.at). 
   * Horst: Derek, why don't you get a real job?
   * L: What is the best animation you have ever done?
-  * D: Oh, that's the hardest question you have asked so far, what's the best animation you have ever done....Um, actually, probably some of the 3D animations that i did in the ninties. 3D character animation, like .. i did an animation called clockwork orange juice that i really liked. [It was] about this young kids who ate a lot of junk-food and so it made them really violent. The would need to eat healtier so that adjust to society. 
+  * D: Oh, that's the hardest question you have asked so far. What's the best animation you have ever done.... Um, actually, probably some of the 3D animations that I did in the nineties. 3D character animation, like.. I did an animation called clockwork orange juice that I really liked. [The story is about] young kids who eat a lot of junk-food, and as a result, they got really violent. They would need to eat healthier food so that the kids could adjust to society. 
   * L: What is the easiest thing to do in Scratch?
-  * D: I think the easiest thing to do is to create web comics. You can make web comics really quickly, you could even use the built-in sprites, and then just add a little bit of code to make the charakters talk. Or think. 
+  * D: I think the easiest thing to do is to create web comics. You can make web comics really quickly, you could even use the built-in sprites, and then just add a little bit of code to make the characters talk or think. 
   * L: How many kids have you taught Scratch? 
-  * D: Ahhh, i don't know... i introduced Scratch to over a thousand kids just last week in [South Africa](https://youtu.be/7-pmMrL6bso), so that means way more than onethousand kids. Probably, um... When i think about it this way: every teacher that i teached Scratch to could teach 20, 30 or 100 kids. And i introduced [Scratch to] a lot of teachers. So i think 150342. That's how many. 
-  
+  * D: Ahhh, I don't know... I introduced Scratch to over a thousand kids just last week in [South Africa](https://youtu.be/7-pmMrL6bso), so that means way more than 1000 kids. Um, probably... When I think about it this way: every teacher that I taught Scratch to could teach 20, 30 or 100 kids. And I introduced [Scratch to] a lot of teachers. So I think 150342. That's how many. 
+
 
 <div style="float:right; margin:5px">
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/horstjens/22412924671/in/album-72157646471853013/" title="international open magazine: Lucy and Derek Interview"><img src="https://farm6.staticflickr.com/5676/22412924671_05fa0341d9_z.jpg" width="240" height="320" alt="international open magazine: Lucy and Derek Interview"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
