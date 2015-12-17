@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="row">
+    <div class="col-lg-9">
+    {% if articles %}
+        {% for article in (articles_page.object_list if articles_page else articles) %}
+            <article>
+                <!--h4-->
+                    <!--<time datetime="{{ article.date.isoformat() }}"> {{ article.date|strftime('%Y-%m-%d') }}</time>
+                    <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>-->
+                    {% if article.category == 'podcast' %}
+                    
+                        <p> <span class="categories-timestamp"><i class="fa fa-calendar padding-small"></i><time datetime="{{ article.date.isoformat() }}"> {{ article.date|strftime('%Y-%m-%d') }} </time></span>  Shownotes/Website: <span class="glyphicon glyphicon-th-list padding-small"></span><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>     <i class="fa fa-tags padding-small"></i> {% for tag in article.tags %} <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %} / {% endif %}{% endfor %} by {% for author in article.authors %} <a href="{{ SITEURL }}/{{ author.url }}"><i class="fa fa-user padding-small"></i>{{ author }}</a>{% endfor %} </p>
+                        <div style="float:left; margin:10px;">
+                        {% if article.ogg %}
+                             <audio src="{{ article.ogg }}" controls="controls"></audio><br>
+                        {% endif %}
+                             <a href= "{{ SITEURL }}/{{ article.url }}"><b>click here to see the Shownotes</b></a>
+                        </div>
+                        {% if article.summary %}
+                            {{ article.summary }}
+                        {% endif %}
+                    {% else %}
+                    
+                        <p style="margin-left: 125px; text-indent: -125px;> <span class="categories-timestamp"><i class="fa fa-calendar padding-small"></i><time datetime="{{ article.date.isoformat() }}"> {{ article.date|strftime('%Y-%m-%d') }} </time></span>  <!--<i class="fa fa-folder-open padding-small"></i><i><a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></i>: --><span class="glyphicon glyphicon-th-list padding-small"></span><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>     <i class="fa fa-tags padding-small"></i> {% for tag in article.tags %} <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %} / {% endif %}{% endfor %} by {% for author in article.authors %} <a href="{{ SITEURL }}/{{ author.url }}"><i class="fa fa-user padding-small"></i>{{ author }}</a>{% endfor %} {% if article.summarytext %}<small><br>{{ article.summarytext }} <a href="{{ SITEURL }}/{{ article.url }}">read more...</a></small>{% endif %}</p>
+                    {% endif %}
+                <!--/h4-->
+            </article>
+        {% endfor %}
+    {% endif %}
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    function FadeInOnScroll(ObjectList){
+        ObjectList.each(function(i) {
+            var bottom_of_object = $(this).position().top + $(this).outerHeight();
+            var bottom_of_window = $(window).scrollTop() + $(window).height();
+
+            if( bottom_of_window > bottom_of_object ){
+                $(this).fadeTo(750,1);
+            }
+        });
+    }
+
+    articles = $("article").fadeTo(0, 0.05);
+    FadeInOnScroll(articles)
+
+    $(window).scroll(function() {
+        FadeInOnScroll(articles)
+    });
+</script>
+{% endblock %}
