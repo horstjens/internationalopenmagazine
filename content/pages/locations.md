@@ -1,6 +1,6 @@
 Title: locations
 Date: 2015-11-08 19:00
-Modified: 2015-11-08 19:00
+Modified: 2015-11-30 19:00
 Tags: internal
 
 
@@ -70,3 +70,4 @@ click on the red dots to open article info and link to article
 
 
 <div id="googft-mapCanvas"></div>
+
