@@ -18,7 +18,7 @@ Summarytext: A Different Approach to Coding - How kids are making and remaking t
 <b>Shorturl</b>: <a href="http://goo.gl/TEJ4sN">http://goo.gl/TEJ4sN</a><br> 
 <b>Hashtag</b>: <tt>Srcatch</tt><br>
 <b>Fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/blog/2015-12-17-approach_to_coding.md">on Github</a><br>
-<b>Extras</b>: <a href="https://medium.com/bright/a-different-approach-to-coding-d679b06d83a#.hqr7fnerv">original article at media.com</a><br> <!-- additional material, translations, video, audio etc you want to hint at -->
+<b>Extras</b>: <a href="https://medium.com/bright/a-different-approach-to-coding-d679b06d83a#.hqr7fnerv">original article at medium.com</a><br> <!-- additional material, translations, video, audio etc you want to hint at -->
 <b>License</b> of text and images:<br>
 <div style="float:right;margin:2px;"><a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa88x31.png" alt="cc-by-sa"></a></div><a href="https://creativecommons.org/licenses/by-sa/4.0/">cc-by-sa</a>. Attribute to: <a href="http://www.scratchfoundation.org/">Mitch Resnik</a><br>
 <b>Location</b>: <a href="http://www.openstreetmap.org/?mlat=42.36043&amp;mlon=-71.08713#map=18/42.36043/-71.08713">42.36043/-71.08713</a><br>
@@ -31,7 +31,7 @@ Professor of Learning Research at MIT Media Lab, director of Lifelong Kindergart
 <small>first posted at 2015-11-10 at <a href="https://medium.com/bright/a-different-approach-to-coding-d679b06d83a#.kgv7otl7u">https://medium.com/bright/a-different-approach-to-coding-d679b06d83a#.kgv7otl7u</a></small>
 
 <div>
-<a href="https://scratch.mit.edu/projects/74614594"><img src="/images/2015-12-17-approach_to_coding/1-EAWYMXdVgSafMqSnYCRfwA.png" width="600" alt="scratch project"><br><small>Sratch project 74614594</small></a>
+<a href="https://scratch.mit.edu/projects/74614594"><img src="/images/2015-12-17-approach_to_coding/1-EAWYMXdVgSafMqSnYCRfwA.png" width="600" alt="scratch project"><br><small>Scratch project 74614594</small></a>
 </div>
 
 This week, [Code.org](http://code.org/) will launch the 2015 activities for [Hour of Code](https://hourofcode.com/), an annual effort to encourage schools around the world to spend at least one hour introducing students to coding (that is, computer programming). During the week from December 7–13 2015, millions of students will have their first coding experience following tutorials on the Hour of Code website. Many schools are going beyond these initial coding activities. A growing number of cities (including [New York City](http://www.nytimes.com/2015/09/16/nyregion/de-blasio-to-announce-10-year-deadline-to-offer-computer-science-to-all-students.html)) and even entire countries (including [England](http://www.bbc.com/news/technology-29010511)) are adding coding as a requirement in their school curricula.
@@ -56,7 +56,7 @@ Consider Jocelyn, a teenager who has programmed and shared more than 200 project
 
 <div>
 <a href="https://scratch.mit.edu/projects/11576944/"><img src="/images/2015-12-17-approach_to_coding/1-VEZveywnh8_9cVeoCWNdug.png" alt="helicopter game" width="400"></a><a href="https://scratch.mit.edu/projects/11199202/"><img src="/images/2015-12-17-approach_to_coding/1-Yp-4xqmwW-yyOlc4E01cCg.png" alt="dress up game" width="400"></a><br>
-<small>sratch projects from <a href="https://scratch.mit.edu/users/CrazyNimbus/">CrazyNimbus</a></small></div>
+<small>Scratch projects from <a href="https://scratch.mit.edu/users/CrazyNimbus/">CrazyNimbus</a></small></div>
 
 Jocelyn initially came to Scratch to learn how to create games. She stayed because of the community. “I shared my first project, I got instant feedback, and I knew I needed to keep going and keep coding,” says Jocelyn.
 
@@ -91,6 +91,8 @@ If coding is going to make a true difference in children’s lives, it’s impor
 By keeping these four Ps in mind, educators and others can make sure that coding lives up to its full potential as a new form of literacy and personal expression — not just another educational fad.
 
 *Mitchel Resnick is Professor of Learning Research at the MIT Media Lab. David Siegel is Co-Chair of the algorithmic investment manager Two Sigma. They co-founded the non-profit Scratch Foundation.*
+
+*This article was originally published on the Bright education portal.*
 
 *Bright is made possible by funding from The Bill & Melinda Gates Foundation. Bright retains editorial independence.*
 

@@ -4,7 +4,7 @@ Modified: 2015-11-10 23:55
 Tags: internal
 
 
-## donate
+
 
 Donations are highly welcome and help keeping the the team motivated, the servers running and articles flowing. If you find yourself unable to donate money despite liking the **International Open Magazine**, please consider to [contribute](http://internationalopenmagazine.org/pages/contribute.html) by:
 

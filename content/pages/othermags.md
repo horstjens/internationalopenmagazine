@@ -1,6 +1,6 @@
 Title: other magazines
 Date: 2015-11-01 22:15
-Modified: 2015-11-04 22:15
+Modified: 2015-12-22 22:15
 
 Other magazines that publish also using a [free license](https://en.wikipedia.org/wiki/Free_license): 
 
@@ -11,3 +11,4 @@ Other magazines that publish also using a [free license](https://en.wikipedia.or
   * [Gimp Magazine](http://gimpmagazine.org): all articles [cc-by-sa 2.5](https://creativecommons.org/licenses/by-sa/2.5/) licensed. In English language. Focus on graphic, design, art and the program [Gimp](http://www.gimp.org/)
   * [Das freie Magazin](http://www.freiesmagazin.de/): all articles [cc-by-sa 4.0](https://creativecommons.org/licenses/by-sa/4.0/) licensed. In German language. Focus on Linux topics.
   * [OCS Mag, the open content and software magazine](http://www.ocsmag.com/): all articles [cc-by-sa 4.0](https://creativecommons.org/licenses/by-sa/4.0/) licensed. English language.
+  * [Kaiser Health News](http://khn.org/): most articles [cc-by-sa 4.0](https://creativecommons.org/licenses/by-sa/4.0/) licensed. English language. 
