@@ -1,10 +1,10 @@
 Title: international open podcast episode 001
 Date: 2015-10-20 18:30
-Modified: 2015-10-26 23:54
+Modified: 2016-01-07 09:00
 tags: coding, report, conference
 Slug: 2015-10-20-internationalopenpodcast_episode_001
 status: published
-Ogg: http://spielend-programmieren.at/biertaucherfiles/biertaucher227.ogg
+Ogg: http://spielend-programmieren.at/intopenpodcast/intopenpodcast001.ogg
 ICBM: 48.201724, 16.340746
 GeoRegion: AT-9
 GeoPlacename: Vienna
@@ -13,36 +13,48 @@ Authors: JENS Horst, HASLINGER Stefan, KNAUF Denis , BREEN Derek
 Summarytext: Our third  podcast, and the first **official** one. Published as Biertaucherpodcast 227 and later renamed into **international open podcast episode 001**. Derek and Horst talk about their trip to Maker Faire Rome 2015 in Italy, Stefan speaks about the refugee Hackathon in Vienna.
 Summary: <div style="float: left; padding:5px"><img src="/images/international-open-podcast-logo.png" width="100" alt="logo"></div> Our third  podcast, and the first **official** one. Published as Biertaucherpodcast 227 and later renamed into **international open podcast episode 001**. Derek and Horst talk about their trip to Maker Faire Rome 2015 in Italy, Stefan speaks about the refugee Hackathon in Vienna.<div style="clear:both;"></div>
 
-<div style="float:right; margin: 5px;"><iframe width="250" height="188" src="https://www.youtube.com/embed/zSbeZT1BLLE" frameborder="0" allowfullscreen></iframe><br><a href="https://youtu.be/zSbeZT1BLLE">https://youtu.be/zSbeZT1BLLE</a></div>
-#### Navigation
-<small>
-previous podcast: [intopenpodcast alpha 2](/2015-10-13-internationalopenpodcast_alpha2.html) overview: [all podcasts](/category/podcast.html) next podcast: not yet recoreded 
-</small>
-#### Podcast feed:
+<div style="float:right; margin: 5px; padding: 5px; width:260px;">
+<h2>Navigation</h2>
+<ul>
+<li>previous podcast: <a href="/2015-10-13-internationalopenpodcast_alpha2.html">alpha2</a></li>
+<li><a href="/category/podcast.html">overview</a></li>
+<li>next podcast: <a href="2016-01-07-internationalopenpodcast_episode_002.html">episode 002</a></li>
+</ul>
+<h2>Photo album</h2>
+<a href="https://flic.kr/s/aHsknsYBvd">Flickr album"</a><br>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/horstjens/albums/72157659989524426" title="Maker Faire Rome 2015"><img src="https://farm1.staticflickr.com/674/22114302688_64d1fcaa2b_m.jpg" width="240" height="240" alt="Maker Faire Rome 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<h2>Youtube</h2>
+<a href="https://youtu.be/zSbeZT1BLLE">youtu.be/DSqopjXAxfY</a><br>
+<iframe width="250" height="188" src="https://www.youtube.com/embed/zSbeZT1BLLE" frameborder="0" allowfullscreen></iframe>
+<h2>Amazon</h2>
+<div><a rel="nofollow" href="http://www.amazon.de/gp/product/1119014875/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=1119014875&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1119014875&Format=_SL250_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=1119014875" width="1" height="1" border="0" alt="amazon" style="border:none !important; margin:0px !important;" /></div>
+</div>
 
-Please give this URL into your [podcatcher](https://de.wikipedia.org/wiki/Podcasting):
 
-  * ogg format: <http://spielend-programmieren.at/intopenpodcastogg.xml>
-  * mp3 format: <http://spielend-programmieren.at/intopenpodcast.xml>
-           
-## Audo Files:
-
-  * ogg: <audio src="http://spielend-programmieren.at/biertaucherfiles/biertaucher227.ogg"
-controls="controls"></audio>
-  * mp3: <audio src="http://spielend-programmieren.at/biertaucherfiles/biertaucher227.mp3"
-controls="controls"></audio>
-
-<small>right-click to download</small>
-
-The first *official* **international open podcast**! After our trip to [Maker Faire Rome](/2015-10-27-makerfairerome.html) (`hashtag #mfr15`) we had a lot to relate. This podcast was recorded in Vienna with the crew of the weekly German-language [Biertaucherpodcast 227](http://spielend-programmieren.at/de:podcast:biertaucher:2015:227). It is the first official version of the **international open podcast**.
+The first *official* episode of the **international open podcast**! After our trip to [Maker Faire Rome](/2015-10-27-makerfairerome.html) (`hashtag #mfr15`) we had a lot to relate. This podcast was recorded in Vienna with the crew of the weekly German-language [Biertaucherpodcast 227](http://spielend-programmieren.at/de:podcast:biertaucher:2015:227). It is the first official version of the **international open podcast**.
   
 
-## photos and amazon book link
+## Audo Files:
 
-[Flickr photo album](https://flic.kr/s/aHsknsYBvd):
-<div style="float:right; margin: 5px;"><a rel="nofollow" href="http://www.amazon.de/gp/product/1119014875/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=1119014875&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1119014875&Format=_SL250_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=1119014875" width="1" height="1" border="0" alt="amazon" style="border:none !important; margin:0px !important;" /></div>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/horstjens/albums/72157659989524426" title="Maker Faire Rome 2015"><img src="https://farm6.staticflickr.com/5663/22302002905_7508f420c3_b.jpg" width="200" height="300" alt="Maker Faire Rome 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+<small>(right-click to download)</small>
 
+<audio src="http://spielend-programmieren.at/intopenpodcast/intopenpodcast001.ogg" controls="controls"></audio> ogg format, good quality
+
+<audio src="http://spielend-programmieren.at/intopenpodcast/intopenpodcast001.mp3" controls="controls"></audio> mp3 format, good quality
+
+<audio src="http://spielend-programmieren.at/intopenpodcast/intopenpodcast001_32kbps.mp3" controls="controls"></audio> mp3 format, low quality, small filesize
+
+You can find a list of all **international open podcast** files, interviews etc. at <http://spielend-programmieren.at/intopenpodcast/>.
+
+#### Podcast feed:
+<div style="float:left; padding:5px; margin-right:15px;"><img src="/images/rss.png" alt="rss" width="100"></div>
+<small>
+<ul>
+  <li>ogg format: <http://spielend-programmieren.at/intopenpodcastogg.xml></li>
+  <li>mp3 format: <http://spielend-programmieren.at/intopenpodcast.xml></li>
+</ul>
+For more information, see [podcast feed page](/pages/podcast.html).
+</small>
 
 ## content
 
@@ -83,7 +95,7 @@ The first *official* **international open podcast**! After our trip to [Maker Fa
     * Rails Beginner Workshop: <https://github.com/bastilian/Quick-Start-Rails-and-Ruby> 
     * Nodeschool: <http://nodeschool.io/> 
 
-## transcript
+## full transcript
 
 The youtube description as well as the shownote site (biertaucherpodcast 227) has timestamps and content description, but there exist no meaningful caption. All we have until now is the auto-generated caption from youtube. Sadly, it is more or less useless. If you want to help:
 

@@ -4,6 +4,12 @@ Modified: 2015-11-12 07:50
 
 <img src="/images/international-open-podcast-logo2.png" alt="podcastlogo" width="320">
 
+## podcast episdoes and shownotes
+
+You can find all podcast episodes and shownotes by clicking the category "podcast" link on the left menu, or under this url:
+
+  * http://internationalopenmagazine.org/category/podcast.html
+
 ## podcast feed
 
 <div style="float:right; margin: 2px;"><a href="http://playogg.org"><img title="I support PlayOgg!" src="http://static.fsf.org/playogg/play_ogg_medium.png" width="125" alt="PlayOgg"/></a><br><a href="http://gpodder.net/subscribe?url=http://spielend-programmieren.at/intopenpodcast.xml"><img src="http://gpodder.net/media/author_subscribe.png" /></a></div>

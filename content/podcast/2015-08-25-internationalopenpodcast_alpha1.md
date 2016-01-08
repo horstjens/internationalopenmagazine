@@ -1,6 +1,6 @@
 Title: international open podcast alpha1
 Date: 2015-08-25 18:30
-Modified: 2015-10-29 07:14
+Modified: 2016-01-08 09:14
 tags: conference, coding, report, ScratchAMS2015
 Slug: 2015-08-25-internationalopenpodcast_alpha1
 status: published
@@ -8,43 +8,61 @@ ICBM: 48.217124, 16.352994
 GeoRegion: AT-9
 GeoPlacename: Vienna
 GeoPosition: 48.217124;16.352994
-Ogg: http://spielend-programmieren.at/biertaucherfiles/biertaucher219.ogg
+Ogg: http://spielend-programmieren.at/intopenpodcast/intopenpodcast_alpha1.ogg
 Authors: JENS Horst, PRIDUN Gregor, BREEN Derek
 Summarytext: The first test version of our podcast, without name yet. published as Biertaucherpodcast 219 and later renamed into **international open podcast alpha 1**. Derek and Horst talk about the Scratch conference Amsterdam.
 Summary: <div style="float: left; padding:5px"><img src="/images/international-open-podcast-logo.png" width="100" alt="logo"></div> The first test version of our podcast, without name yet. published as Biertaucherpodcast 219 and later renamed into **international open podcast alpha 1**. Derek and Horst talk about the Scratch conference Amsterdam.<div style="clear:both;"></div>
 
-<div style="float:right; margin:5px"><iframe width="250" height="188" src="https://www.youtube.com/embed/ClYj8k4z4Xk" frameborder="0" allowfullscreen></iframe><br><a href="https://youtu.be/ClYj8k4z4Xk">https://youtu.be/ClYj8k4z4Xk</a></div>
 
-#### Navigation
-<small>
-previous podcast: None overview: [all podcasts](/category/podcast.html) next podcast: [intopenpodcast alpha 2](/2015-10-13-internationalopenpodcast_alpha2.html)
-</small>
 
-#### Podcast feed:
+<div style="float:right; margin: 5px; padding: 5px; width:260px;">
+<h2>Navigation</h2>
+<ul>
+<li>previous podcast: None!</li>
+<li><a href="/category/podcast.html">overview</a></li>
+<li>next podcast: <a href="/2015-10-13-internationalopenpodcast_alpha2.html">alpha2</a></li>
+</ul>
+<h2>Photo album</h2>
+<a href="https://flic.kr/s/aHskhARbgd">Flickr album"</a><br>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/horstjens/albums/72157656796821858" title="Scratch conference Amsterdam 2015"><img src="https://farm6.staticflickr.com/5713/20361984549_e4fec673d9_b.jpg" width="250" height="188" alt="Scratch conference Amsterdam 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<h2>Youtube</h2>
+<a href="https://youtu.be/zSbeZT1BLLE">youtu.be/ClYj8k4z4Xk</a><br>
+<iframe width="250" height="188" src="https://www.youtube.com/embed/ClYj8k4z4Xk" frameborder="0" allowfullscreen></iframe>
+<h2>Amazon</h2>
+<div><a href="http://www.amazon.de/gp/product/B00IDI30P8/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00IDI30P8&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IDI30P8&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=B00IDI30P8" width="1" height="1" border="0" alt="amazon" style="border:none !important; margin:0px !important;" /><br>
+<a href="http://www.amazon.de/gp/product/B00ZEKTJZ8/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00ZEKTJZ8&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ZEKTJZ8&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=B00ZEKTJZ8" width="1" height="1" border="0" alt="amazon" style="border:none !important; margin:0px !important;" /><br>
+<a href="http://www.amazon.de/gp/product/1119014875/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=1119014875&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1119014875&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=1119014875" width="1" height="1" border="0" alt="amazon" style="border:none !important; margin:0px !important;" /><br>
+<a href="http://www.amazon.de/gp/product/1250065003/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=1250065003&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1250065003&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=1250065003" width="1" height="1" border="0" alt="amazon" style="border:none !important; margin:0px !important;" />
+</div>
+</div>
 
-Please give this URL into your [podcatcher](https://de.wikipedia.org/wiki/Podcasting):
-
-  * ogg format: <http://spielend-programmieren.at/intopenpodcastogg.xml>
-  * mp3 format: <http://spielend-programmieren.at/intopenpodcast.xml>
-           
-## Audo files:
-
-  * ogg: <audio src="http://spielend-programmieren.at/biertaucherfiles/biertaucher219.ogg"
-controls="controls"></audio>
-  * mp3: <audio src="http://spielend-programmieren.at/biertaucherfiles/biertaucher219.mp3"
-controls="controls"></audio>
-
-<small>right-click to download</small>
 
 This podcast was made in Vienna after I have met Derek at the Scratch conference Amsterdam 2015 (hashtag: `#sratchams2015`). It started in place of the weekly german-language [Biertaucherpodcast 219](http://biertaucher.at/de:podcast:biertaucher:2015:219) and has a short intro in German language.
 
- 
-## photos and amazon links
-<div style="float:right;margin:5px;"><a href="http://www.amazon.de/gp/product/B00IDI30P8/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00IDI30P8&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IDI30P8&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=B00IDI30P8" width="1" height="1" border="0" alt="amazon" style="border:none !important; margin:0px !important;" /> <a href="http://www.amazon.de/gp/product/B00ZEKTJZ8/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00ZEKTJZ8&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ZEKTJZ8&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=B00ZEKTJZ8" width="1" height="1" border="0" alt="amazon" style="border:none !important; margin:0px !important;" /> <a href="http://www.amazon.de/gp/product/1119014875/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=1119014875&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1119014875&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=1119014875" width="1" height="1" border="0" alt="amazon" style="border:none !important; margin:0px !important;" /> <a href="http://www.amazon.de/gp/product/1250065003/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=1250065003&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1250065003&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=1250065003" width="1" height="1" border="0" alt="amazon" style="border:none !important; margin:0px !important;" />
-</div>
-I made an [Flickr photo album](https://flic.kr/s/aHskhARbgd):
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/horstjens/albums/72157656796821858" title="Scratch conference Amsterdam 2015"><img src="https://farm6.staticflickr.com/5713/20361984549_e4fec673d9_b.jpg" width="512" height="384" alt="Scratch conference Amsterdam 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Audo Files:
+
+<small>(right-click to download)</small>
+
+<audio src="http://spielend-programmieren.at/intopenpodcast/intopenpodcast_alpha1.ogg" controls="controls"></audio> ogg format, good quality
+
+<audio src="http://spielend-programmieren.at/intopenpodcast/intopenpodcast_alpha1.mp3" controls="controls"></audio> mp3 format, good quality
+
+<audio src="http://spielend-programmieren.at/intopenpodcast/intopenpodcast_alpha1_32kbps.mp3" controls="controls"></audio> mp3 format, low quality, small filesize
+
+You can find a list of all **international open podcast** files, interviews etc. at <http://spielend-programmieren.at/intopenpodcast/>.
+
+#### Podcast feed:
+<div style="float:left; padding:5px; margin-right:15px;"><img src="/images/rss.png" alt="rss" width="100"></div>
+<small>
+<ul>
+  <li>ogg format: <http://spielend-programmieren.at/intopenpodcastogg.xml></li>
+  <li>mp3 format: <http://spielend-programmieren.at/intopenpodcast.xml></li>
+</ul>
+For more information, see [podcast feed page](/pages/podcast.html).
+</small>
+
 
 ## content
 
@@ -80,4 +98,19 @@ I made an [Flickr photo album](https://flic.kr/s/aHskhARbgd):
   * 0:56:33 tv series: <a href="https://en.wikipedia.org/wiki/Real_Humans">real humans (Äkta människor )</a> get an U.S remake: <a href="https://en.wikipedia.org/wiki/Humans_(TV_series)">Humans</a>. Derek tries to explain to us why U.S. Americans need to remake films and series instead of just dubbing / subtitling. Link was found on <a href="http://www.britcoms.de/">britische sitcoms</a> blog.
   * 1:02:00 Gregor and Derek chat about tv-series and films
   * 1:05:00 Invitation to join our podcast each tuesday night, 19:30
+
+
+# advertisement (google adsense)
+
+<hr style="height: 3px;">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- intopenmag-unten -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-3535173094498375"
+     data-ad-slot="7210184316"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 

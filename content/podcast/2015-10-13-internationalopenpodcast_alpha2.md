@@ -1,10 +1,10 @@
 Title: international open podcast alpha 2
 Date: 2015-10-13 18:30
-Modified: 2015-10-26 18:31
+Modified: 2016-01-08 09:31
 tags: coding, report
 Slug: 2015-10-13-internationalopenpodcast_alpha2
 status: published
-Ogg: http://spielend-programmieren.at/biertaucherfiles/biertaucher226.ogg
+Ogg: http://spielend-programmieren.at/intopenpodcast/intopenpodcast_alpha2.ogg
 ICBM: 48.201724, 16.340746
 GeoRegion: AT-9
 GeoPlacename: Vienna
@@ -13,38 +13,56 @@ Authors: JENS Horst, BREEN Derek, PRIDUN Gregor, KNAUF Denis, SCHLAPSI Bernd, PE
 Summarytext: The second episode of our podcast, already with a name. published as Biertaucherpodcast 226 and later renamed into **international open podcast alpha 2**. Derek speaks about African Code week and his Turtlestitch / Scratch Workshop in Vienna.
 Summary: <div style="float: left; padding:5px"><img src="/images/international-open-podcast-logo.png" width="100" alt="logo"></div> The second episode of our podcast, already with a name. published as Biertaucherpodcast 226 and later renamed into **international open podcast alpha 2**. Derek speaks about African Code week and his Turtlestitch / Scratch Workshop in Vienna.<div style="clear:both;"></div> 
 
-<div style="float:right; margin: 5px;"><iframe width="250" height="188" src="https://www.youtube.com/embed/ieGUUGM2SIU" frameborder="0" allowfullscreen></iframe><br><a href="https://youtu.be/ClYj8k4z4Xk">https://youtu.be/ieGUUGM2SIU</a></div>
-#### Navigation
-<small>
-previous podcast: [intopenpodcast alpha 1](/2015-08-25-internationalopenpodcast_alpha1.html) overview: [all podcasts](/category/podcast.html) next podcast: [intopenpodcast episode 001](/2015-10-20-internationalopenpodcast_episode_001.html)
-</small>
 
-####  Podcast feed:
 
-Please give this URL into your [podcatcher](https://de.wikipedia.org/wiki/Podcasting):
+<div style="float:right; margin: 5px; padding: 5px; width:260px;">
+<h2>Navigation</h2>
+<ul>
+<li>previous podcast: <a href="/2015-08-25-internationalopenpodcast_alpha1.html">alpha1</a></li>
+<li><a href="/category/podcast.html">overview</a></li>
+<li>next podcast: <a href="/2015-10-20-internationalopenpodcast_episode_001.html">episode 001</a></li>
+</ul>
+<h2>Photo album</h2>
+<a href="https://flic.kr/s/aHskn46WwW">Flickr album"</a>about Turtlestitch/ScratchAMS<br>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/horstjens/albums/72157659719358322" title="turtlestitch workshop"><img src="https://farm6.staticflickr.com/5679/21919091560_3fa0466cc3_b.jpg" width="250" height="188" alt="turtlestitch workshop"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<h2>Youtube</h2>
+<a href="https://youtu.be/zSbeZT1BLLE">youtu.be/ieGUUGM2SIU</a><br>
+<iframe width="250" height="188" src="https://www.youtube.com/embed/ieGUUGM2SIU" frameborder="0" allowfullscreen></iframe>
+<h2>Amazon</h2>
+<div><a href="http://www.amazon.de/gp/product/0091956137/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=0091956137&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0091956137&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=0091956137" width="1" height="1" border="0" alt="Amazon" style="border:none !important; margin:0px !important;" /><br>
+<a href="http://www.amazon.de/gp/product/B007IZ419G/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B007IZ419G&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007IZ419G&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=B007IZ419G" width="1" height="1" border="0" alt="Amazon" style="border:none !important; margin:0px !important;" /><br>
+<a href="http://www.amazon.de/gp/product/B00O9UMXP2/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00O9UMXP2&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O9UMXP2&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=B00O9UMXP2" width="1" height="1" border="0" alt="Amazon" style="border:none !important; margin:0px !important;" /><br>
+<a href="http://www.amazon.de/gp/product/3404173384/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3404173384&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3404173384&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=3404173384" width="1" height="1" border="0" alt="Amazon" style="border:none !important; margin:0px !important;" /></div>
+</div>
 
-  * ogg format: <http://spielend-programmieren.at/intopenpodcastogg.xml>
-  * mp3 format: <http://spielend-programmieren.at/intopenpodcast.xml>
 
-## Audo Files:
-
-  * ogg: <audio src="http://spielend-programmieren.at/biertaucherfiles/biertaucher226.ogg"
-controls="controls"></audio>
-  * mp3: <audio src="http://spielend-programmieren.at/biertaucherfiles/biertaucher226.mp3"
-controls="controls"></audio>
-
-<small>right-click to download</small>
-
-This podcast was made while Derek was in Vienna after working in South Africa for African Code week. In Vienna Derek did an [workshop together with Andrea Mayr](http://spielend-programmieren.at/blog/20151021_kursleben.html) about Derek's **Scratch for kids for dummies** book and the [turtlestitch project](http://www.stitchcode.com/) as part of [European Code Week 2015](http://codeweek.eu/) (hashtag: `#codeEU`). 
+This podcast was made while Derek was in Vienna after working in South Africa for [African Code week](http://www.africacodeweek.org/). In Vienna Derek did an [workshop together with Andrea Mayr](http://spielend-programmieren.at/blog/20151021_kursleben.html) about Derek's **Scratch for kids for dummies** book and the [turtlestitch project](http://www.stitchcode.com/) as part of [European Code Week 2015](http://codeweek.eu/) (hashtag: `#codeEU`). 
 
 The podcast was done with the crew and of the weekly german-language [Biertaucherpodcast 226](http://spielend-programmieren.at/de:podcast:biertaucher:2015:226) and is full-length in English language
 
-## photos and amazon links
-<div style="float:right; margin:5px"><a href="http://www.amazon.de/gp/product/0091956137/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=0091956137&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0091956137&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=0091956137" width="1" height="1" border="0" alt="Amazon" style="border:none !important; margin:0px !important;" />
- <a href="http://www.amazon.de/gp/product/B007IZ419G/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B007IZ419G&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007IZ419G&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=B007IZ419G" width="1" height="1" border="0" alt="Amazon" style="border:none !important; margin:0px !important;" /> <a href="http://www.amazon.de/gp/product/B00O9UMXP2/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00O9UMXP2&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O9UMXP2&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=B00O9UMXP2" width="1" height="1" border="0" alt="Amazon" style="border:none !important; margin:0px !important;" /> <a href="http://www.amazon.de/gp/product/3404173384/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3404173384&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3404173384&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=3404173384" width="1" height="1" border="0" alt="Amazon" style="border:none !important; margin:0px !important;" /></div>
-I made an [Flickr photo album](https://flic.kr/s/aHskn46WwW) about the Turtlestich / Scratch workshop:
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/horstjens/albums/72157659719358322" title="turtlestitch workshop"><img src="https://farm6.staticflickr.com/5679/21919091560_3fa0466cc3_b.jpg" width="512" height="384" alt="turtlestitch workshop"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+## Audo Files:
+
+<small>(right-click to download)</small>
+
+<audio src="http://spielend-programmieren.at/intopenpodcast/intopenpodcast_alpha2.ogg" controls="controls"></audio> ogg format, good quality
+
+<audio src="http://spielend-programmieren.at/intopenpodcast/intopenpodcast_alpha2.mp3" controls="controls"></audio> mp3 format, good quality
+
+<audio src="http://spielend-programmieren.at/intopenpodcast/intopenpodcast_alpha2_32kbps.mp3" controls="controls"></audio> mp3 format, low quality, small filesize
+
+You can find a list of all **international open podcast** files, interviews etc. at <http://spielend-programmieren.at/intopenpodcast/>.
+
+#### Podcast feed:
+<div style="float:left; padding:5px; margin-right:15px;"><img src="/images/rss.png" alt="rss" width="100"></div>
+<small>
+<ul>
+  <li>ogg format: <http://spielend-programmieren.at/intopenpodcastogg.xml></li>
+  <li>mp3 format: <http://spielend-programmieren.at/intopenpodcast.xml></li>
+</ul>
+For more information, see [podcast feed page](/pages/podcast.html).
+</small>
+
 
 ## content
 
@@ -79,4 +97,19 @@ I made an [Flickr photo album](https://flic.kr/s/aHskn46WwW) about the Turtlesti
   * 1:40:11 dismissal of podcast, 
   * 1:40:48 Ana speaks about the founders of the project Robo Wunderkind
   * 1:49:55 End of Ana's Interview
+
+
+# advertisement (google adsense)
+
+<hr style="height: 3px;">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- intopenmag-unten -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-3535173094498375"
+     data-ad-slot="7210184316"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 

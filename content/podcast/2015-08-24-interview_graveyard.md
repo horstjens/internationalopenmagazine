@@ -1,6 +1,6 @@
 Title: graveyard of interviews
 Date: 2015-08-24 18:30
-Modified: 2015-11-08 22:14
+Modified: 2016-01-08 11:00
 tags: interview
 Slug: 2015-08-24-interview_graveyard
 status: published
@@ -8,17 +8,15 @@ Authors: JENS Horst
 Summarytext: A list of un-used and forgotten interviews in English language that i recorded for the german-language Biertaucher-Podcast</a>
 Summary: <div style="float: left; padding:5px"><img src="/images/international-open-podcast-logo.png" width="100" alt="logo"></div>A list of un-used and forgotten interviews in English language that i recorded for the german-language <a href="http://biertaucher.at">Biertaucher-Podcast</a>.<div style="clear:both;"></div>
 
-<small>podcast feeds:<ul><li>ogg format: <http://spielend-programmieren.at/intopenpodcastogg.xml></li>
-                             <li>mp3 format: <http://spielend-programmieren.at/intopenpodcast.xml> </li></ul></small>
-           
-
 
 All of those interviews are in english (or another non-german) language.
 
 
 Some of those interviews were published in the german-language [Biertaucher-podcast](http://biertaucher.at), some exist on Youtube (audio and visual), for some there exist photos on flickr, but some just sit unheard and unpublished on the server. All interviews are free to use and creative-commons-share-alike licensed. For details and questions, ask `horst.jens@spielend-programmieren.at`
 
-  
+  * 2015-12-30 english: Interview at 32c3 with cloudfleet.io founder: <http://spielend-programmieren.at/intopenpodcast/2015-12-30_32c3_interview_cloudfleet.mp3>
+  * 2015-12-30 english: Interview at 32c3 with dutch vistor Phillip: <http://spielend-programmieren.at/intopenpodcast/2015-12-30_32c3_interview_phillipNL.mp3> 
+  * 2015-12-30 english: Interview at 32c3 with comic artist Pantalon: <http://spielend-programmieren.at/intopenpodcast/2015-12-30_32c3_interview_pantalon.mp3>
   * 2015-10-17 english: Interview with Anna from Project Wunderkind (robot-programming-toy) <http://spielend-programmieren.at/biertaucherfiles/2015-10-11_robowunderkind.mp3>
   * 2015-08-14 english: Interview with Emma from Waag society (Amsterdam). She shows me around the Waag society hackerspace / fablab. Recorded at ScratchAMS2015 conference. <http://spielend-programmieren.at/biertaucherfiles/2015-08_waag_emma.mp3>
   * 2015-08-14 english: Interview with Cecilia (Spanti?) from Waag society (Amsterdam) about her work as fashion artist designer, using Waag society hacker space and fablab. Recorded at ScratchAMS2015 conference in Amsterdam. <http://spielend-programmieren.at/biertaucherfiles/2015-08_waag_cecilia.mp3>
