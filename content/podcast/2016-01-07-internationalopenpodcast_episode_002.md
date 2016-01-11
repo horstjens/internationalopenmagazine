@@ -1,6 +1,6 @@
 Title: international open podcast episode 002
 Date: 2016-01-07 23:00
-Modified: 2016-01-07 23:00
+Modified: 2016-01-09 16:19
 tags: report, conference
 Slug: 2016-01-07-internationalopenpodcast_episode_002
 status: published
@@ -15,12 +15,15 @@ Summary: <div style="float: left; padding:5px"><img src="/images/international-o
 
 <div style="float:right; margin: 5px; padding: 5px; width:260px;">
 <h2>Navigation</h2>
+<small>
 <ul>
-<li>short url: <tt>http://goo.gl/9eK2KM</tt></li>
 <li>previous podcast: <a href="2015-10-20-internationalopenpodcast_episode_001.html">episode 001</a></li>
 <li><a href="/category/podcast.html">overview</a></li>
 <li>next podcast: not yet recorded</li>
+<li>short url: <tt>http://goo.gl/9eK2KM</tt></li>
+<li>fork/improve on <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/podcast/2016-01-07-internationalopenpodcast_episode_002.md">github</a></li>
 </ul>
+</small>
 <h2>Micro-Donate</h2>
 <a href="http://internationalopenmagazine.org/pages/donate.html">other donation methods</a><br>
 <a class="FlattrButton" style="display:none;"
