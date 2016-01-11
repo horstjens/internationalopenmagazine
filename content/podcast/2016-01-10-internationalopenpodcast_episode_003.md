@@ -17,7 +17,7 @@ Summary: <div style="float: left; padding:5px"><img src="/images/international-o
 <h2>Navigation</h2>
 <small>
 <ul>
-<li>previous podcast: <a href="2016-01-10-internationalopenpodcast_episode_003.html">episode 003</a></li>
+<li>previous podcast: <a href="http://internationalopenmagazine.org/2016-01-07-internationalopenpodcast_episode_002.html">episode 003</a></li>
 <li><a href="/category/podcast.html">overview</a></li>
 <li>next podcast: not yet recorded</li>
 <li>short url: <tt></tt></li>
