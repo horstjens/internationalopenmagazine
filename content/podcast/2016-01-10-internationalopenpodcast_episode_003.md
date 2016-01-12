@@ -94,8 +94,10 @@ For more information, see [podcast feed page](/pages/podcast.html).
   * <pc-ts>1:39:20</pc-ts> Sergei talks about his time in a Kibbuz in Israel. Sergei's cousin time in the Israel navy. <http://www.yizrael.org.il/viewpage.asp?pagesCatID=12412&siteName=kyizrael>
   * <pc-ts>1:44:44</pc-ts> Derek dreams back about the fantastic food in the commune and his ideal weight back then. About being guest in a commune and the social pressure of having to work there. 
   * <pc-ts>1:48:12</pc-ts> Why Derek left the commune: working harder than in the navy for 76$/month. Seeing co-workers not working hard but making demands. Doing low-paid manual work in the commune to sell for international companies. Selling hammocks. Out-sourcing work to other communities and "satellites". Wargames about firing tomahawk missles. 
-  * <pc-ts>1:58:42</pc-ts> ...work still in progress...
-  
+  * <pc-ts>1:58:42</pc-ts> Dereks past: wifeless and moneyless in a commune, leaving the commune
+  * <pc-ts>2:04:46</pc-ts> Derek about maternal leave in U.S. and communes policy toward women/parents with children. 
+  * <pc-ts>2:10:17</pc-ts> Sergies podcasting plans with his brand new microphone. 
+  * <pc-ts>2:13:00</pc-ts> Fantasy film game for cinema nerds. More podcast (game) ideas
   
   
   
