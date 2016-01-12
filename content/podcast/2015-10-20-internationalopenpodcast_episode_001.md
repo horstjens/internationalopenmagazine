@@ -44,7 +44,9 @@ The first *official* episode of the **international open podcast**! After our tr
 
 <audio src="http://spielend-programmieren.at/intopenpodcast/intopenpodcast001_32kbps.mp3" controls="controls"></audio> mp3 format, low quality, small filesize
 
-You can find a list of all **international open podcast** files, interviews etc. at <http://spielend-programmieren.at/intopenpodcast/>.
+
+You can find a list of all **international open podcast** files, interviews etc. at <http://spielend-programmieren.at/intopenpodcast/> and at the [graveyard of interviews](http://internationalopenmagazine.org/2015-08-24-interview_graveyard.html).
+
 
 #### Podcast feed:
 <div style="float:left; padding:5px; margin-right:15px;"><img src="/images/rss.png" alt="rss" width="100"></div>
