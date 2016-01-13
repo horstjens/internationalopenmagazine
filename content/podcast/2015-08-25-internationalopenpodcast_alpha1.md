@@ -52,9 +52,9 @@ You can click on the blue timestamps below to play directly the desired part of 
     
 Right-click to download:
 
-<nc-ts><http://spielend-programmieren.at/intopenpodcast/intopenpodcast_alpha1.ogg> ogg format, good quality
-<nc-ts><http://spielend-programmieren.at/intopenpodcast/intopenpodcast_alpha1.mp3> mp3 format, good quality
-<nc-ts><http://spielend-programmieren.at/intopenpodcast/intopenpodcast_alpha1_32kbps.mp3> mp3 format, low quality, small filesize
+  * <http://spielend-programmieren.at/intopenpodcast/intopenpodcast_alpha1.ogg> ogg format, good quality
+  * <http://spielend-programmieren.at/intopenpodcast/intopenpodcast_alpha1.mp3> mp3 format, good quality
+  * <http://spielend-programmieren.at/intopenpodcast/intopenpodcast_alpha1_32kbps.mp3> mp3 format, low quality, small filesize
 
 You can find a list of all **international open podcast** files, interviews etc. at <http://spielend-programmieren.at/intopenpodcast/> and at the [graveyard of interviews](http://internationalopenmagazine.org/2015-08-24-interview_graveyard.html).
 
