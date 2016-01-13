@@ -1,6 +1,6 @@
 Title: international open podcast episode 002
 Date: 2016-01-07 23:00
-Modified: 2016-01-09 16:19
+Modified: 2016-01-13 13:49
 tags: report, conference
 Slug: 2016-01-07-internationalopenpodcast_episode_002
 status: published
@@ -42,13 +42,21 @@ Summary: <div style="float: left; padding:5px"><img src="/images/international-o
 The second  *official* episode of the **international open podcast**. Recorded (nearly) each day at the [32c3 Chaos Communication Congress](https://events.ccc.de/category/32c3/) in Hamburg, the podcast features two interviews and daily impressions from the congress.
            
 ## Audo Files:
-<small>(right-click to download)</small>
 
-<audio src="http://spielend-programmieren.at/intopenpodcast/intopenpodcast002.ogg" controls="controls"></audio> ogg format, good quality
+You can click on the blue timestamps below to play directly the desired part of the podcast
 
-<audio src="http://spielend-programmieren.at/intopenpodcast/intopenpodcast002.mp3" controls="controls"></audio> mp3 format, good quality
 
-<audio src="http://spielend-programmieren.at/intopenpodcast/intopenpodcast002_32kbps.mp3" controls="controls"></audio> mp3 format, low quality, small filesize
+<audio id="netcast" controls="controls">
+   <source src="http://spielend-programmieren.at/intopenpodcast/intopenpodcast002.ogg" type="audio/ogg"/>
+   <source src="http://spielend-programmieren.at/intopenpodcast/intopenpodcast002.mp3" type="audio/mpeg"/>
+</audio>
+
+
+Right-click to download:
+
+  * <http://spielend-programmieren.at/intopenpodcast/intopenpodcast002.ogg> ogg format, good quality
+  * <http://spielend-programmieren.at/intopenpodcast/intopenpodcast002.mp3> mp3 format, good quality
+  * <http://spielend-programmieren.at/intopenpodcast/intopenpodcast002_32kbps.mp3> mp3 format, low quality, small filesize
 
 
 You can find a list of all **international open podcast** files, interviews etc. at <http://spielend-programmieren.at/intopenpodcast/> and at the [graveyard of interviews](http://internationalopenmagazine.org/2015-08-24-interview_graveyard.html).
@@ -71,40 +79,40 @@ For more information, see [podcast feed page](/pages/podcast.html).
   * all 32c3 talks we referr to can be found [on youtube](https://www.youtube.com/playlist?list=PL_IxoDz1Nq2YahR4DU9q5GWsSTle-mETW) and are described at the [32c3 Fahrplan](https://events.ccc.de/congress/2015/Fahrplan/schedule.html)
 
 
-  * <pc-ts>0:00:00</pc-ts> intro (Horst)
-  * <pc-ts>0:00:17</pc-ts> Stefan and Horst reporting from "Chaos Communication Congress" 32c3 in Hamburg (first day). The term "hacking" explained and general information / impressions of 32c3. 
-  * <pc-ts>0:04:12</pc-ts> Horst's arrival and first day impression. "Everything is dark!" 
-  * <pc-ts>0:05:53</pc-ts> Amazing good WLAN/Wifi quality for 12.000 people
-  * <pc-ts>0:06:27</pc-ts> Horst remembers a far smaller and more overgrowed. ccc congress in Berlin. 
-  * <pc-ts>0:07:22</pc-ts> [Keynote speaker Fatuma Afrah](https://www.ccc.de/de/updates/2015/fatuma), Refugees and gated communities.
-  * <pc-ts>0:09:35</pc-ts> small radio/sending devices
-  * <pc-ts>0:11:12</pc-ts> being voiceless (keynote)
-  * <pc-ts>0:12:15</pc-ts> (partly background noise due to wind)
-  * <pc-ts>0:13:44</pc-ts> Stefan was on a concert at 32c3
-  * <pc-ts>0:15:00</pc-ts> Horst hacked in a ad-hoc muslim praying site, [Mitch Altman](https://en.wikipedia.org/wiki/Mitch_Altman) soldering workshop, queer, blinkenwheelchairs with LEDs, tables of hackerspaces and interest groups
-  * <pc-ts>0:17:00</pc-ts> live-podcasting at the 32c3 stage ("Sendezentrum"). 
-  * <pc-ts>0:18:00</pc-ts> all organized by unpaid, volunteer "Chaos-Angels"
-  * <pc-ts>0:19:09</pc-ts> Stefan was on a podcaster-meeting at Sendezentrum, found friends of our german-language [Biertaucherpodcast](http://biertaucherpodcast)
-  * <pc-ts>0:19:55</pc-ts> (technical noise due to battery change). Hackers drink caffeinated "Mate" soft drinks. Food podcasts. 
-  * <pc-ts>0:20:15</pc-ts> informal black t-shirt dress code of hackers. Theater play ater midnight at 32c3
-  * <pc-ts>0:21:36</pc-ts> Stefan tried out a [recumbent-bike](http://www.toxy.de/) and managed to fall down several times. Difficult to control recument-bikes. thieves-proof?
-  * <pc-ts>0:25:39</pc-ts> Second day at 32c3. sleepless shedule, 6-2-1 rule: sleep, eat, shower. Sleeping hall space was aviable for 5 Euro/ Night
-  * <pc-ts>0:27:35</pc-ts> 3-dimensional bike-lanes made out of bricks
-  * <pc-ts>0:28:09</pc-ts> lightning talks explained, difficulty to meet at 32c3 even with twitter communication. Advantages of being in-person at the conference vs. watching the talks at home.
-  * <pc-ts>0:31:05</pc-ts> 32c3 indoor navigation map to guide you to the next location. Unisex toilets. Animation of the flow of peoples in a congress with WIFI data. 
-  * <pc-ts>0:33:22</pc-ts> 32c3 is exhausting! Bring good shoes, you walk a lot. 
-  * <pc-ts>0:34:00</pc-ts> Horst talks about a talk he liked: [maker spaces in  favelas](https://youtu.be/57puHeGkrXk?list=PL_IxoDz1Nq2YahR4DU9q5GWsSTle-mETW) how to approach communities with a low-tech, hands-on way. Lot of tech talks touching poilical / society topics. Lot of makers at 32c3
-  * <pc-ts>0:37:04</pc-ts> third day at 32c3. Stefan has too less sleep.
-  * <pc-ts>0:38:12</pc-ts> Stefan got recognized because of his (podcast) voice. 
-  * <pc-ts>0:39:11</pc-ts> Talk: Hacker "Obelix" about recycling plastic used for 3d printers. 
-  * <pc-ts>0:41:55</pc-ts> Lighting talks. IDE-Buddy, a successor for "Clippy" because real friends suck by trying to give useful advice. Open-Source Age-of-empires clone. 
-  * <pc-ts>0:44:55</pc-ts> midnight talk: "Fnorjd Jahresrückblick show", looking back at relevant stuff for chaos computer club hackers
-  * <pc-ts>0:47:10</pc-ts> "methodisch inkorrekt" live podcast show at 32c3, very big audience from midnight until 3.00 a.m. 32c3 is filled with hackers night and day.
-  * <pc-ts>0:49:37</pc-ts> talk: open alternatives to social networks. Too many fragmented, incompatible networks. "The federation" - interconnected social networks.
-  * <pc-ts>0:51:56</pc-ts> 32c3 talk about [social graphs](https://en.wikipedia.org/wiki/Social_graph): the russian tsarist secret police used social graphs. **Note: we recorded another session at the last day ov 32c3 but it somehow is missing**
-  * <pc-ts>0:54:04</pc-ts> social engeneering: fre seats in the first row
-  * <pc-ts>0:54:31</pc-ts> **INTERVIEW**: Phillip, a 32c3 first-time visitor from the Netherlands. Compare with Defcon in Las Vegas. Talk about net_neutrality in Europe from Thomas Lohninger. Keynote. Stasi. 
-  * <pc-ts>0:57:28</pc-ts> **INTERVIEW**: Comic artist *[Pantalon](http://pantalon.tv)* about drawing comics at the 32c3 comic assembly table. About watching talks online while sitting in a talk and joining a party inside a party in the 32ce lounge. Pantalon talks about his work-life, his art and doing art for relaxation and fun. 
+  * <nc-ts>0:00:00</nc-ts> intro (Horst)
+  * <nc-ts>0:00:17</nc-ts> Stefan and Horst reporting from "Chaos Communication Congress" 32c3 in Hamburg (first day). The term "hacking" explained and general information / impressions of 32c3. 
+  * <nc-ts>0:04:12</nc-ts> Horst's arrival and first day impression. "Everything is dark!" 
+  * <nc-ts>0:05:53</nc-ts> Amazing good WLAN/Wifi quality for 12.000 people
+  * <nc-ts>0:06:27</nc-ts> Horst remembers a far smaller and more overgrowed. ccc congress in Berlin. 
+  * <nc-ts>0:07:22</nc-ts> [Keynote speaker Fatuma Afrah](https://www.ccc.de/de/updates/2015/fatuma), Refugees and gated communities.
+  * <nc-ts>0:09:35</nc-ts> small radio/sending devices
+  * <nc-ts>0:11:12</nc-ts> being voiceless (keynote)
+  * <nc-ts>0:12:15</nc-ts> (partly background noise due to wind)
+  * <nc-ts>0:13:44</nc-ts> Stefan was on a concert at 32c3
+  * <nc-ts>0:15:00</nc-ts> Horst hacked in a ad-hoc muslim praying site, [Mitch Altman](https://en.wikipedia.org/wiki/Mitch_Altman) soldering workshop, queer, blinkenwheelchairs with LEDs, tables of hackerspaces and interest groups
+  * <nc-ts>0:17:00</nc-ts> live-podcasting at the 32c3 stage ("Sendezentrum"). 
+  * <nc-ts>0:18:00</nc-ts> all organized by unpaid, volunteer "Chaos-Angels"
+  * <nc-ts>0:19:09</nc-ts> Stefan was on a podcaster-meeting at Sendezentrum, found friends of our german-language [Biertaucherpodcast](http://biertaucherpodcast)
+  * <nc-ts>0:19:55</nc-ts> (technical noise due to battery change). Hackers drink caffeinated "Mate" soft drinks. Food podcasts. 
+  * <nc-ts>0:20:15</nc-ts> informal black t-shirt dress code of hackers. Theater play ater midnight at 32c3
+  * <nc-ts>0:21:36</nc-ts> Stefan tried out a [recumbent-bike](http://www.toxy.de/) and managed to fall down several times. Difficult to control recument-bikes. thieves-proof?
+  * <nc-ts>0:25:39</nc-ts> Second day at 32c3. sleepless shedule, 6-2-1 rule: sleep, eat, shower. Sleeping hall space was aviable for 5 Euro/ Night
+  * <nc-ts>0:27:35</nc-ts> 3-dimensional bike-lanes made out of bricks
+  * <nc-ts>0:28:09</nc-ts> lightning talks explained, difficulty to meet at 32c3 even with twitter communication. Advantages of being in-person at the conference vs. watching the talks at home.
+  * <nc-ts>0:31:05</nc-ts> 32c3 indoor navigation map to guide you to the next location. Unisex toilets. Animation of the flow of peoples in a congress with WIFI data. 
+  * <nc-ts>0:33:22</nc-ts> 32c3 is exhausting! Bring good shoes, you walk a lot. 
+  * <nc-ts>0:34:00</nc-ts> Horst talks about a talk he liked: [maker spaces in  favelas](https://youtu.be/57puHeGkrXk?list=PL_IxoDz1Nq2YahR4DU9q5GWsSTle-mETW) how to approach communities with a low-tech, hands-on way. Lot of tech talks touching poilical / society topics. Lot of makers at 32c3
+  * <nc-ts>0:37:04</nc-ts> third day at 32c3. Stefan has too less sleep.
+  * <nc-ts>0:38:12</nc-ts> Stefan got recognized because of his (podcast) voice. 
+  * <nc-ts>0:39:11</nc-ts> Talk: Hacker "Obelix" about recycling plastic used for 3d printers. 
+  * <nc-ts>0:41:55</nc-ts> Lighting talks. IDE-Buddy, a successor for "Clippy" because real friends suck by trying to give useful advice. Open-Source Age-of-empires clone. 
+  * <nc-ts>0:44:55</nc-ts> midnight talk: "Fnorjd Jahresrückblick show", looking back at relevant stuff for chaos computer club hackers
+  * <nc-ts>0:47:10</nc-ts> "methodisch inkorrekt" live podcast show at 32c3, very big audience from midnight until 3.00 a.m. 32c3 is filled with hackers night and day.
+  * <nc-ts>0:49:37</nc-ts> talk: open alternatives to social networks. Too many fragmented, incompatible networks. "The federation" - interconnected social networks.
+  * <nc-ts>0:51:56</nc-ts> 32c3 talk about [social graphs](https://en.wikipedia.org/wiki/Social_graph): the russian tsarist secret police used social graphs. **Note: we recorded another session at the last day ov 32c3 but it somehow is missing**
+  * <nc-ts>0:54:04</nc-ts> social engeneering: fre seats in the first row
+  * <nc-ts>0:54:31</nc-ts> **INTERVIEW**: Phillip, a 32c3 first-time visitor from the Netherlands. Compare with Defcon in Las Vegas. Talk about net_neutrality in Europe from Thomas Lohninger. Keynote. Stasi. 
+  * <nc-ts>0:57:28</nc-ts> **INTERVIEW**: Comic artist *[Pantalon](http://pantalon.tv)* about drawing comics at the 32c3 comic assembly table. About watching talks online while sitting in a talk and joining a party inside a party in the 32ce lounge. Pantalon talks about his work-life, his art and doing art for relaxation and fun. 
   
 Extra content, not included in this podcast:
 
