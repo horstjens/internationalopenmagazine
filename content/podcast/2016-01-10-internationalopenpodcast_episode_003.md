@@ -1,6 +1,6 @@
 Title: international open podcast episode 003
 Date: 2016-01-11 16:45
-Modified: 2016-01-13 13:56
+Modified: 2016-02-03 21:20
 tags: report, conference
 Slug: 2016-01-10-internationalopenpodcast_episode_003
 status: published
@@ -11,7 +11,7 @@ GeoPlacename: Moscow
 GeoPosition: 55.755826; 37.6173
 Authors: BREEN Derek, BONDARENKO Sergey
 Summarytext: Episode 003 of the international open podcast: Derek BREEN talks in Moscow with historian Sergey BONDARENKO 
-Summary: <div style="float: left; padding:5px"><img src="/images/international-open-podcast-logo.png" width="100" alt="logo"></div><div style="clear:both;"></div>
+Summary: <div style="float: left; padding:5px"><img src="/images/international-open-podcast-logo.png" width="100" alt="logo"></div>Episode 003 of the international open podcast: Derek BREEN talks in Moscow with historian Sergey BONDARENKO <div style="clear:both;"></div>
 
 <div style="float:right; margin: 5px; padding: 5px; width:260px;">
 <h2>Navigation</h2>

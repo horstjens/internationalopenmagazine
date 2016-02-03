@@ -1,10 +1,10 @@
 Title:  Pirate Bay founder builds the ultimate piracy machine
 Date:    2015-12-21 10:36
-Modfied: 2015-12-21 11:28
+Modfied: 2016-02-03 20:23
 Tags:    politic, art, copyright, piratebay, raspberrypi, peter sunde
 Status: published 
 Slug:    2015-12-21-piratemachine
-Authors: Ernesto Van der Sar
+Authors: VAN DER SAR Ernesto
 ICBM: 52.370216, 4.895168
 GeoPosition: 52.370216; 4.895168
 GeoPlacename: Amsterdam

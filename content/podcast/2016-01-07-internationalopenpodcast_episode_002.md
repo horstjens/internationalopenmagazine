@@ -1,6 +1,6 @@
 Title: international open podcast episode 002
 Date: 2016-01-07 23:00
-Modified: 2016-01-13 13:49
+Modified: 2016-01-18 11:49
 tags: report, conference
 Slug: 2016-01-07-internationalopenpodcast_episode_002
 status: published
@@ -111,8 +111,9 @@ For more information, see [podcast feed page](/pages/podcast.html).
   * <nc-ts>0:49:37</nc-ts> talk: open alternatives to social networks. Too many fragmented, incompatible networks. "The federation" - interconnected social networks.
   * <nc-ts>0:51:56</nc-ts> 32c3 talk about [social graphs](https://en.wikipedia.org/wiki/Social_graph): the russian tsarist secret police used social graphs. **Note: we recorded another session at the last day ov 32c3 but it somehow is missing**
   * <nc-ts>0:54:04</nc-ts> social engeneering: fre seats in the first row
-  * <nc-ts>0:54:31</nc-ts> **INTERVIEW**: Phillip, a 32c3 first-time visitor from the Netherlands. Compare with Defcon in Las Vegas. Talk about net_neutrality in Europe from Thomas Lohninger. Keynote. Stasi. 
-  * <nc-ts>0:57:28</nc-ts> **INTERVIEW**: Comic artist *[Pantalon](http://pantalon.tv)* about drawing comics at the 32c3 comic assembly table. About watching talks online while sitting in a talk and joining a party inside a party in the 32ce lounge. Pantalon talks about his work-life, his art and doing art for relaxation and fun. 
+  * <nc-ts>0:54:31</nc-ts> 32c3 last day: zombie day
+  * <nc-ts>1:06:20</nc-ts> **INTERVIEW**: Phillip, a 32c3 first-time visitor from the Netherlands. Compare with Defcon in Las Vegas. Talk about net_neutrality in Europe from Thomas Lohninger. Keynote. Stasi. 
+  * <nc-ts>1:18:28</nc-ts> **INTERVIEW**: Comic artist *[Pantalon](http://pantalon.tv)* about drawing comics at the 32c3 comic assembly table. About watching talks online while sitting in a talk and joining a party inside a party in the 32ce lounge. Pantalon talks about his work-life, his art and doing art for relaxation and fun. 
   
 Extra content, not included in this podcast:
 

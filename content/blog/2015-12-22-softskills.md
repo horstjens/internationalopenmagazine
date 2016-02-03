@@ -4,7 +4,7 @@ Modfied: 2015-12-25 21:42
 Tags:    education
 Status: published 
 Slug:    2015-12-22-softskills
-Authors: Lynne Shallcross
+Authors: SHALLCROSS Lynne
 ICBM: 40.058324, -74.405661        
 GeoPosition: 40.058324;-74.405661
 GeoPlacename: New Jersey
