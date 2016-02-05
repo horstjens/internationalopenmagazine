@@ -72,6 +72,7 @@ For more information, see [podcast feed page](/pages/podcast.html).
 **technical note**: This podcast was recorded between two continents via Google Hangout on Air and has some static noise due to the used microphones. 
 
   * <nc-ts>0:00:00</nc-ts> intro (Horst)
+  * <nc-ts>0:00:17</nc-ts> greetings, introduction
  
   
   
