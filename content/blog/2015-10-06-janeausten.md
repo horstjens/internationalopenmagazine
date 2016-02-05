@@ -101,7 +101,7 @@ Summary: <div style="float: left; margin:5px"><img src="/images/2015-10-06-janea
 
 # advertisement (google adsense) 
 
-<hr style="height: 3px;">
+<hr style="border:solid 5px black;">
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- intopenmag-unten -->

@@ -106,7 +106,7 @@ I was and I am the first of all a great curious. After all, I learned from an [o
  
 # advertisement (google adsense)
 
-<hr style="height: 3px;">
+<hr style="border:solid 5px black;">
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- intopenmag-unten -->

@@ -242,7 +242,7 @@ See the original comments [direct in Facebook](https://www.facebook.com/internat
 
 # advertisement (google adsense)
 
-<hr style="height: 3px;">
+<hr style="border:solid 5px black;">
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- intopenmag-unten -->

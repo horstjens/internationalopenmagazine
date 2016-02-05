@@ -100,7 +100,7 @@ By keeping these four Ps in mind, educators and others can make sure that coding
 
 # advertisement (google adsense) 
 
-<hr style="height: 3px;">
+<hr style="border:solid 5px black;">
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- intopenmag-unten -->

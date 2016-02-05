@@ -1,6 +1,6 @@
 Title: international open podcast episode 003
 Date: 2016-01-11 16:45
-Modified: 2016-02-03 21:20
+Modified: 2016-02-05 08:07
 tags: report, conference
 Slug: 2016-01-10-internationalopenpodcast_episode_003
 status: published
@@ -19,7 +19,7 @@ Summary: <div style="float: left; padding:5px"><img src="/images/international-o
 <ul>
 <li>previous podcast: <a href="http://internationalopenmagazine.org/2016-01-07-internationalopenpodcast_episode_002.html">episode 002</a></li>
 <li><a href="/category/podcast.html">overview</a></li>
-<li>next podcast: not yet recorded</li>
+<li>next podcast: <a href="http://internationalopenmagazine.org/2016-02-04-internationalopenpodcast_episode_004.html">episode 004</a></li>
 <li>short url: <tt>http://goo.gl/xaksJ3</tt></li>
 <li>fork/improve on <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/podcast/2016-01-10-internationalopenpodcast_episode_003.md">github</a></li>
 </ul>
@@ -30,7 +30,7 @@ Summary: <div style="float: left; padding:5px"><img src="/images/international-o
 <h2>Micro-Donate</h2>
 <a href="http://internationalopenmagazine.org/pages/donate.html">other donation methods</a><br>
 <a class="FlattrButton" style="display:none;"
-    title="International Open Podcast Episode 002"
+    title="International Open Podcast Episode 003"
     data-flattr-uid="horstjens"
     data-flattr-tags="podcast"
     data-flattr-category="podcast" href="http://internationalopenmagazine.org/2016-01-10-internationalopenpodcast_episode_003.html">International Open Podcast episode 003</a>
@@ -122,7 +122,7 @@ For more information, see [podcast feed page](/pages/podcast.html).
 
 # advertisement (google adsense)
 
-<hr style="height: 3px;">
+<hr style="border:solid 5px black;">
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- intopenmag-unten -->

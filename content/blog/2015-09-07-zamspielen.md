@@ -103,8 +103,7 @@ other links about this event:
   * [ZamSpielen at flickr](https://www.flickr.com/search/?q=zamspielen)
   * [ZamSpielen Twitter account](https://twitter.com/zamspielen)
 
-<hr style="height: 3px; border-color:#000000;">
-
+<hr style="border:solid 5px black;">
 # advertisement (google adsense)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

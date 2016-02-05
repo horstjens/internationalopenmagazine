@@ -110,7 +110,7 @@ The youtube description as well as the shownote site (biertaucherpodcast 227) ha
 
 # advertisement (google adsense)
 
-<hr style="height: 3px;">
+<hr style="border:solid 5px black;">
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- intopenmag-unten -->
