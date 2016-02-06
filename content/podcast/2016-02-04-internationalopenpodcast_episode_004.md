@@ -1,6 +1,6 @@
 Title: international open podcast episode 004
 Date: 2016-02-04 17:00
-Modified: 2016-02-04 23:55
+Modified: 2016-02-07 00:55
 tags: scratch, oer
 Slug: 2016-02-04-internationalopenpodcast_episode_004
 status: published
@@ -34,6 +34,9 @@ Summary: <div style="float: left; padding:5px"><img src="/images/international-o
     data-flattr-uid="horstjens"
     data-flattr-tags="podcast"
     data-flattr-category="podcast" href="http://internationalopenmagazine.org/2016-02-04-internationalopenpodcast_episode_004.html">International Open Podcast episode 004</a>
+<h2>Youtube</h2>
+<iframe width="250" height="141" src="https://www.youtube.com/embed/1ZpaVElZqDM" frameborder="0" allowfullscreen></iframe><br>
+<a href="https://youtu.be/1ZpaVElZqDM">youtu.be/1ZpaVElZqDM</a>
 </div>
 
 
@@ -73,6 +76,27 @@ For more information, see [podcast feed page](/pages/podcast.html).
 
   * <nc-ts>0:00:00</nc-ts> intro (Horst)
   * <nc-ts>0:00:17</nc-ts> greetings, introduction
+  * <nc-ts>0:00:23</nc-ts> we are recording this podcast using Google Hangout Air. Time differences
+    * https://plus.google.com/hangouts/onair
+  * <nc-ts>0:01:05</nc-ts> Derek talks about the production of intopenpodcast003 in Moscow. Plans for more Podcasts in Moscow. Finding recording-friendly restaurants, problems with background music and music industry
+    * http://internationalopenmagazine.org/2016-01-10-internationalopenpodcast_episode_003
+  * <nc-ts>0:03:00</nc-ts> How to pronounce "Moscow" correctly. Derek was 3 months in Moscow, learns Russian now (reading the alphabet).
+  * <nc-ts>0:03:50</nc-ts> Tv-series "School of the future": Internet education television, Pilot was produced in Russia with Derek (talking English, translated in post-production). Huge target audience Moscow, also aimed at international audience.
+  * <nc-ts>0:06:30</nc-ts> Who is paying Derek in Moscow? Derek talks about production of educational shows and plans for the future. Creative Computing "Scratch" Lab in Moscow elite school? Getting Scratch creative computing curriculum translated from English into Russian. 
+  * <nc-ts>0:08:50</nc-ts> Curriculum: Open educational resources, creative-commons licensed, made with adaption/remixing by teachers in mind. 
+  * <nc-ts>0:10:00</nc-ts> Computer Lab / School situation in Russia. Elite vs. "every school" approach? Kids teaching in the Scratch workshops. Empowering kids to teach each other. Derek visited 3 schools, Macbooks in  schools, no Desktop computer labs?
+  * <nc-ts>0:12:50</nc-ts> No Linux in Moscow: Linux was no topic, Apple was stronger than Windows/PC in schools there.
+  * <nc-ts>0:13:36</nc-ts> Derek is reviewing Linda Lukas computer book for children. Derek propose an Scratch project with Linda's artwork. 
+  * <nc-ts>0:14:50</nc-ts> Hour of code, code.org: big brands (Disney, StarWars) use Google blockly to teach Computer Science. No remix possibility? Scratch is better for remixing. Horst rants against license-tainted, non-free art and content in education material.
+  * <nc-ts>0:16:50</nc-ts> Scratch having the same problems as Youtube: content industry demands removal of Scratch projects because copyright violations (music)
+  * <nc-ts>0:17:30</nc-ts> Cartoon network scratch projects: not free licensed, but remixable within Scratch. Legal situation? 
+  * <nc-ts>0:20:40</nc-ts> Horst was in contact with Digital Champion meeting in Austria (in an European Community Building), being the only one speaking about creative commons and free licenses.
+  * <nc-ts>0:22:08</nc-ts> How to get kids into coding? Horst prefers coding python in text mode, Derek favors vector graphics in Scratch.
+  * <nc-ts>0:23:40</nc-ts> Real (computer) life cartoon charakters in Linda Lukas book: Tux, Firefox, Apple, Android. Linda's TED-Talk. Social Status gain of having a TED Talk. Derek is burnt out on Ted Talks and find them exhausting.
+  * <nc-ts>0:25:36</nc-ts> Bernard Hankings?
+  * <nc-ts>0:00:17</nc-ts>
+  
+  
  
   
   
