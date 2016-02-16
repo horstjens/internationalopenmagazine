@@ -1,6 +1,6 @@
 Title: Are IDNs (Internationalized Domain Names) the answer to a Multi-lingual Internet?
 Date: 2016-02-16 16:00
-Modfied: 2016-02-16 16:39
+Modfied: 2016-02-16 17:43
 Tags: multi-lingual, Africa
 Slug: 2016-02-16-multilingual
 ICBM: -6.162959, 35.751607
@@ -12,7 +12,7 @@ Summarytext: Can Internatiolnalized Domain Names with non-english characters ope
 Summary: <div style="float: left; padding:5px"><img src="/images/authors/bonface_witaba.jpg" alt="Bonface WITABA" height="100"></div> Can Internatiolnalized Domain Names with non-english characters open up internet access to millions of  Swahili speakers in countries like Tanzania? <div style="clear:both;"></div>
 <div style="float:right; padding: 5px; margin: 5px; background-color: #BBBBBB; width:260px;">
 <b>Name</b>: <a href="https://bonfacewitaba.wordpress.com/">Bonface WITABA</a><br>
-<b>Contact</a></b>: <a href="https://twitter.com/bswitaba">@bswitaba</a>, <a href="https://bonfacewitaba.wordpress.com/about/">bswitabaqyahoo.co.uk</a><br>
+<b>Contact</a></b>: <a href="https://twitter.com/bswitaba">@bswitaba</a>, <a href="https://bonfacewitaba.wordpress.com/about/">bswitaba@yahoo.co.uk</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/APjz7V">goo.gl/APjz7V</a><br>
 <b>Hashtag</b>: <tt>#IDN</tt><br>
 <b>Fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/blog/2016-02-16-multilingual.md">on Github</a><br>
