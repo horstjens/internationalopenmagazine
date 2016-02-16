@@ -81,7 +81,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 # Social widget
 SOCIAL = (
           ('Mailinglist','https://groups.google.com/forum/#!forum/internationalopenmagazine' ),
-          ('Twitter', 'https://twitter.com/search?q=%23intopenmag&src=typd'),
+          ('Twitter', 'https://twitter.com/intopenmag'),
           ('Github', 'https://github.com/horstjens/internationalopenmagazine'),
           ('Google+', 'https://plus.google.com/b/101914803942842117545/101914803942842117545/posts'),
           ('Facebook', 'https://www.facebook.com/internationalopenmagazine'),
