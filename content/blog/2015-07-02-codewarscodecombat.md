@@ -35,7 +35,7 @@ Both websites use a free software philosophy (all code examples [free licensed](
 # CodeCombat
 
 
-<a href="http://codecombat.com"><img border="0" src="http://spielend-programmieren.at/blog/images/20150702_codecombat.png" width="800"></a>
+<a href="http://codecombat.com"><img border="0" src="http://spielend-programmieren.at/blog/images/20150702_codecombat.png" width="640"></a>
 <br>
 <small>Screenshot of CodeCombat. Image rights: <a href="http://codecombat.com">CodeCombat</a></small>
 

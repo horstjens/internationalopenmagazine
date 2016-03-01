@@ -40,7 +40,7 @@ Recently, Tanzania hit the headlines with it’s announcement that it was ditchi
 
 From an Internet Governance perspective, Imagine if, every time students wanted to visit a website, they were expected to type in letters from a language they did not speak. Well, that’s perhaps one immediate challenge Tanzania may have to deal with considering most of the content available online is in English.
 
-<div><a href="https://pixabay.com/en/market-africa-colorful-tanzania-344018/"><img src="/images/2016-02-16-multilingual/market-344018.jpg" alt="market in Tanzania" width="800"></a><br><small>Market scene in Tanzania. Image rights: cc0 public domain by <a href="https://pixabay.com/en/market-africa-colorful-tanzania-344018/">Rudy Gort / Pixabay</a></small></div>
+<div><a href="https://pixabay.com/en/market-africa-colorful-tanzania-344018/"><img src="/images/2016-02-16-multilingual/market-344018.jpg" alt="market in Tanzania" width="640"></a><br><small>Market scene in Tanzania. Image rights: cc0 public domain by <a href="https://pixabay.com/en/market-africa-colorful-tanzania-344018/">Rudy Gort / Pixabay</a></small></div>
 <br><br>
 
 By design, the Internet is one global network. However, it was not designed to be multi-lingual. For years, this has been a limitation considering the Internet only permitted a limited set of Latin characters.

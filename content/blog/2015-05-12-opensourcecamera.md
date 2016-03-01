@@ -30,7 +30,7 @@ Summary: <div style="float: left; padding:5px"><img src="http://spielend-program
 
 # Axiom, an open source / open hardware film camera 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/horstjens/16823216324" title="Linuxwochen Wien 2015"><img src="https://farm6.staticflickr.com/5462/16823216324_2eb22910d3_c.jpg" width="800" height="600" alt="Linuxwochen Wien 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/horstjens/16823216324" title="Linuxwochen Wien 2015"><img src="https://farm6.staticflickr.com/5462/16823216324_2eb22910d3_c.jpg" width="640" height="480" alt="Linuxwochen Wien 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
 <small>Axiom Beta at Linuxwochen Wien 2015</small>
 
 
