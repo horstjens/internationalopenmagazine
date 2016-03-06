@@ -12,6 +12,9 @@ GeoRegion:  AT-9                            <!-- see https://en.wikipedia.org/wi
 Summary: <div style="float: left; padding:5px"><img src="SUMMARYIMAGEURL" width="100" alt="SUMMARYIMAGEALTTEXT"></div>SUMMARY TEXT WITHOUT NEW LINE<div style="clear:both;"></div>
 Summarytext: the same as Summary, but without any html
 
+
+<!-- put 800 pixel width header image here -->
+
 <div style="float:right; padding: 5px; margin: 5px; background-color: #bbbbbb; width:260px;"> 
 <b>Name</b>: <a href="YOUR HOMEPAGE">Firstname LASTNAME</a><br>
 <b>Contact</b>: <a href="CONTACTURL">CALLSIGN</a><br>

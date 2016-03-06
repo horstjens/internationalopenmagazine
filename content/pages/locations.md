@@ -9,7 +9,7 @@ A [google fusion table](https://www.google.com/fusiontables/DataSource?docid=1H_
 click on the red dots to open article info and link to article
 
     
-    
+ 
 
 
 <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false&amp;v=3"></script>
@@ -25,7 +25,7 @@ click on the red dots to open article info and link to article
     }
     var mapDiv = document.getElementById('googft-mapCanvas');
     mapDiv.style.width = isMobile ? '100%' : '1200px';
-    mapDiv.style.height = isMobile ? '100%' : '480px';
+    mapDiv.style.height = isMobile ? '100%' : '800px';
     var map = new google.maps.Map(mapDiv, {
       center: new google.maps.LatLng(21.786919101146587, 8.106536865234375),
       zoom: 3,
