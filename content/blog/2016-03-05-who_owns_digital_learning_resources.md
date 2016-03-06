@@ -9,7 +9,7 @@ GeoPosition: 37.441883;-122.143019
 ICBM: 37.441883, -122.143019
 Authors: PLOTKIN Hal
 Summarytext: Hal Plotkin compares the push for closed-source digital education material owned by profit-seeking ed-tech companies with the situation of pharma industry and public funded, privately owned research in the field gene technology 
-Summary: <div style="float: left; padding:5px"><img src="/images/authors/hal_plotking.jpg" alt="Hal PLOTKING" height="100"></div>Hal Plotkin compares the push for closed-source digital education material owned by profit-seeking ed-tech companies with the situation of pharma industry and public funded, privately owned research in the field gene technology<div style="clear:both;"></div>
+Summary: <div style="float: left; padding:5px"><img src="/images/authors/hal_plotking.jpg" alt="Hal PLOTKING" height="100"> <img src="/images/2016-03-05-who_owns_digital_learning_resources/headerimage.jpg" alt="headerimage" height="100"></div>Hal Plotkin compares the push for closed-source digital education material owned by profit-seeking ed-tech companies with the situation of pharma industry and public funded, privately owned research in the field gene technology<div style="clear:both;"></div>
 
 <div name="headerimage" width="800"><img src="/images/2016-03-05-who_owns_digital_learning_resources/headerimage.jpg" alt="remixed headerimage" width="800"><br><small>Image remixed by <a href="http://spielend-programmieren.at">Horst JENS</a> sources/rights: 
 <a href="https://pixabay.com/en/banner-header-monitor-binary-909710/">Gerd Altmann</a>,

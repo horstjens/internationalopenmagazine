@@ -9,7 +9,10 @@ GeoPlacename: Dodoma
 GeoPosition: -6.162959;35.751607
 Authors: WITABA Bonface
 Summarytext: Can Internatiolnalized Domain Names with non-english characters open up internet access to millions of Swahili speakers in countries like Tanzania?
-Summary: <div style="float: left; padding:5px"><img src="/images/authors/bonface_witaba.jpg" alt="Bonface WITABA" height="100"></div> Can Internatiolnalized Domain Names with non-english characters open up internet access to millions of  Swahili speakers in countries like Tanzania? <div style="clear:both;"></div>
+Summary: <div style="float: left; padding:5px"><img src="/images/authors/bonface_witaba.jpg" alt="Bonface WITABA" height="100"> <img src="/images/2016-02-16-multilingual/market-344018.jpg" alt="market in Tanzania" height="100"></div> Can Internatiolnalized Domain Names with non-english characters open up internet access to millions of  Swahili speakers in countries like Tanzania? <div style="clear:both;"></div>
+
+<div><a href="https://pixabay.com/en/market-africa-colorful-tanzania-344018/"><img src="/images/2016-02-16-multilingual/market-344018.jpg" alt="market in Tanzania" width="800"></a><br><small>Market scene in Tanzania. Image rights: cc0 public domain by <a href="https://pixabay.com/en/market-africa-colorful-tanzania-344018/">Rudy Gort / Pixabay</a></small></div>
+
 <div style="float:right; padding: 5px; margin: 5px; background-color: #BBBBBB; width:260px;">
 <b>Name</b>: <a href="https://bonfacewitaba.wordpress.com/">Bonface WITABA</a><br>
 <b>Contact</a></b>: <a href="https://twitter.com/bswitaba">@bswitaba</a>, <a href="https://bonfacewitaba.wordpress.com/about/">bswitaba@yahoo.co.uk</a><br>
@@ -36,12 +39,11 @@ Although only around five to fifteen million people speak Swahili as their first
 A significant fraction of Swahili vocabulary is derived from Arabic through contact with Arabic-speaking Muslim inhabitants of the Swahili Coast. It has also incorporated German, Portuguese, English, Hindustani, and French words into its vocabulary through contact with empire builders, traders, and slavers during the past five centuries.<br>
 </div>
 
+
 Recently, Tanzania hit the headlines with it’s announcement that it was ditching English and adopting Swahili as the sole language of instruction at both primary and secondary school level. This move elicited mixed reactions from various quotas, with some hailing the move as bold and necessary, while others critiqued it as a dangerous move that is set to isolate the East African country from the outside world.
 
 From an Internet Governance perspective, Imagine if, every time students wanted to visit a website, they were expected to type in letters from a language they did not speak. Well, that’s perhaps one immediate challenge Tanzania may have to deal with considering most of the content available online is in English.
 
-<div><a href="https://pixabay.com/en/market-africa-colorful-tanzania-344018/"><img src="/images/2016-02-16-multilingual/market-344018.jpg" alt="market in Tanzania" width="640"></a><br><small>Market scene in Tanzania. Image rights: cc0 public domain by <a href="https://pixabay.com/en/market-africa-colorful-tanzania-344018/">Rudy Gort / Pixabay</a></small></div>
-<br><br>
 
 By design, the Internet is one global network. However, it was not designed to be multi-lingual. For years, this has been a limitation considering the Internet only permitted a limited set of Latin characters.
 
