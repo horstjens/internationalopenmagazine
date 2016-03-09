@@ -9,22 +9,23 @@ GeoPosition: 37.441883;-122.143019
 ICBM: 37.441883, -122.143019
 Authors: PLOTKIN Hal
 Summarytext: Hal Plotkin compares the push for closed-source digital education material owned by profit-seeking ed-tech companies with the situation of pharma industry and public funded, privately owned research in the field gene technology 
-Summary: <div style="float: left; padding:5px"><img src="/images/authors/hal_plotking.jpg" alt="Hal PLOTKING" height="100"> <img src="/images/2016-03-05-who_owns_digital_learning_resources/headerimage.jpg" alt="headerimage" height="100"></div>Hal Plotkin compares the push for closed-source digital education material owned by profit-seeking ed-tech companies with the situation of pharma industry and public funded, privately owned research in the field gene technology<div style="clear:both;"></div>
+Summary: <div style="float: left; padding:5px"><a href="http://internationalopenmagazine.org/2016-03-05-who_owns_digital_learning_resources.html"><img src="/images/authors/hal_plotking.jpg" alt="Hal PLOTKING" height="100"> <img src="/images/2016-03-05-who_owns_digital_learning_resources/headerimage.jpg" alt="headerimage" height="100"></a></div>Hal Plotkin compares the push for closed-source digital education material owned by profit-seeking ed-tech companies with the situation of pharma industry and public funded, privately owned research in the field gene technology<div style="clear:both;"></div>
 
-<div name="headerimage" width="800"><img src="/images/2016-03-05-who_owns_digital_learning_resources/headerimage.jpg" alt="remixed headerimage" width="800"><br><small>Image remixed by <a href="http://spielend-programmieren.at">Horst JENS</a> sources/rights: 
+<div name="headerimage" width="800" style="font-size:14px;"><img src="/images/2016-03-05-who_owns_digital_learning_resources/headerimage.jpg" alt="remixed headerimage" width="800"><br><small>Image remixed by <a href="http://spielend-programmieren.at">Horst JENS</a> sources/rights: 
 <a href="https://pixabay.com/en/banner-header-monitor-binary-909710/">Gerd Altmann</a>,
 <a href="https://pixabay.com/en/medications-money-cure-tablets-257333/">Michael Jarmoluk</a>, <a href="https://pixabay.com/en/dna-biology-medicine-gene-163466/">public domain pictures</a>, <a href="https://pixabay.com/en/library-books-knowledge-information-1147815/">elastic computer farm</a>, 
 <a href="https://pixabay.com/en/us-capitol-government-washington-dc-477987/">Jackelberry</a> at Pixabay <a href="https://creativecommons.org/publicdomain/zero/1.0/">cc 0/public domain</a></small></div>
 
 <div name="sidebarright" style="font-size:14px;float:right; padding: 5px; margin: 5px; background-color: #BBBBBB; width:260px;">
-<b>Name</b>: <a href="https://en.wikipedia.org/wiki/Hal_Plotkin">Hal PLOTKIN</a><br>
+<small>about this article:</small><br>
+<b>Author</b>: <a href="https://en.wikipedia.org/wiki/Hal_Plotkin">Hal PLOTKIN</a><br>
 <b>Contact</a></b>: <a href="https://twitter.com/HalPlotkin">@HalPlotkin</a>, <a href="http://plotkin.com/contact/">contact form</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/Qdfp5F">http://goo.gl/Qdfp5F</a><br>
 <b>Hashtag</b>: <tt>#oer</tt><br>
 <b>Download this article as</b>:<br> <a href="/images/2016-03-05-who_owns_digital_learning_resources/who_owns.pdf"><img src="/images/pdf.png" alt="pdf" width="80"></a> <a href="/images/2016-03-05-who_owns_digital_learning_resources/who_owns.epub"><img src="/images/epub.png" alt="epub" width="80"></a> <a href="/images/2016-03-05-who_owns_digital_learning_resources/who_owns.odt"><img src="/images/odf.png" alt="odt" width="80"></a><br>
 <b>Fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/blog/2016-03-05-who_owns_digital_learning_resources.md">on Github</a><br>
-<a href="https://creativecommons.org/licenses/by/4.0/"><img src="http://internationalopenmagazine.org/images/ccby.png" width="80" align="right" alt="cc-by"></a><b>License</b> for text and photos in this article, unless indicated otherwise (e.g. <i>Image rights</i> notice below pictures): <a href="https://creativecommons.org/licenses/by/4.0/">creative commons attribute 4.0 (cc-by)</a><br>
-<b>Extras:</b>: <a href="http://brucebyfield.com/">Author's Blog</a>, <a href="https://medium.com/@hplotkin/who-owns-digital-learning-resources-funded-by-taxpayers-543160cbf1f4#.8yhwvrr47">original article at medium.com</a> <br>
+<a href="https://creativecommons.org/licenses/by/4.0/"><img src="http://internationalopenmagazine.org/images/ccby.png" width="250" align="right" alt="cc-by"></a><b>License</b> for text and photos in this article, unless indicated otherwise (e.g. <i>Image rights</i> notice below pictures): <a href="https://creativecommons.org/licenses/by/4.0/">creative commons attribute 4.0 (cc-by)</a><br>
+<b>Extras</b>: <a href="http://brucebyfield.com/">Author's Blog</a>  <br>
 <b>Location</b>: 
 <a href="http://www.openstreetmap.org/#map=11/37.3873/-122.1309">37.441883;-122.143019</a>
 <iframe width="250" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-122.58407592773438%2C37.155938651244625%2C-121.67770385742186%2C37.618038744271985&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/>
@@ -33,17 +34,18 @@ Summary: <div style="float: left; padding:5px"><img src="/images/authors/hal_plo
 From 2009 to 2014, Plotkin served as the Senior Policy Advisor in the Office of the Under Secretary of Education, <a href="https://en.wikipedia.org/wiki/United_States_Department_of_Education">United States Department of Education</a>, which has responsibility for all federal U.S. higher education policies and programs.<br>
 In 2003, Plotkin initiated the Foothill-De Anza Community College District's Policy on Public Domain Learning Materials which are now more commonly known as <a href="https://en.wikipedia.org/wiki/Open_Educational_Resources">Open Educational Resources</a>.<small><a href="https://en.wikipedia.org/wiki/Hal_Plotkin">read more of Wikipedia entry about Hal Plotkin...</a></small><br>
 <b>Donate author</b>: No donation address given yet.<hr>
-<b>technical terms</b> explained by Wikipedia:<br>
+explained by Wikipedia:<br>
 <a href="https://en.wikipedia.org/wiki/Wikipedia:Banners_and_buttons#/media/File:Qxz-ad39.png"><img src="/images/wikipedia250.png" alt="wikipedia" width="250"></a>
 <hr>
 <b><a href="https://en.wikipedia.org/wiki/Food_and_Drug_Administration">FDA</a></b>: The Food and Drug Administration (FDA or USFDA) is a federal agency of the United States Department of Health and Human Services, one of the United States federal executive departments. The FDA is responsible for protecting and promoting public health through the regulation and supervision of food safety, tobacco products, dietary supplements, prescription and over-the-counter pharmaceutical drugs (medications), vaccines, biopharmaceuticals, blood transfusions, medical devices, electromagnetic radiation emitting devices (ERED), cosmetics, animal foods & feed and veterinary products.<br>
-The FDA was empowered by the United States Congress to enforce the Federal Food, Drug, and Cosmetic Act, which serves as the primary focus for the Agency; the FDA also enforces other laws, notably Section 361 of the Public Health Service Act and associated regulations, many of which are not directly related to food or drugs. These include regulating lasers, cellular phones, condoms and control of disease on products ranging from certain household pets to sperm donation for assisted reproduction.<small><a href="https://en.wikipedia.org/wiki/Food_and_Drug_Administration">read more of Wikipedia entry about FDA...</a></small>
+The FDA was empowered by the United States Congress to enforce the Federal Food, Drug, and Cosmetic Act, which serves as the primary focus for the Agency; the FDA also enforces other laws, notably Section 361 of the Public Health Service Act and associated regulations, many of which are not directly related to food or drugs. These include regulating lasers, cellular phones, condoms and control of disease on products ranging from certain household pets to sperm donation for assisted reproduction.<small><br><a href="https://en.wikipedia.org/wiki/Food_and_Drug_Administration">Read the full Wikipedia entry...</a></small>
 <hr>
 <b><a href="https://en.wikipedia.org/wiki/Bayh%E2%80%93Dole_Act">Bay-Dole Act</a></b>: The Bayh–Dole Act or Patent and Trademark Law Amendments Act (Pub. L. 96-517, December 12, 1980) is United States legislation dealing with intellectual property arising from federal government-funded research. Sponsored by two senators, Birch Bayh of Indiana and Bob Dole of Kansas, the Act was adopted in 1980, is codified at 94 Stat. 3015, and in 35 U.S.C. § 200-212, and is implemented by 37 C.F.R. 401.<br>
-The key change made by Bayh–Dole was in ownership of inventions made with federal funding. Before the Bayh–Dole Act, federal research funding contracts and grants obligated inventors (where ever they worked) to assign inventions they made using federal funding to the federal government. Bayh–Dole permits a university, small business, or non-profit institution to elect to pursue ownership of an invention in preference to the government. <small><a href="https://en.wikipedia.org/wiki/Bayh%E2%80%93Dole_Act">read more of the Wikipedia entry about Bay-Dole Act...</a></small><br>
+The key change made by Bayh–Dole was in ownership of inventions made with federal funding. Before the Bayh–Dole Act, federal research funding contracts and grants obligated inventors (where ever they worked) to assign inventions they made using federal funding to the federal government. Bayh–Dole permits a university, small business, or non-profit institution to elect to pursue ownership of an invention in preference to the government. <small><br><a href="https://en.wikipedia.org/wiki/Bayh%E2%80%93Dole_Act">Read the full Wikipedia entry...</a></small><br>
 </div>
 
-<br><br>
+<div style="font-size:14px;"><small>This article was first published at <a href="https://medium.com/@hplotkin/who-owns-digital-learning-resources-funded-by-taxpayers-543160cbf1f4#.8yhwvrr47">Medium.com</a> under a <a href="https://creativecommons.org/licenses/by/4.0/">creative commons attribution (cc-by 4.0) license</a>.</small></div>
+<br>
 Everyone wants to be a successful venture capitalist. That’s the
 conclusion I draw from [written
 protests](https://www.eff.org/deeplinks/2016/01/why-are-universities-fighting-open-education) lodged
@@ -179,8 +181,6 @@ and a former Senior Policy Adviser in the Office of the Under Secretary,
 U.S. Department of Education (2009–2014). Mr. Plotkin is also a former
 Silicon Valley correspondent for CNBC.com.*
 
-
-<small>This article was first published at <a href="https://medium.com/@hplotkin/who-owns-digital-learning-resources-funded-by-taxpayers-543160cbf1f4#.8yhwvrr47">Medium.com</a> under a <a href="https://creativecommons.org/licenses/by/4.0/">creative commons attribution (cc-by 4.0) license</a>.</small>
 
 <div style="clear:both;"></div>
 # advertisement (google adsense)
