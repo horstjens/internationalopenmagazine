@@ -15,7 +15,7 @@ Summary: <div style="float: left; padding:5px"><img src="/images/international-o
 
 
 
-<div style="float:right; margin: 5px; padding: 5px; width:260px;">
+<div style="font-size:14px;float:right; margin: 5px; padding: 5px; width:260px;">
 <h2>Navigation</h2>
 <ul>
 <li>previous podcast: None!</li>

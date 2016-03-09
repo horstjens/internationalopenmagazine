@@ -48,12 +48,12 @@ for root, dirs, files in os.walk(os.path.join(".","content")):
                     if line[:len(startword)] == startword:
                         data[startword] = line[len(startword):]
             print("file read complete. data is:", data)
-            text += "{};{};{};{};{};{}\n".format(data["Title:"].strip(), 
+            text += "{};{};{};{};{};{}\n".format(data["Title:"].strip().replace('"',""), 
                                                data["Date:"].strip(),
                                                data["ICBM:"].strip(),
                                                data["Authors:"].strip(),
                                                data["Tags:"].strip(),
-                                               "http://internationalopenmagazine.org/"+data["Slug:"].strip())
+                                               "http://internationalopenmagazine.org/"+data["Slug:"].strip()+".html")
 # writing file
 with open("geodata.csv", "w") as output:
     output.write(text)

@@ -12,7 +12,7 @@ GeoRegion:  IT-BO
 Summary: <div style="float:left; margin:5px;"><img src="/images/2015-11-13-linuxdaybologna/AngelaSofiaLombardo.jpg" alt="Angela Sofia LOMBARDO" height="100"><img src="/images/2015-11-13-linuxdaybologna/FrancescoGigante.jpg" alt="Francesco GIGANTE" height="100"><img src="/images/2015-11-13-linuxdaybologna/GabrieleCerami.jpg" alt="Gabriele CERAMI" height="100"><img src="/images/2015-11-13-linuxdaybologna/GiacomoMagisano.jpg" alt="Giacomo MAGISANO" height="100"></div>report from CoderDojo Bologna, Italy: teaching young Coder-"Ninjas" the art of programming<div style="clear:both;"></div>
 Summarytext: report from CoderDojo Bologna
 
-<div style="float:right; padding: 5px; margin: 5px; background-color: #bbbbbb; width:260px;"> 
+<div style="font-size:14px;float:right; padding: 5px; margin: 5px; background-color: #bbbbbb; width:260px;"> 
 <b>Name</b>: <a href="http://www.coderdojobologna.it">Angelasofia LOMBARDO, Francesco GIGANTE, Giacomo MAGISANO, Gabriele CERAMI</a><br>
 <b>Contact</b>: <a href="https://twitter.com/coderdojobo">@coderdojobo</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/cRKLAk">http://goo.gl/cRKLAk</a><br> 

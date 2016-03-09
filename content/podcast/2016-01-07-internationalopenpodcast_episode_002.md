@@ -13,7 +13,7 @@ Authors: JENS Horst, HASLINGER Stefan,
 Summarytext: Episode 002 of the international open podcast was recoreded at the Chaos Communication Congress 32c3 in Hamburg, Germany and features (nearly) daily congress reports and interviews. 
 Summary: <div style="float: left; padding:5px"><img src="/images/international-open-podcast-logo.png" width="100" alt="logo"></div>Episode 002 of the international open podcast was recoreded at the Chaos Communication Congress 32c3 in Hamburg, Germany and features (nearly) daily congress reports and interviews.<div style="clear:both;"></div>
 
-<div style="float:right; margin: 5px; padding: 5px; width:260px;">
+<div style="font-size:14px;float:right; margin: 5px; padding: 5px; width:260px;">
 <h2>Navigation</h2>
 <small>
 <ul>

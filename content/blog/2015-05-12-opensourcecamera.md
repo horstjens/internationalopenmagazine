@@ -10,7 +10,7 @@ Slug: 2015-05-12-opensourcecamera
 Summarytext: Impressions of the open source/open hardware camera project AXIOM (seen on Linuxtage Wien) and axiom teams' insights given in a talk about crowdfunding 
 Summary: <div style="float: left; padding:5px"><img src="http://spielend-programmieren.at/blog/images/20150512_axiom.jpg" height="100" alt="axiom camera"><img src="/images/horst.png" alt="Horst JENS" height="100"></div>Impressions of the open source/open hardware camera project AXIOM (seen on Linuxtage Wien) and axiom teams' insights given in a talk about crowdfunding <div style="clear:both;"></div>
 
-<div style="float:right; padding: 5px; margin: 5px; background-color: #BBBBBB; width:260px;">
+<div style="font-size:14px;float:right; padding: 5px; margin: 5px; background-color: #BBBBBB; width:260px;">
 <b>Name</b>: <a href="http://spielend-programmieren.at/de:kontakt">Horst JENS</a><br>
 <b>Contact</a></b>: <a href="http://spielend-programmieren.at/de:kontakt">horstjens@gmail.com</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/NHPBuB">http://goo.gl/NHPBuB</a><br>

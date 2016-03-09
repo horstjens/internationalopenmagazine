@@ -11,7 +11,7 @@ GeoPosition: 48.19974; 16.370024
 Summarytext: Impressions of the "zam spielen #10" social computer game event in Vienna with photos
 Summary: <div style="float: left; padding:5px"><img src="https://farm6.staticflickr.com/5786/21204926312_907f39bca3_t.jpg" height="100" alt="2015 09 06 zamSpielen Wien Resselpark"><img src="/images/zamspielen.png" alt="zamspielend logo" height="100"><img src="/images/horst.png" alt="Horst JENS" height="100"></div>Impressions of the "zam spielen #10" social computer game event in Vienna with photos.<div style="clear:both;"></div>
 
-<div style="float:right; padding: 5px; margin: 5px; background-color: #BBBBBB; width:260px;">
+<div style="font-size:14px;float:right; padding: 5px; margin: 5px; background-color: #BBBBBB; width:260px;">
 <b>Name</b>: <a href="http://spielend-programmieren.at/de:kontakt">Horst JENS</a><br>
 <b>Contact</a></b>: <a href="http://spielend-programmieren.at/de:kontakt">horstjens@gmail.com</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/BJnw46">http://goo.gl/BJnw46</a><br>

@@ -6,7 +6,7 @@ Authors: JENS Horst
 Summarytext: A quick look into two interesting, open-source aware websites to learn and train coding skills: codecombat.com and codewars.com
 Summary: <div style="float: left; padding:5px"><img src="http://spielend-programmieren.at/blog/images/20150702_codecombat.png" height="100" alt="logo"><img src="/images/horst.png" alt="Horst JENS" height="100"></div>A quick look into two interesting, open-source aware websites to learn and train coding skills: codecombat.com and codewars.com<div style="clear:both;"></div>
 
-<div style="float:right; padding: 5px; width:260px; margin: 5px; background-color: #BBBBBB;">
+<div style="font-size:14px;float:right; padding: 5px; width:260px; margin: 5px; background-color: #BBBBBB;">
 <b>Name</b>: <a href="http://spielend-programmieren.at/de:kontakt">Horst JENS</a><br>
 <b>Contact</a></b>: <a href="http://spielend-programmieren.at/de:kontakt">horstjens@gmail.com</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/qZqajP">http://goo.gl/qZqajP</a><br>

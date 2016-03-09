@@ -13,7 +13,7 @@ Authors: BREEN Derek, JENS Horst
 Summarytext: Episode 004 of the international open podcast: Horst JENS talks (via Google Hangout) with Derek BREEN about Scratch, teaching programming, license-tainted courseware, conferences and Derek's educational TV-Show in Moscow
 Summary: <div style="float: left; padding:5px"><img src="/images/international-open-podcast-logo.png" width="100" alt="logo"></div>Episode 004 of the international open podcast: Horst JENS talks (via Google Hangout) with Derek BREEN about Scratch, teaching programming, license-tainted courseware, conferences and Derek's educational TV-Show in Moscow<div style="clear:both;"></div>
 
-<div style="float:right; margin: 5px; padding: 5px; width:260px;">
+<div style="font-size:14px;float:right; margin: 5px; padding: 5px; width:260px;">
 <h2>Navigation</h2>
 <small>
 <ul>

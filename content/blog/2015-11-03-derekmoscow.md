@@ -12,7 +12,7 @@ GeoRegion:  RU
 Summarytext: Article in progress, first videos online: Derek Breen teaching Scratch in Moscow and meeting very intersting robot geeks
 Summary: <div style="float: left; padding:5px"><img src="/images/derek.jpeg" height="100" alt="Derek Breen"></div>Article in progress, first videos online: Derek Breen teaching Scratch in Moscow and meeting very intersting robot geeks<div style="clear:both;"></div>
 
-<div style="float:right; width:260px; padding: 5px; margin: 5px; background-color: #bbbbbb;"> 
+<div style="font-size:14px;float:right; width:260px; padding: 5px; margin: 5px; background-color: #bbbbbb;"> 
 <b>Name</b>: <a href="https://twitter.com/breenworks">Derek BREEN</a><br>
 <b>Contact</b>: <a href="https://twitter.com/breenworks">@breenworks</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/94QOk9">http://goo.gl/94QOk9</a><br> 

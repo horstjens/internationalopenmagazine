@@ -12,7 +12,7 @@ GeoRegion:  US-MA
 Summary: <div style="float:left; margin:5px;"><img src="/images/authors/mitchresnik.png" alt="Mitchel Resnick " height="100"><img src="/images/authors/davidsiegel.png" alt="David Siegel" height="100"></div>A Different Approach to Coding - How kids are making and remaking themselves from Scratch<div style="clear:both;"></div>
 Summarytext: A Different Approach to Coding - How kids are making and remaking themselves from Scratch
 
-<div style="float:right; padding: 5px; margin: 5px; background-color: #bbbbbb; width:260px;"> 
+<div style="font-size:14px;float:right; padding: 5px; margin: 5px; background-color: #bbbbbb; width:260px;"> 
 <b>Name</b>: <a href="http://www.scratchfoundation.org/">Mitchel Resnick , David Siegel</a><br>
 <b>Contact</b>: <a href="https://twitter.com/mres">@mres</a>, <a href="https://twitter.com/scratchfndn">@scratchfndn</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/TEJ4sN">http://goo.gl/TEJ4sN</a><br> 

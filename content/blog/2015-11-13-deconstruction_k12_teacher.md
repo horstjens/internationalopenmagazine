@@ -12,7 +12,7 @@ GeoRegion:  US-CA
 Summarytext: When kids can get their lessons from the Internet, what's left for classroom instructors to do?
 Summary: <div style="float: left; margin:5px"><img src="/images/2015-11-13-deconstruction_k12_teacher/michael_godsey_twitterpic.jpg" alt="Michael GODSEY" height="100"></div>When kids can get their lessons from the Internet, what's left for classroom instructors to do?<div style="clear:both;"></div>
 
-<div style="float:right; width:260px; padding: 5px; margin: 5px; background-color: #bbbbbb;"> 
+<div style="font-size:14px;float:right; width:260px; padding: 5px; margin: 5px; background-color: #bbbbbb;"> 
 <b>Name</b>: <a href="https://plus.google.com/106782932555439641974/about">Michael GODSEY</a><br>
 <b>Contact</b>: <a href="https://twitter.com/themrgodsey">@TheMrGodsey</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/R1HiE2">http://goo.gl/R1HiE2</a><br> 

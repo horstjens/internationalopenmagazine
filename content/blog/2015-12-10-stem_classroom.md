@@ -12,7 +12,7 @@ GeoRegion:  US-CO
 Summary: <div style="float:left; margin:5px;"><img src="/images/authors/LeeAnnBaronett.png" alt="Lee Ann Baronett" height="100"></div>There’s no question that computer science skills are helping students succeed. But, computer science is about more than just learning to program. Students also need to learn how to think programmatically, to use programming as a problem-solving tool, and to understand the global impact of computer science and computing<div style="clear:both;"></div>
 Summarytext: What’s the Big Idea? Using your STEM Classroom to Teach What Matters
 
-<div style="float:right; padding: 5px; margin: 5px; background-color: #bbbbbb; width:260px;"> 
+<div style="font-size:14px;float:right; padding: 5px; margin: 5px; background-color: #bbbbbb; width:260px;"> 
 <b>Name</b>: <a href="https://twitter.com/LeeAnnBaronett">Lee Ann Baronett</a><br>
 <b>Contact</b>: <a href="https://twitter.com/LeeAnnBaronett">@LeeAnnBaronett</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/wwbYsT">http://goo.gl/wwbYsT</a><br> 

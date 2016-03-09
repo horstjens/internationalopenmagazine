@@ -12,7 +12,7 @@ Summarytext: Agnese Addone tells what happened at the Scratch conference Amsterd
 Summary: <div style="float: left; padding:5px"><img src="http://spielend-programmieren.at/blog/images/20150823_scratchansicht.jpg" alt="scratch podcard" height="100"><img src="images/2015-09-04-agneseamsterdam/io_catemos.jpg" height="100" alt="Maker Faire rome logo"></div>Agnese Addone tells what happened at the Scratch conference Amsterdam 2015<div style="clear:both;"></div>
 
 
-<div style="float:right; padding: 5px; width:260px; margin: 5px; background-color: #BBBBBB;">
+<div style="font-size:14px;float:right; padding: 5px; width:260px; margin: 5px; background-color: #BBBBBB;">
 <b>Name</b>: <a href="https://it.linkedin.com/pub/agnese-addone/94/ba7/a02/en">Agnese ADDONE</a><br>
 <b>Contact</b>: <a href="https://twitter.com/agaddone">@agaddone</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/6fNoGV">http://goo.gl/6fNoGV</a><br>

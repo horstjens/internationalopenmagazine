@@ -13,7 +13,7 @@ Authors: JENS Horst, HASLINGER Stefan, KNAUF Denis , BREEN Derek
 Summarytext: Our third  podcast, and the first **official** one. Published as Biertaucherpodcast 227 and later renamed into **international open podcast episode 001**. Derek and Horst talk about their trip to Maker Faire Rome 2015 in Italy, Stefan speaks about the refugee Hackathon in Vienna.
 Summary: <div style="float: left; padding:5px"><img src="/images/international-open-podcast-logo.png" width="100" alt="logo"></div> Our third  podcast, and the first **official** one. Published as Biertaucherpodcast 227 and later renamed into **international open podcast episode 001**. Derek and Horst talk about their trip to Maker Faire Rome 2015 in Italy, Stefan speaks about the refugee Hackathon in Vienna.<div style="clear:both;"></div>
 
-<div style="float:right; margin: 5px; padding: 5px; width:260px;">
+<div style="font-size:14px;float:right; margin: 5px; padding: 5px; width:260px;">
 <h2>Navigation</h2>
 <ul>
 <li>previous podcast: <a href="/2015-10-13-internationalopenpodcast_alpha2.html">alpha2</a></li>

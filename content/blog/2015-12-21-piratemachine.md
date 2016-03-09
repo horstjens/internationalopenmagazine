@@ -12,7 +12,7 @@ GeoRegion:  NL-NH
 Summary: <div style="float:left; margin:5px;"><img src="/images/authors/torrentfreakauthor.jpg" alt="Ernesto Van der Sar" height="100"></div>Pirate Bay co-founder Peter Sunde served his prison sentence last year but still owes the entertainment industries millions in damages. Some might think that he's learned his lesson, but with a newly built copying machine he's generating millions of extra 'damages,' which might be worth a mention in the Guinness Book of Records.<div style="clear:both;"></div>
 Summarytext: Pirate Bay co-founder Peter Sunde served his prison sentence last year but still owes the entertainment industries millions in damages. Some might think that he's learned his lesson, but with a newly built copying machine he's generating millions of extra 'damages,' which might be worth a mention in the Guinness Book of Records.
 
-<div style="float:right; padding: 5px; margin: 5px; background-color: #bbbbbb; width:260px;"> 
+<div style="font-size:14px;float:right; padding: 5px; margin: 5px; background-color: #bbbbbb; width:260px;"> 
 <b>Name</b>: <a href="https://torrentfreak.com/author/ernesto/">Ernesto Van der Sar</a><br>
 <b>Contact</b>: <a href="mailto:ernesto@torrentfreak.com">ernesto@torrentfreak.com</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/CD6qUV">http://goo.gl/CD6qUV</a><br> 

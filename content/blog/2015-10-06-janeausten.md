@@ -12,7 +12,7 @@ GeoRegion:  US-TX
 Summarytext: Lacey Williams Henschel draws fascinating parallels between coding python and writing novels, and explores the connection of style guides for for both.
 Summary: <div style="float: left; margin:5px"><img src="/images/2015-10-06-janeausten/jane_austen.jpg" alt="Jane Austen" height="100"><img src="/images/2015-10-06-janeausten/LaceyWilliamsHenschel.jpg" height="100" alt="Lacey Williams Henschel"></div>Lacey Williams Henschel draws fascinating parallels between coding python and writing novels, and explores the connection of style guides for for both.<div style="clear:both;"></div>
 
-<div style="float:right; width:260px; padding: 5px; margin: 5px; background-color: #bbbbbb;"> 
+<div style="font-size:14px;float:right; width:260px; padding: 5px; margin: 5px; background-color: #bbbbbb;"> 
 <b>Name</b>: <a href="https://www.linkedin.com/profile/in/laceynwilliams">Lacey WILLIAMS HENSCHEL</a><br>
 <b>Contact</b>: <a href="@laceynwilliams">@laceynwilliams</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/XK6j8X">http://goo.gl/XK6j8X</a><br> 

@@ -11,7 +11,7 @@ Authors: HOCHGSTÖTTNER Lucy, BREEN Derek
 Summarytext: Lucy (student at spielend-programmieren programming courses makes her first interview with Derek Breen about his book: "Scratch for kids for dummies"
 Summary: <div style="float: left; padding:5px"><img src="https://farm1.staticflickr.com/722/22412924311_d1fb196f39_t.jpg" height="100" alt="Lucy"> <img src="https://farm6.staticflickr.com/5676/22412924671_05fa0341d9_t.jpg" height="100" alt="Derek"></div>Lucy (student at [spielend-programmieren programming courses](http://spielend-programmieren.at)) makes her first interview with Derek Breen about his book: **Scratch for kids for dummies**<div style="clear:both;"></div>
 
-<div style="float:right; padding: 5px; margin: 5px; background-color: #BBBBBB; width:260px;" >
+<div style="font-size:14px;float:right; padding: 5px; margin: 5px; background-color: #BBBBBB; width:260px;" >
 <b>Name</b>: <a href="http://spielend-programmieren.at/de:kontakt">Lucy Hochgstöttner</a><br>
 <b>Contact</b> <br>
 <b>Shorturl</b>:<a href="http://goo.gl/ocKBPI">http://goo.gl/ocKBPI</a><br>

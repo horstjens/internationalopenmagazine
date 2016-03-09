@@ -12,7 +12,7 @@ GeoRegion:  US-NJ
 Summary: <div style="float:left; margin:5px;"><img src="/images/authors/shallcross-100.jpg" alt="Lynne Shallcross" height="100"></div>Academic learning is usually in the spotlight at school, but teaching elementary-age students “soft” skills like self-control and how to get along with others might help to keep at-risk kids out of criminal trouble in the future, a study finds.<div style="clear:both;"></div>
 Summarytext: Academic learning is usually in the spotlight at school, but teaching elementary-age students “soft” skills like self-control and how to get along with others might help to keep at-risk kids out of criminal trouble in the future, a study finds.
 
-<div style="float:right; padding: 5px; margin: 5px; background-color: #bbbbbb; width:260px;"> 
+<div style="font-size:14px;float:right; padding: 5px; margin: 5px; background-color: #bbbbbb; width:260px;"> 
 <b>Name</b>: <a href="http://khn.org/news/author/lynne-shallcross/">Lynne Shallcross</a><br>
 <b>Contact</b>: <a href="mailto:LynneS@kff.org">LynneS@kff.org</a>, <a href="http://twitter.com/lshallcross">@lshallcross</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/G0moqQ">http://goo.gl/G0moqQ</a><br> 

@@ -16,7 +16,7 @@ Summary: <div style="float: left; padding:5px"><img src="/images/authors/hal_plo
 <a href="https://pixabay.com/en/medications-money-cure-tablets-257333/">Michael Jarmoluk</a>, <a href="https://pixabay.com/en/dna-biology-medicine-gene-163466/">public domain pictures</a>, <a href="https://pixabay.com/en/library-books-knowledge-information-1147815/">elastic computer farm</a>, 
 <a href="https://pixabay.com/en/us-capitol-government-washington-dc-477987/">Jackelberry</a> at Pixabay <a href="https://creativecommons.org/publicdomain/zero/1.0/">cc 0/public domain</a></small></div>
 
-<div name="sidebarright" style="float:right; padding: 5px; margin: 5px; background-color: #BBBBBB; width:260px;">
+<div name="sidebarright" style="font-size:14px;float:right; padding: 5px; margin: 5px; background-color: #BBBBBB; width:260px;">
 <b>Name</b>: <a href="https://en.wikipedia.org/wiki/Hal_Plotkin">Hal PLOTKIN</a><br>
 <b>Contact</a></b>: <a href="https://twitter.com/HalPlotkin">@HalPlotkin</a>, <a href="http://plotkin.com/contact/">contact form</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/Qdfp5F">http://goo.gl/Qdfp5F</a><br>

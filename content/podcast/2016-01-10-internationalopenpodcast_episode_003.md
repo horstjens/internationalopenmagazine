@@ -13,7 +13,7 @@ Authors: BREEN Derek, BONDARENKO Sergey
 Summarytext: Episode 003 of the international open podcast: Derek BREEN talks in Moscow with historian Sergey BONDARENKO 
 Summary: <div style="float: left; padding:5px"><img src="/images/international-open-podcast-logo.png" width="100" alt="logo"></div>Episode 003 of the international open podcast: Derek BREEN talks in Moscow with historian Sergey BONDARENKO <div style="clear:both;"></div>
 
-<div style="float:right; margin: 5px; padding: 5px; width:260px;">
+<div style="font-size:14px;float:right; margin: 5px; padding: 5px; width:260px;">
 <h2>Navigation</h2>
 <small>
 <ul>
