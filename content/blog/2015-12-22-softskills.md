@@ -9,18 +9,21 @@ ICBM: 40.058324, -74.405661
 GeoPosition: 40.058324;-74.405661
 GeoPlacename: New Jersey
 GeoRegion:  US-NJ
-Summary: <div style="float:left; margin:5px;"><img src="/images/authors/shallcross-100.jpg" alt="Lynne Shallcross" height="100"></div>Academic learning is usually in the spotlight at school, but teaching elementary-age students “soft” skills like self-control and how to get along with others might help to keep at-risk kids out of criminal trouble in the future, a study finds.<div style="clear:both;"></div>
+Summary: <div style="float:left; margin:5px;"><a href="http://internationalopenmagazine.org/2015-12-22-softskills.html"> <img src="/images/2015-12-22-softskills/shallcross-100.jpg" alt="Lynne Shallcross" height="100"> <img src="/images/2015-12-22-softskills/baby.jpg" alt="baby with computer" height="100"></a></div>Academic learning is usually in the spotlight at school, but teaching elementary-age students “soft” skills like self-control and how to get along with others might help to keep at-risk kids out of criminal trouble in the future, a study finds.<div style="clear:both;"></div>
 Summarytext: Academic learning is usually in the spotlight at school, but teaching elementary-age students “soft” skills like self-control and how to get along with others might help to keep at-risk kids out of criminal trouble in the future, a study finds.
 
+
+<div style="font-size:14px;"><img src="/images/2015-12-22-softskills/baby.jpg" alt="baby with computer" width="800"><br><small>Image source: <a href="https://pixabay.com/en/baby-boy-child-childhood-computer-84626/">Public Domain Pictures / Pixabay</a> <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">cc0 / public domain</a></small></div>
+
 <div style="font-size:14px;float:right; padding: 5px; margin: 5px; background-color: #bbbbbb; width:260px;"> 
-<b>Name</b>: <a href="http://khn.org/news/author/lynne-shallcross/">Lynne Shallcross</a><br>
+<small>about this article:</small><br>
+<b>Author</b>: <a href="http://khn.org/news/author/lynne-shallcross/">Lynne Shallcross</a><br>
 <b>Contact</b>: <a href="mailto:LynneS@kff.org">LynneS@kff.org</a>, <a href="http://twitter.com/lshallcross">@lshallcross</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/G0moqQ">http://goo.gl/G0moqQ</a><br> 
 <b>Hashtag</b>: <tt>education</tt><br>
 <b>Fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/blog/2015-12-22-softskills.md">on Github</a><br>
-<b>Extras</b>: <a href="http://khn.org/news/soft-social-skills-might-prevent-a-hard-knocks-life/">original article at Kaiser Health News</a><br> <!-- additional material, translations, video, audio etc you want to hint at -->
-<b>License</b> of text:<br>
-<div style="float:right;margin:2px;"><a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa88x31.png" alt="cc-by-sa"></a></div><a href="https://creativecommons.org/licenses/by-sa/4.0/">cc-by-sa</a>. Attribute to: <a href="http://khn.org/news/soft-social-skills-might-prevent-a-hard-knocks-life/">Kaiser Health News - Lynne Shallcross</a><br>
+<b>Download this article as</b>:<br> <a href="/images/2015-12-22-softskills/softskills.pdf"><img src="/images/pdf.png" alt="pdf" width="80"></a> <a href="/images/2015-12-22-softskills/softskills.epub"><img src="/images/epub.png" alt="epub" width="80"></a> <a href="/images/2015-12-22-softskills/softskills.odt"><img src="/images/odf.png" alt="odt" width="80"></a><br>
+<b>License</b> of text: <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa.png" width="250" alt="cc-by-sa"></a><a href="https://creativecommons.org/licenses/by-sa/4.0/">cc-by-sa</a>. Attribute to: <a href="http://khn.org/news/soft-social-skills-might-prevent-a-hard-knocks-life/">Kaiser Health News - Lynne Shallcross</a><br>
 <b>Location</b>: <a href="http://www.openstreetmap.org/#map=8/39.878/-74.344">39.878 / -74.344</a>
 <iframe width="250" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-77.969970703125%2C37.97018468810549%2C-70.718994140625%2C41.73442939072102&amp;layer=mapnik" style="border: 1px solid black"></iframe><br>
 <b>about the author</b>: <br><div style="float:right; padding:5px;"><a href="http://khn.org/news/author/lynne-shallcross/"><img src="/images/authors/shallcross-100.jpg" alt="Lynne Shallcross" width="100"></a><br><hr><br><a href="khn.org"><img src="/images/khn-logo1.png" alt="Kaiser Health News" width="100"></a></div><b>Lynne Shallcross</b> Web Producer, joined <a href="http://khn.or">Kaiser Health News</a> after earning a master’s degree in journalism from the University of California, Berkeley, where she was a Kaiser Permanente Health Policy Journalism Fellow. Her interactive project on health apps won a 2015 award from the Online News Association. She is a New Jersey native and a proud <a href="https://en.wikipedia.org/wiki/Tar_Heel">Tar Heel</a>.<br>
@@ -28,7 +31,7 @@ Summarytext: Academic learning is usually in the spotlight at school, but teachi
 <br><b>Donate to the authors</b>: no donation address given<br>
 </div>
 
-<small>first posted at 2015-12-17 at <a href="http://khn.org/news/soft-social-skills-might-prevent-a-hard-knocks-life/">Kaiser Health News</a> under <a href="https://creativecommons.org/licenses/by-sa/4.0/">creative commons cc-by-sa 4.0</a> license</a></small>
+<div style="font-size:14px;"><small>This article was first posted 2015-12-17 at <a href="http://khn.org/news/soft-social-skills-might-prevent-a-hard-knocks-life/">Kaiser Health News</a> under <a href="https://creativecommons.org/licenses/by-sa/4.0/">creative commons cc-by-sa 4.0</a> license</a></small></div>
 
 Academic learning is usually in the spotlight at school, but teaching elementary-age students “soft” skills like self-control and how to get along with others might help to keep at-risk kids out of criminal trouble in the future, a study finds.
 
@@ -46,8 +49,9 @@ The academic skills that were taught as part of Fast Track turned out to have le
 
 To [Neil Bernstein](http://drneilbernstein.com/), a psychologist in Washington, D.C., who specializes in child and adolescent behavior disorders, the researchers’ findings seem consistent with what he’s seen on the ground in working with children for more than 30 years. And while he says he agrees with the importance of teaching self-control and social skills, he would add empathy to the list, too.
 
-<div style="float:right; padding:5px">
+<div style="float:left; padding:5px; font-size:14px;">
 <a rel="nofollow" href="http://www.amazon.de/gp/product/0761115706/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=0761115706&linkCode=as2&tag=spielendprogr-21"><img alt="Amazon" border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0761115706&Format=_SL250_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=0761115706" width="1" height="1" border="0" alt="Amazon" style="border:none !important; margin:0px !important;" /><br><small>image rights: Amazon</small></div>
+
 “Empathy is what makes us aware of the feelings of others, and when you’re empathic, you’re much less likely to hurt someone else’s feelings,” says Bernstein, who serves on the advisory board for the Partnership for Drug-Free Kids and is the author of multiple books, including *[How to Keep Your Teenager Out of Trouble and What to Do if You Can’t](http://www.amazon.de/gp/product/0761115706/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=0761115706&linkCode=as2&tag=spielendprogr-21")*.
 
 Being in tune with how someone else feels might also make adolescents steer clear of bullying and other “behaviors of concern,” Bernstein says.

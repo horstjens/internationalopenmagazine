@@ -9,18 +9,20 @@ GeoPlacename: Dodoma
 GeoPosition: -6.162959;35.751607
 Authors: WITABA Bonface
 Summarytext: Can Internatiolnalized Domain Names with non-english characters open up internet access to millions of Swahili speakers in countries like Tanzania?
-Summary: <div style="float: left; padding:5px"><img src="/images/authors/bonface_witaba.jpg" alt="Bonface WITABA" height="100"> <img src="/images/2016-02-16-multilingual/market-344018.jpg" alt="market in Tanzania" height="100"></div> Can Internatiolnalized Domain Names with non-english characters open up internet access to millions of  Swahili speakers in countries like Tanzania? <div style="clear:both;"></div>
+Summary: <div style="float: left; padding:5px"><a href="http://internationalopenmagazine.org/2016-02-16-multilingual.html"><img src="/images/2016-02-16-multilingual/bonface_witaba.jpg" alt="Bonface WITABA" height="100"><img src="/images/2016-02-16-multilingual/market-344018.jpg" alt="market in Tanzania" height="100"></a></div> Can Internatiolnalized Domain Names with non-english characters open up internet access to millions of  Swahili speakers in countries like Tanzania? <div style="clear:both;"></div>
 
-<div><a href="https://pixabay.com/en/market-africa-colorful-tanzania-344018/"><img src="/images/2016-02-16-multilingual/market-344018.jpg" alt="market in Tanzania" width="800"></a><br><small>Market scene in Tanzania. Image rights: cc0 public domain by <a href="https://pixabay.com/en/market-africa-colorful-tanzania-344018/">Rudy Gort / Pixabay</a></small></div>
+<div style="font-size:14px;"><a href="https://pixabay.com/en/market-africa-colorful-tanzania-344018/"><img src="/images/2016-02-16-multilingual/market-344018.jpg" alt="market in Tanzania" width="800"></a><br><small>Market scene in Tanzania. Image rights: cc0 public domain by <a href="https://pixabay.com/en/market-africa-colorful-tanzania-344018/">Rudy Gort / Pixabay</a></small></div>
 
 <div style="font-size:14px;float:right; padding: 5px; margin: 5px; background-color: #BBBBBB; width:260px;">
-<b>Name</b>: <a href="https://bonfacewitaba.wordpress.com/">Bonface WITABA</a><br>
+<small>about this article:</small><br>
+<b>Author</b>: <a href="https://bonfacewitaba.wordpress.com/">Bonface WITABA</a><br>
 <b>Contact</a></b>: <a href="https://twitter.com/bswitaba">@bswitaba</a>, <a href="https://bonfacewitaba.wordpress.com/about/">bswitaba@yahoo.co.uk</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/APjz7V">goo.gl/APjz7V</a><br>
 <b>Hashtag</b>: <tt>#IDN</tt><br>
+<b>Download this article as</b>:<br> <a href="/images/2016-02-16-multilingual/idn.pdf"><img src="/images/pdf.png" alt="pdf" width="80"></a> <a href="/images/2016-02-16-multilingual/idn.epub"><img src="/images/epub.png" alt="epub" width="80"></a> <a href="/images/2016-02-16-multilingual/idn.odt"><img src="/images/odf.png" alt="odt" width="80"></a><br>
 <b>Fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/blog/2016-02-16-multilingual.md">on Github</a><br>
-<b>Extras:</b>: <a href="https://bonfacewitaba.wordpress.com/">Author's Blog</a>, <a href="https://bonfacewitaba.wordpress.com/2016/02/16/internationalized-domain-names-idns-the-answer-to-a-multi-lingual-internet">original article</a><br>
-<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa88x31.png" align="right" alt="cc-by-sa"></a><b>License</b> for text and photos in this article, unless indicated otherwise (e.g. <i>Image rights</i> notice below pictures): <a href="https://creativecommons.org/licenses/by-sa/4.0/">creative commons attribute share-alike 4.0</a><br>
+<b>Extras:</b>: <a href="https://bonfacewitaba.wordpress.com/">Author's Blog</a> <br>
+<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa.png" width="250" align="right" alt="cc-by-sa"></a><b>License</b> for text and photos in this article, unless indicated otherwise (e.g. <i>Image rights</i> notice below pictures): <a href="https://creativecommons.org/licenses/by-sa/4.0/">creative commons attribute share-alike 4.0</a><br>
 <b>Location</b>: <a href="http://www.openstreetmap.org/export/embed.html?bbox=35.565834045410156%2C-6.365458284956011%2C36.019020080566406%2C-6.060672231621696&amp;layer=mapnik&amp;marker=-6.21308732151894%2C35.79242706298828">-6.2131, 35.7924</a><br>
 <iframe width="250" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=35.565834045410156%2C-6.365458284956011%2C36.019020080566406%2C-6.060672231621696&amp;layer=mapnik&amp;marker=-6.21308732151894%2C35.79242706298828" style="border: 1px solid black"></iframe>
 <br>
@@ -30,7 +32,9 @@ He has also been nominated as the 2015 African young scholar and fellow in Commu
 Bonface founded Centre for Youth Empowerment and Leadership (CYEL), an initiative that has won several international ICT awards for its concerted efforts to empower youth through digital inclusion.<br>
 He works as an e-learning tutor, consultant in technology and Policy areas of Internet Governance.<br>
 <b>Donate author</b>: Please use <a href="http://www.PayPal.com">PayPal.com</a> to send donations to the author directly: <tt>bswitaba@yahoo.co.uk</tt><br><hr>
-<b>technical terms</b> explained by Wikipedia:<br><hr>
+explained by Wikipedia:<br>
+<a href="https://en.wikipedia.org/wiki/Wikipedia:Banners_and_buttons#/media/File:Qxz-ad39.png"><img src="/images/wikipedia250.png" alt="wikipedia" width="250"></a>
+<hr>
 <b><a href="https://en.wikipedia.org/wiki/Internationalized_domain_name">IDNs</a></b>: The <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS (Domain Name System)</a> , which performs a lookup service to translate user-friendly names into network addresses for locating Internet resources, is restricted in practice to the use of <a href="https://en.wikipedia.org/wiki/ASCII">ASCII characters</a>, a practical limitation that initially set the standard for acceptable domain names. The internationalization of domain names is a technical solution to translate names written in language-native scripts into an ASCII text representation that is compatible with the Domain Name System. Internationalized domain names can only be used with applications that are specifically designed for such use; they require no changes in the infrastructure of the Internet.<br><hr>
 <b><a href="https://en.wikipedia.org/wiki/Swahili_language">Swahili</a></b>: 
 <img src="/images/2016-02-16-multilingual/Maeneo_penye_wasemaji_wa_Kiswahili.png" alt="swahili speakers" width="250"><br><small>Swahili speakers <a href="https://en.wikipedia.org/w/index.php?curid=43708890">Wikipedia</a> <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-ShareAlike 3.0">CC BY-SA 3.0</a></small><br>
@@ -38,6 +42,8 @@ Swahili, also known as Kiswahili, is a Bantu language and the first language of 
 Although only around five to fifteen million people speak Swahili as their first language, it is used as a lingua franca in much of Southeast Africa. Estimates of the total number of Swahili speakers vary widely, from 60 million to over 150 million. Swahili serves as a national language of four nations: Tanzania, Kenya, Uganda, and the Democratic Republic of the Congo. Shikomor, the official language in Comoros and also spoken in Mayotte (Shimaore), is related to Swahili. Swahili is also one of the working languages of the African Union and one of the official languages of the East African Community.
 A significant fraction of Swahili vocabulary is derived from Arabic through contact with Arabic-speaking Muslim inhabitants of the Swahili Coast. It has also incorporated German, Portuguese, English, Hindustani, and French words into its vocabulary through contact with empire builders, traders, and slavers during the past five centuries.<br>
 </div>
+
+<div style="font-size:14px;"><small>This article was first published 2016-02-16 at<a href="https://bonfacewitaba.wordpress.com/2016/02/16/internationalized-domain-names-idns-the-answer-to-a-multi-lingual-internet">the authors blog</a>.</small></div><br>
 
 
 Recently, Tanzania hit the headlines with it’s announcement that it was ditching English and adopting Swahili as the sole language of instruction at both primary and secondary school level. This move elicited mixed reactions from various quotas, with some hailing the move as bold and necessary, while others critiqued it as a dangerous move that is set to isolate the East African country from the outside world.

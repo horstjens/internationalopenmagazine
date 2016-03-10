@@ -1,7 +1,7 @@
 Title: Who owns digital learning resources founded by taxpayers?
 Date: 2016-03-05 22:00
 Modfied: 2016-03-05 22:00
-Tags: teaching , open educational resources, politics, usa
+Tags: teaching , oer, politics, usa
 Slug: 2016-03-05-who_owns_digital_learning_resources
 GeoRegion: US-CA
 GeoPlacename: Palo Alto
