@@ -1,7 +1,7 @@
 Title:   Linux Day Bologna
 Date:    2015-11-13 00:20
 Modfied: 2015-11-15 00:20
-Tags:    report, coding, teaching, linux
+Tags:    report, coding, teaching, FOSS, hacking, Italy
 Status: published 
 Slug:    2015-11-13-linuxdaybologna
 Authors: GIGANTE Francesco, LOMBARDO Angela Sofia, MAGISANO Giacomo, CERAMI Gabriele
@@ -9,18 +9,23 @@ ICBM: 44.48972, 11.28522
 GeoPosition: 44.48972; 11.28522
 GeoPlacename: Bologna                          
 GeoRegion:  IT-BO
-Summary: <div style="float:left; margin:5px;"><img src="/images/2015-11-13-linuxdaybologna/AngelaSofiaLombardo.jpg" alt="Angela Sofia LOMBARDO" height="100"><img src="/images/2015-11-13-linuxdaybologna/FrancescoGigante.jpg" alt="Francesco GIGANTE" height="100"><img src="/images/2015-11-13-linuxdaybologna/GabrieleCerami.jpg" alt="Gabriele CERAMI" height="100"><img src="/images/2015-11-13-linuxdaybologna/GiacomoMagisano.jpg" alt="Giacomo MAGISANO" height="100"></div>report from CoderDojo Bologna, Italy: teaching young Coder-"Ninjas" the art of programming<div style="clear:both;"></div>
+Summary: <div style="float:left; margin:5px;"><a href="http://internationalopenmagazine.org/2015-11-13-linuxdaybologna.html"><img src="/images/2015-11-13-linuxdaybologna/AngelaSofiaLombardo.jpg" alt="Angela Sofia LOMBARDO" height="100"><img src="/images/2015-11-13-linuxdaybologna/FrancescoGigante.jpg" alt="Francesco GIGANTE" height="100"><img src="/images/2015-11-13-linuxdaybologna/GabrieleCerami.jpg" alt="Gabriele CERAMI" height="100"><img src="/images/2015-11-13-linuxdaybologna/GiacomoMagisano.jpg" alt="Giacomo MAGISANO" height="100"><img src="/images/2015-11-13-linuxdaybologna/banner.png" alt="linuxday bologna" height="100"></a></div>report from CoderDojo Bologna, Italy: teaching young Coder-"Ninjas" the art of programming<div style="clear:both;"></div>
 Summarytext: report from CoderDojo Bologna
 
+
+<div style="font-size:14px;"><img src="/images/2015-11-13-linuxdaybologna/banner.png" alt="linuxdaybologna banner" width="800"><br><small>Image rights: Linuxday Italia</small></div>
+
 <div style="font-size:14px;float:right; padding: 5px; margin: 5px; background-color: #bbbbbb; width:260px;"> 
-<b>Name</b>: <a href="http://www.coderdojobologna.it">Angelasofia LOMBARDO, Francesco GIGANTE, Giacomo MAGISANO, Gabriele CERAMI</a><br>
+<small>about this article:</small><br>
+<b>Authors</b>: <a href="http://www.coderdojobologna.it">Angelasofia LOMBARDO, Francesco GIGANTE, Giacomo MAGISANO, Gabriele CERAMI</a><br>
 <b>Contact</b>: <a href="https://twitter.com/coderdojobo">@coderdojobo</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/cRKLAk">http://goo.gl/cRKLAk</a><br> 
 <b>Hashtag</b>: <tt>#intopenmag</tt><br>
 <b>Fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/blog/2015-11-13-linuxdaybologna.md">on Github</a><br>
+<b>Download this article as</b>:<br> <a href="/images/2015-11-13-linuxdaybologna/bologna.pdf"><img src="/images/pdf.png" alt="pdf" width="80"></a> <a href="/images/2015-11-13-linuxdaybologna/bologna.epub"><img src="/images/epub.png" alt="epub" width="80"></a> <a href="/images/2015-11-13-linuxdaybologna/bologna.odt"><img src="/images/odf.png" alt="odt" width="80"></a><br>
 <b>Extras</b>: <a href="http://www.coderdojobologna.it/coderdojo-linuxday/">italian original version</a><br> <!-- additional material, translations, video, audio etc you want to hint at -->
 <b>License</b> of text and photos:<br>
-<div style="float:right;margin:2px;"><a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa88x31.png" alt="cc-by-sa"></a></div><a href="https://creativecommons.org/licenses/by-sa/4.0/">cc-by-sa</a>. Attribute to: <a href="http://www.coderdojobologna.it/coderdojo-linuxday/">coderdojobologna.it</a>
+<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa.png" alt="cc-by-sa" width="250"></a><a href="https://creativecommons.org/licenses/by-sa/4.0/">cc-by-sa</a>. Attribute to: <a href="http://www.coderdojobologna.it/coderdojo-linuxday/">coderdojobologna.it</a>
 <b>Location</b>: <a href="http://www.openstreetmap.org/?mlat=44.48972&amp;mlon=11.28522#map=17/44.48972/11.28522">44.48972, 11.28522</a><br> 
 <iframe width="250" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=11.278141736984251%2C44.48648694784601%2C11.292303800582886%2C44.492954321089925&amp;layer=mapnik&amp;marker=44.48972072410906%2C11.28522276878357" style="border: 1px solid black"></iframe><br>
 <b>about the author(s)</b>: <br><img src="/images/2015-11-13-linuxdaybologna/AngelaSofiaLombardo.jpg" alt="Angela Sofia LOMBARDO" width="100" align="right"><b>Angela Sofia Lombardo</b> Constructivist Psychologist and CoderDojo Bologna mentor.<br>
@@ -32,10 +37,6 @@ It's been a year since I discovered CoderdojoBologna and the awesome group of vo
 <b>Donate to the authors</b>: No donation address given yet<br>
 </div>
 
-# Linux Day Bologna
-
-
-<img src="/images/2015-11-13-linuxdaybologna/banner.png" alt="linuxdaybologna banner" width="640"><br><small>Image rights: Linuxday Italia</small>
 
 Saturday, 24 october Italy celebrated [Linux Day](http://www.linuxday.it/), an event that in the last 14 years has been promoting Linux and free software ... and a lot more ! :)
 
@@ -45,7 +46,7 @@ In Bologna, the preparations were conducted, with the usual commitment, by [Erlu
 
 Many events were presented and attended by both youngs and adults ... all in a really cool and fun atmosphere!
 
-<img src="/images/2015-11-13-linuxdaybologna/IMG_20151024_163926340-1024x576.jpg" alt="linuxday bologna" width="640"><br><small>Image source: <a href="http://www.coderdojobologna.it/coderdojo-linuxday/">CoderDojo Bologna"</a>. License: <a href="https://creativecommons.org/licenses/by-sa/4.0/">cc-by-sa</a></small>
+<div style="font-size:14px;float:left;margin:5px;"><img src="/images/2015-11-13-linuxdaybologna/IMG_20151024_163926340-1024x576.jpg" alt="linuxday bologna" width="400"><br><small>Image source: <a href="http://www.coderdojobologna.it/coderdojo-linuxday/">CoderDojo Bologna"</a>. License: <a href="https://creativecommons.org/licenses/by-sa/4.0/">cc-by-sa</a></small></div>
 
 Among the organizations participating at the festivities alongside Erlug itself and [RaspiBo](http://www.raspibo.org/) there were us too! [CoderDojo Bologna](http://www.coderdojobologna.it/)!
 
@@ -55,7 +56,7 @@ So, thanks to Erlug, we organized an event to show our "ninjas" (= children visi
 
 Linux Day gave us a fantastic view of the results that can be achieved by combining several elements such as active collaboration, commitment to an alternative education system, the call to experimentation and the liberties offered by free software.
 
-<img src="/images/2015-11-13-linuxdaybologna/linuxday2015.png" alt="linuxday italy banner"><br><small>image rights: linuxday italy</small>
+<div style="font-size:14px;float:left;margin:5px;"><img src="/images/2015-11-13-linuxdaybologna/linuxday2015.png" alt="linuxday italy banner" width="400"><br><small>image rights: linuxday italy</small></div>
 
 We were audience to great lessons on sharing thanks to various presentations: like the one that showed that a different teaching method is possible (and much needed) offered by [Renzo Davoli](https://it.wikipedia.org/wiki/Renzo_Davoli), professor at University of Bologna, a long time evangelist of effective ways to teach computer science.
 
@@ -68,7 +69,7 @@ In the afternoon, CoderDojo Bologna celebrated Linux Day too in its own way!
 To continue with the recurring theme of this great day we chose to propose a "Free Style" Dojo to offer the "ninjas" (participants) a chance to give full rein to their creativity!
 
 
-<img src="/images/2015-11-13-linuxdaybologna/linuxdayitaliamap.png" alt="italy linuxday map">
+<div style="float:left;margin:5px;"><img src="/images/2015-11-13-linuxdaybologna/linuxdayitaliamap.png" alt="italy linuxday map" width="400"></div>
 
 Volunteering for this session were Alessandro, Marco, Raffaele, Daniele, Gabriele, Fabio (directly from the newly formed Dojo in the nearby town of Monte SanPietro) and the ever-present black belt ninja Giacomo. They explained to the young Scratch users what an operating system is and why Linux is given an official celebrative day on its own, in which we all love to participate.
 
@@ -92,8 +93,9 @@ contributed to its drafting using online collaboration tools
 
 - See more at: <http://www.coderdojobologna.it/#sthash.CyLWQgBB.dpuf>
 
-<img src="/images/2015-11-13-linuxdaybologna/IMG_20151024_163833737_HDR.jpg" alt="linuxday bologna" width="640"><br><small>Image source: <a href="http://www.coderdojobologna.it/coderdojo-linuxday/">CoderDojo Bologna"</a>. License: <a href="https://creativecommons.org/licenses/by-sa/4.0/">cc-by-sa</a></small>
+<div style="font-size:14px; float:left; margin:5px;"><img src="/images/2015-11-13-linuxdaybologna/IMG_20151024_163833737_HDR.jpg" alt="linuxday bologna" width="400"><br><small>Image source: <a href="http://www.coderdojobologna.it/coderdojo-linuxday/">CoderDojo Bologna"</a>. License: <a href="https://creativecommons.org/licenses/by-sa/4.0/">cc-by-sa</a></small></div>
 
+<div style="clear:both;"></div>
 
 # advertisement (google adsense) 
 

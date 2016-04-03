@@ -10,16 +10,21 @@ GeoPosition: 35.282752;-120.659616
 GeoPlacename: San Luis Obispo
 GeoRegion:  US-CA
 Summarytext: When kids can get their lessons from the Internet, what's left for classroom instructors to do?
-Summary: <div style="float: left; margin:5px"><img src="/images/2015-11-13-deconstruction_k12_teacher/michael_godsey_twitterpic.jpg" alt="Michael GODSEY" height="100"></div>When kids can get their lessons from the Internet, what's left for classroom instructors to do?<div style="clear:both;"></div>
+Summary: <div style="float: left; margin:5px"><a href="http://internationalopenmagazine.org/2015-11-13-deconstruction_k12_teacher.html"><img src="/images/2015-11-13-deconstruction_k12_teacher/michael_godsey_twitterpic.jpg" alt="Michael GODSEY" height="100"><img src="/images/2015-11-13-deconstruction_k12_teacher/headerimage.jpg" alt="teacher" height="100"></a></div>When kids can get their lessons from the Internet, what's left for classroom instructors to do?<div style="clear:both;"></div>
+
+
+<div style="font-size:14px;"><img src="/images/2015-11-13-deconstruction_k12_teacher/headerimage.jpg" alt="teacher" width="800"><br><small>Image edited by Horst JENS. Image Source: <a href="https://pixabay.com/en/teacher-school-university-board-1015630/">Peggy &amp; Marco Lachmann-Anke</a> Pixabay, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">cc0 / public domain</a></small>
+</div>
 
 <div style="font-size:14px;float:right; width:260px; padding: 5px; margin: 5px; background-color: #bbbbbb;"> 
+<small>about this article:</small><br>
 <b>Name</b>: <a href="https://plus.google.com/106782932555439641974/about">Michael GODSEY</a><br>
 <b>Contact</b>: <a href="https://twitter.com/themrgodsey">@TheMrGodsey</a><br>
 <b>Shorturl</b>: <a href="http://goo.gl/R1HiE2">http://goo.gl/R1HiE2</a><br> 
 <b>Hashtag</b>: <tt>&#35;intopenmag</tt><br>
 <b>Fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/blog/2015-11-13-deconstruction_k12_teacher.md</a>on Github<br>
-<b>Extras</b>: <a href="http://www.theatlantic.com/education/archive/2015/03/the-deconstruction-of-the-k-12-teacher/388631/">Original article in "The Atlantic"</a>, <a href="http://www.theatlantic.com/education/archive/2015/03/the-deconstruction-of-the-k-12-teacher/388631/#article-comments">Comments</a><br> 
-<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa88x31.png" align="right" alt="cc-by-sa"></a><b>License</b> for text and photos in this article, unless indicated otherwise (e.g. <i>Image rights</i> notice below pictures): <a href="https://creativecommons.org/licenses/by-sa/4.0/">creative commons attribute share-alike 4.0</a> <br>
+<b>Download this article as</b>:<br> <a href="/images/2015-11-13-deconstruction_k12_teacher/k12.pdf"><img src="/images/pdf.png" alt="pdf" width="80"></a> <a href="/images/2015-11-13-deconstruction_k12_teacher/k12.epub"><img src="/images/epub.png" alt="epub" width="80"></a> <a href="/images/2015-11-13-deconstruction_k12_teacher/k12.odt"><img src="/images/odf.png" alt="odt" width="80"></a><br>
+<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="http://internationalopenmagazine.org/images/ccbysa.png" align="right" alt="cc-by-sa" width="250"></a><b>License</b> for text and photos in this article, unless indicated otherwise (e.g. <i>Image rights</i> notice below pictures): <a href="https://creativecommons.org/licenses/by-sa/4.0/">creative commons attribute share-alike 4.0</a> <br>
 <b>Location</b>: <a href="http://www.openstreetmap.org/#map=13/35.2660/-120.6515">35.2660,-120.6515</a><br>
 <iframe width="250" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-120.76480865478514%2C35.20677622783405%2C-120.53821563720703%2C35.32520982569243&amp;layer=mapnik" style="border: 1px solid black"></iframe><br>
 <img src="/images/2015-11-13-deconstruction_k12_teacher/michael_godsey_twitterpic.jpg" alt="Michael Godsey" width="100" align="right">
@@ -27,15 +32,14 @@ Summary: <div style="float: left; margin:5px"><img src="/images/2015-11-13-decon
 <b>Donate the author</b>: No donation address given yet<br>
 </div>
 
-
-*This article was originally published 2015-march-25 in the magazine [The Atlantic](http://www.theatlantic.com/education/archive/2015/03/the-deconstruction-of-the-k-12-teacher/388631/)*<br>
-**__Copyright &#9400; 2015 Michael Godsey, as first published by [The Atlantic](http://www.theatlantic.com)__**<br>
-*Republished under a [creative-commons-share-alike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/) with friendly permission from the author*
-<div style="clear:left;"></div>
+<div style="font-size:14px;">
+<small>This article was  published 2015-03-25 in the magazine [The Atlantic](http://www.theatlantic.com/education/archive/2015/03/the-deconstruction-of-the-k-12-teacher/388631/),  
+Copyright &#9400; 2015 Michael Godsey<br> 
+Republished under  <a href="https://creativecommons.org/licenses/by-sa/4.0/">cc-by-sa license</a> with friendly permission from the author</small>
+</div>
 
 
 ## When kids can get their lessons from the Internet, what's left for classroom instructors to do?
-
 
 Whenever a college student asks me, a veteran high-school English educator, about the prospects of becoming a public-school teacher, I never think it’s enough to say that the role is shifting from "content expert" to "curriculum facilitator." Instead, I describe what I think the public-school classroom will look like in 20 years, with a large, fantastic computer screen at the front, streaming one of the nation’s most engaging, informative lessons available on a particular topic. The "virtual class" will be introduced, guided, and curated by one of the country’s best teachers (a.k.a. a "super-teacher"), and it will include professionally produced footage of current events, relevant excerpts from powerful TedTalks, interactive games students can play against other students nationwide, and a formal assessment that the computer will immediately score and record.
 
@@ -108,13 +112,13 @@ In the original idea of the "flipped classroom," it seems that the teacher was r
 
 I recently spoke with Monica Brady-Myerov, the CEO and founder of Listen Current, a website that curates the best of public radio, including current events, and offers the three- to five-minute clips alongside a full set of lesson plans and worksheets. When I asked her about the recent boom in lesson-plan production, she said, "It’s like the wild west right now, both in terms of online resources and educational technology. It’s why I quit my job [as a veteran award-winning public radio journalist], so I could ride out west." Here's what Listen Current looks like:
 
-<a href="https://listencurrent.com"><img src="/images/2015-11-13-deconstruction_k12_teacher/listencurrent.png" alt="listencurrent.com"></a><br><small>Screenshot of <a href="http://listencurrent.com">listencurrent.com</a>. Image rights: [The Atlantic.com ?](http://www.theatlantic.com/education/archive/2015/03/the-deconstruction-of-the-k-12-teacher/388631/)</small>
+<div style="font-size:14px"><a href="https://listencurrent.com"><img src="/images/2015-11-13-deconstruction_k12_teacher/listencurrent.png" alt="listencurrent.com"></a><br><small>Screenshot of <a href="http://listencurrent.com">listencurrent.com</a>. Image rights: <a href="http://www.theatlantic.com/education/archive/2015/03/the-deconstruction-of-the-k-12-teacher/388631/">TheAtlantic.com</a></small></div>
 
 I found brief solace in the idea that I could still be the professional teacher that compiles all these resources—and then I found [Edmodo](https://www.edmodo.com/). Branding itself as the "Facebook for schools," Edmodo started in just 2008 and now has more than 48 million members. I signed up just to see what it was all about. Within five minutes, I found a great lesson on Romeo and Juliet by John Green (a favorite author among teens, and on the [list of Time’s "100 most influential people"](http://time.com/70799/john-green-2014-time-100/)), a Kahn Academy video, immediate access to 100 famous speeches, and a somewhat fun interactive game based on Lord of the Flies. According to [EdSurge](https://twitter.com/EdSurge/status/575662701780713473), the Edmodo CEO earlier this month said, "We want to do for teacher resources what Netflix does for movies."
 
 Well then. At least I can organize the video lessons and put them together in a sensible order—except that [Activate Instruction](http://www.activateinstruction.org/about/) is already creating a free and open online tool that is "similar to Wikipedia" and will "help put resources and curriculum in one place that any teacher can use." The company even put these materials in logical "playlists"; the first one I looked at contained 11 different professional resources for teaching a specific skill, including printable worksheets, an engaging video, an essay prompt, and a final assessment. And again, this company is just getting started—Activate Instruction was announced in 2013:
 
-<a href="http://www.activateinstruction.org/about/"><img src="/images/2015-11-13-deconstruction_k12_teacher/activate.jpg" alt="listencurrent.com"></a><br><small>Screenshot of <a href="http://www.activateinstruction.org/about/">activateinstruction.org</a>. Image rights: [The Atlantic.com ?](http://www.theatlantic.com/education/archive/2015/03/the-deconstruction-of-the-k-12-teacher/388631/)</small>
+<div style="font-size:14px;"><a href="http://www.activateinstruction.org/about/"><img src="/images/2015-11-13-deconstruction_k12_teacher/activate.jpg" alt="listencurrent.com"></a><br><small>Screenshot of <a href="http://www.activateinstruction.org/about/">activateinstruction.org</a>. Image rights: <a href="http://www.theatlantic.com/education/archive/2015/03/the-deconstruction-of-the-k-12-teacher/388631/">TheAtlantic.com</a></small></div>
 
 I measured myself against these websites and Internet companies. It seems clear that they already have a distinct advantage over me as an individual teacher. They have more resources, more money, an entire staff of professionals, and they get to concentrate on producing their specialized content, while the teacher is—almost by default—inherently encouraged to transform into a facilitator. Some people might cringe at a "Netflix for teachers," but it’s almost impossible to deny the inherent advantages Netflix has over a local DVD store, and it’s easy to imagine the potential improvements that could happen to these modern services.
 
