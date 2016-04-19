@@ -18,7 +18,7 @@ Summary: <div style="float:left; padding:5px"><a href="http://internationalopenm
 <small>about this article:</small><br>
 <b>Author</b>: <a href="http://greenwave.org/profile/bren-smith/">Bren SMITH</a><br>
 <b>Contact</a></b>: <a href="http://greenwave.org/contact_us/">contact@greenwave.org</a>, <a href="https://twitter.com/GreenWaveOrg">@GreenWaveOrg</a><br>
-<b>Shorturl</b>: <a href=""></a><br>
+<b>Shorturl</b>: <a href="http://goo.gl/bvz5f3">http://goo.gl/bvz5f3</a><br>
 <b>Hashtag</b>: <tt>#GreenWave</tt><br>
 <b>Download this article as</b>:<br> <a href="/images/2016-04-02-oceanfarmers/oceanfarmers.pdf"><img src="/images/pdf.png" alt="pdf" width="80"></a> <a href="/images/2016-04-02-oceanfarmers/oceanfarmers.epub"><img src="/images/epub.png" alt="epub" width="80"></a> <a href="/images/2016-04-02-oceanfarmers/oceanfarmers.odt"><img src="/images/odf.png" alt="odt" width="80"></a><br>
 <b>Fork / improve</b>: <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/blog/2016-04-02-oceanfarmers.md">on Github</a><br>
