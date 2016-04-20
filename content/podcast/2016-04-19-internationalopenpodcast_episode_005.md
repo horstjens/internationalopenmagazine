@@ -192,7 +192,7 @@ In the government, the situation is quite the same. We have federal government s
 <br>**D**: *laughs*
 <br>**H**: *laughs*
 <br>**P**: *laughs*. But some guys are attracted for Innopolis. It offers some grants for professors to come there and hold Computer science works. And I think some guys are attracted for Skolkovo [innovation center]. 
-<br>**H**: Thanks a lot for this interview! I'd like us to see each other again. Äî ñâèäàíèÿ!
+<br>**H**: Thanks a lot for this interview! I'd like us to see each other again. до свидания!
 <br>**P**: Auf Wiedersehen!
 
 
