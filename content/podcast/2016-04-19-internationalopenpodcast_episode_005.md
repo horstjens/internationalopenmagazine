@@ -157,7 +157,7 @@ In the government, the situation is quite the same. We have federal government s
 <br>**P**: Everyone who wants to have good internet connection can have it. It's not much expensive. 
 <br>**D**: Yes, it's so much less expensive then in the USA!
 <br>**P**: I pay for my phone internet connection about 4 US$ per month.
-  * ?: Fantastic.
+<br>**D**: Fantastic.
 <br>**H**: And every school has good internet connection, every university? 
 <br>**P**: Yes. Except for some small villages, but the government is giving money, the idea is that everyone should have good internet connection in Russia. 
 <br>**H**: What is your opinion about the attractivity of the economy of Russia? For good educated coders and mathematicians, as you said before, lot of those Russian educated mathematicians are ending up working in America, in Silicon Valley companies, do you think the Russian economy is attractive enough to hold enough good educated people? Or do you basically invest in them (their education) and then they leave the country?
@@ -166,7 +166,7 @@ In the government, the situation is quite the same. We have federal government s
 <br>**P**: In Russia, everyone learns to code in schools, too.
 <br>**H**: Really? What age?
 <br>**P**: Yes. About 12 or 14 years old. 
-  * ?: So this is for every child in Russia?
+<br>**H**: So this is for every child in Russia?
 <br>**P**: Yes. But the problem is, they are teaching Pascal. So we need to change this to teaching Scratch first, for example, and then C++. Because Pascal is now useless. And there is a big problem with school kids graduating from school: "Do you know programming? - Yes! - Which language? - Pascal" *laughs*. 
 <br>**D**: It also makes me suspect that the curriculum would be a very old-model of a curriculum if they still teach focusing on Pascal. Using lessons from the 1980? Since when was this program set in place that all students learn to code?
 <br>**P**: They started (teaching) coding for one hour per week, and it lasted for several years, about since 5 years.
