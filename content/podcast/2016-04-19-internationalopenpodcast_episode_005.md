@@ -83,11 +83,11 @@ For more information, see [podcast feed page](/pages/podcast.html).
   
 ## full transcript of Pavel's Interview:
 
-date: 2016-04-15
-location: international education fair moscow
-  * **H**: Horst JENS   <horst.jens@spielend-programmieren.at> @horstjens http://spielend-programmieren.at
-  * **P**: Pavel FROLOV   <frolov@mezon.ru> @Binocle http://www.linuxcenter.ru
-  * **D**: Derek BREEN  <breenworks@gmail.com> @breenworks http://www.derekbreen.com/
+  * date: 2016-04-15
+  * location: [international education fair moscow](http://mmco-expo.ru/en/)
+  * **H**: Horst JENS   <horst.jens@spielend-programmieren.at> [@horstjens](http://twitter.com/horstjens) <http://spielend-programmieren.at>
+  * **P**: Pavel FROLOV   <frolov@mezon.ru> [@Binocle](http://twitter.com/binocle) <http://www.linuxcenter.ru>
+  * **D**: Derek BREEN  <breenworks@gmail.com> [@breenworks](http://twitter.com/breenworks) <http://www.derekbreen.com/>
 
 
 <br>**H**: This is international open podcast issue 5, part II, I'm Horst JENS, next to me sits Derek BREEN and...
