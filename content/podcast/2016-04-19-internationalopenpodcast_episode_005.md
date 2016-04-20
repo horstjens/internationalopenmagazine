@@ -1,14 +1,14 @@
-Title: international open podcast episode 004
+Title: international open podcast episode 005
 Date: 2016-04-19 13:00
 Modified: 2016-04-19 13:00
 tags: Moscow, education, FOSS
 Slug: 2016-04-19-internationalopenpodcast_episode_005
 status: published
 Ogg: http://spielend-programmieren.at/intopenpodcast/intopenpodcast005.ogg
-ICBM: 48.224836, 16.369035
-GeoRegion: AT
-GeoPlacename: Vienna
-GeoPosition: 48.224836;16.369035
+ICBM: 55.755826, 37.6173
+GeoRegion: RU
+GeoPlacename: Moscow
+GeoPosition: 55.755826;37.6173
 Authors:  FROLOV Pavel, BREEN Derek, JENS Horst, 
 Summarytext: Episode 005 of the international open podcast: Horst JENS meets Derek BREEN in Moscow at the international education fair Moscow 2016 and gets a chance to speak with Pavel FROLOV, editor of Linux Format magazine Russia.
 Summary: <div style="float: left; padding:5px"><img src="/images/international-open-podcast-logo.png" width="100" alt="logo"></div>Episode 005 of the international open podcast: Horst JENS meets Derek BREEN in Moscow at the international education fair Moscow 2016 and gets a chance to speak with Pavel FROLOV, editor of Linux Format magazine Russia.<div style="clear:both;"></div>
@@ -17,10 +17,10 @@ Summary: <div style="float: left; padding:5px"><img src="/images/international-o
 <h2>Navigation</h2>
 <small>
 <ul>
-<li>previous podcast: <a href="http://internationalopenmagazine.org/2016-02-04-internationalopenpodcast_episode_004">episode 004</a></li>
+<li>previous podcast: <a href="http://internationalopenmagazine.org/2016-02-04-internationalopenpodcast_episode_004.html">episode 004</a></li>
 <li><a href="/category/podcast.html">overview</a></li>
 <li>next podcast: not yet recorded</li>
-<li>short url: <tt></tt></li>
+<li>short url: <tt>http://goo.gl/qGCn5F</tt></li>
 <li>fork/improve on <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/podcast/2016-04-19-internationalopenpodcast_episode_005.md">github</a></li>
 </ul>
 </small>
@@ -28,7 +28,7 @@ Summary: <div style="float: left; padding:5px"><img src="/images/international-o
 <img src="http://internationalopenmagazine.org/images/authors/horstjens.jpg" alt="Horst JENS" width="250"><br>Horst JENS<br>
 <small>is self-employed and teaches <a href="http://spielend-programmieren.at/">Python open source game programming</a> for children in Vienna.</small>
 <img src="http://internationalopenmagazine.org/images/authors/derek.jpg" alt="Derek BREEN" width="250"><br>Derek BREEN<br><small> is writing <a rel="nofollow" href="http://www.amazon.de/gp/product/1119014875/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=1119014875&linkCode=as2&tag=spielendprogr-21">awesome programming books</a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=1119014875" alt="amazon" width="1" height="1" border="0" alt="amazon" style="border:none !important; margin:0px !important;" /> and currently travels the world creating computer programming curriculums and tv-shows.
-<img src="http://internationalopenmagazine.org/images/authors/horst_and_derek.jpg" width="250" alt="Horst and Derek share a toast"><br>Horst and Derek share a toast.<br>
+<img src="http://internationalopenmagazine.org/images/2016-04-19-moscow/pavel.jpg" width="250" alt="Pavel FROLOV"><br><small>Pavel FROLOV,  Free Software entrepreneur and <a href="http://www.linuxformat.ru">Linuxformat.ru</a> publisher.</small><br>
 <h2>Micro-Donate</h2>
 <a href="http://internationalopenmagazine.org/pages/donate.html">other donation methods</a><br>
 <a class="FlattrButton" style="display:none;"
@@ -36,16 +36,16 @@ Summary: <div style="float: left; padding:5px"><img src="/images/international-o
     data-flattr-uid="horstjens"
     data-flattr-tags="podcast"
     data-flattr-category="podcast" href="http://internationalopenmagazine.org/2016-04-19-internationalopenpodcast_episode_005.html">International Open Podcast episode 005</a>
-<!--<h2>Youtube</h2>
-<iframe width="250" height="141" src="https://www.youtube.com/embed/1ZpaVElZqDM" frameborder="0" allowfullscreen></iframe><br>
-<a href="https://youtu.be/1ZpaVElZqDM">youtu.be/1ZpaVElZqDM</a>-->
+<h2>Youtube</h2>
+<iframe width="250" height="188" src="https://www.youtube.com/embed/PcL1uk2PcTY" frameborder="0" allowfullscreen></iframe><br>
+<a href="https://youtu.be/PcL1uk2PcTY">youtu.be/PcL1uk2PcTY</a>
 <!--<h2>Amazon</h2>
 <a rel="nofollow" href="http://www.amazon.de/gp/product/1250065003/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=1250065003&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1250065003&Format=_SL250_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" alt="amazon" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=1250065003" width="1" height="1" border="0" alt="amazon" style="border:none !important; margin:0px !important;" /><br>
 <a rel="nofollow" href="http://www.amazon.de/gp/product/1119014875/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=1119014875&linkCode=as2&tag=spielendprogr-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1119014875&Format=_SL250_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=spielendprogr-21" alt="amazon"></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=spielendprogr-21&l=as2&o=3&a=1119014875" width="1" height="1" border="0" alt="amazon" style="border:none !important; margin:0px !important;" />-->
 </div>
 
 
-Episode 005 of the international open podcast: Horst JENS meets Derek BREEN in Moscow at the international education fair Moscow 2016 and gets a chance to speak with Pavel FROLOV, editor of Linux Format magazine Russia.
+Episode 005 of the international open podcast: Horst JENS meets Derek BREEN in Moscow at the international education fair Moscow 2016 and gets a chance to speak with Pavel FROLOV, editor of Linux Format magazine Russia. 
 
 ## Audo Files:
 
@@ -59,9 +59,9 @@ You can click on the blue timestamps below to play directly the desired part of 
     
 Right-click to download:
 
-  * <http://spielend-programmieren.at/intopenpodcast/intopenpodcast005.ogg> ogg format, good quality
-  * <http://spielend-programmieren.at/intopenpodcast/intopenpodcast005.mp3> mp3 format, good quality
-  * <http://spielend-programmieren.at/intopenpodcast/intopenpodcast005_32kbps.mp3> mp3 format, low quality, small filesize
+  * [intopenpodcast005.ogg](http://spielend-programmieren.at/intopenpodcast/intopenpodcast005.ogg) ogg format, good quality
+  * [intopenpodcast005.mp3](http://spielend-programmieren.at/intopenpodcast/intopenpodcast005.mp3) mp3 format, good quality
+  * [intopenpodcast005_32kbps.mp3](http://spielend-programmieren.at/intopenpodcast/intopenpodcast005_32kbps.mp3) mp3 format, low quality, small filesize
 
 You can find a list of all **international open podcast** files, interviews etc. at <http://spielend-programmieren.at/intopenpodcast/> and at the [graveyard of interviews](http://internationalopenmagazine.org/2015-08-24-interview_graveyard.html).
 
@@ -75,13 +75,24 @@ You can find a list of all **international open podcast** files, interviews etc.
 For more information, see [podcast feed page](/pages/podcast.html).
 </small>
 
+<a href="https://flic.kr/p/GnHxHM"><img src="http://internationalopenmagazine.org/images/2016-04-19-moscow/inteducationfairmoscow.jpg" width="640" alt="Horst JENS, Pavel FROLOV, Derek BREEN"></a><br><small>Horst, Pavel, Derek at international education fair Moscow, 15 April 2016. See <a href="https://flic.kr/s/aHskypCAL2">complete Album</a></small><br>
+
 ## content
 
-**technical note**: This podcast is glued togehter out of several interviews, not in chronological order. The transcript is not final edited.
+**technical note**: This podcast is glued togehter out of several interviews, not in chronological order. The Pavel Interview transcript is authorized by Pavel FROLOV himself and edited by [Elena Tolstyakova](https://plus.google.com/u/0/113433787552716338366).
 
   * <nc-ts>0:00:00</nc-ts> intro (Horst)
+  * <nc-ts>0:00:16</nc-ts> Moscow, first day: Horst and Derek chatting about Derek's live in Moscow and his areas of work for Russian education TV, Scratch workshops etc.
+  * <nc-ts>0:01:00</nc-ts> Derek referencing [our trip to Maker Fair Rome 2015](http://internationalopenmagazine.org/2015-10-27-makerfairerome.html)
+  * <nc-ts>0:01:45</nc-ts> What Derek does in Moscow 
+  * <nc-ts>0:51:48</nc-ts> Moscow, last day:  Horst and Derek chatting about the international education fair Moscow, [his talk about teaching with open source](https://goo.gl/KAUw3P), wild speculation why russian ladys are so beautiful, [Soviet arcarde game Museum](http://www.15kop.ru/en/) and Horst's impression about Moscow 
+  * <nc-ts>1:36:05</nc-ts> Interview: Pavel asking Horst about the situation of FOSS (free and open source Software) in Austria
+  * <nc-ts>2:09:13</nc-ts> Inverview: Horst asking Pavel about situation of FOSS in Russia, especially goverments and schools. See full transcript below:
   
-## full transcript of Pavel's Interview:
+  
+  
+  
+## full transcript of Horst's interview with Pavel about FOSS Russia:
 
   * date: 2016-04-15
   * location: [international education fair moscow](http://mmco-expo.ru/en/)
@@ -113,7 +124,7 @@ But in fact we have our prime minister, Dmitriy MEDVEDEV, and he is very good at
 <br>**H**: *impressed* That is a story in itself, he must be the first prime minister worldwide to do so...
 <br>**P**: He was president of Russia and he was personally responsible for the modernisation of the education system in Russia and also for installing Linux operation system in Russian schools.
 <br>**H**: So, every Russian school has now a Linux operation system?
-<br>**P**: No. It was a plan, but this plan failed. There was a pilot project in three regions. Russia is a huge country, so each region is as big as a European country. The regions were: Perm Region, Tatarstan, and Tomsk Region. The plan was to (implement in these regions) migrating all schools toward Linux. There were many methological and educational materials developed to help teachers to migrate. There was a big program of improving qualification of teachers to use FOSS in schools. It (the program) was not very good because of (lack of) time - [the program was being made in hurry]: They tried to do it very fast and it was a kind of mistake. It would have been better to do this kind of project in three years, but they tried to do it in one year, so the quality of education was bad. They tried to make education for ten or twenty thousands teachers - how to use FOSS. Then they sent CDs with Linux to each school in Russia and said: "OK, you can use it". And then they said that the Russian government will not give money anymore to the schools for buying software. So the (schools) have now two options: They can ask the regional government to pay for sofware, for example, from Microsoft, or they can use free software. Some regions bought licenses from Microsoft but Microsoft had to lower the prices... very low. Ten times lower than before, for the whole region, because in other case... 
+<br>**P**: No. [It was a plan](http://open-club.net/news/2009-01-04-455), but this plan failed. There was a pilot project in three regions. Russia is a huge country, so each region is as big as a European country. The regions were: Perm Region, Tatarstan, and Tomsk Region. The plan was to (implement in these regions) migrating all schools toward Linux. There were many methological and educational materials developed to help teachers to migrate. There was a big program of improving qualification of teachers to use FOSS in schools. It (the program) was not very good because of (lack of) time - [the program was being made in hurry]: They tried to do it very fast and it was a kind of mistake. It would have been better to do this kind of project in three years, but they tried to do it in one year, so the quality of education was bad. They tried to make education for ten or twenty thousands teachers - how to use FOSS. Then they sent CDs with Linux to each school in Russia and said: "OK, you can use it". And then they said that the Russian government will not give money anymore to the schools for buying software. So the (schools) have now two options: They can ask the regional government to pay for sofware, for example, from Microsoft, or they can use free software. Some regions bought licenses from Microsoft but Microsoft had to lower the prices... very low. Ten times lower than before, for the whole region, because in other case... 
 <br>**H**: So they (regions) used FOSS as leverage to get lower prices from Microsoft?
 <br>**P**: Some regions, yes. Some regions are going to use FOSS. There are several regions that've made a decision to get rid of Microsoft.
 <br>**H**: They are still using Linux?
@@ -121,7 +132,7 @@ But in fact we have our prime minister, Dmitriy MEDVEDEV, and he is very good at
 This beautiful girl coming to you and asking who you are is the government member of St. Petersburg.
 She has etablished the whole group of FOSS users in St. Petersburg. They do conferences twice a year and share experience and invite companies whose business is doing service in Open Source. In St. Petersburg, we have about 700 schools. Of those, 100-200 are using Linux and free and open source. There was also one guy with moustaches, he is the vice director of one school which is the pilot school of St. Petersburg, using FOSS in every aspect of teaching (Geography, English and so on) and they made methodological papers. Other schools share this papers so that other schools can learn from their experience.<br>
 I'm sure this not only one case, so (I think) it's kind of the first project of using Linux and Open source, like throwing seeds everywhere and some seeds... are now growing. I think this process will grow. But now, no one is speeding it up and no one is helping. It's a kind of plant that is growing (all) by itself. In the jungle. So, this is the situation in schools.<br>
-In the government, the situation is quite the same. We have federal government structures. Different ministries, different agencies. About sixty or eighty organisations. About six years ago, the (Russian) government made a plan of total migrations toward FOSS for all federal ministries. Our group was involved into this plan. In our first version of this idea it was a 3-year plan. Then they said this is too fast [to adopt], we need a 5-year plan or even more time. It was a very good plan [The plan was very good anyway]. There was a very strange situation because buerocrats decided not to do anything. There was this plan, signed by (president) PUTIN, but almost anyone in federal structures decided to not migrate to FOSS. There was one organisation doing everything for this plan, it's the [Russian Federal Service of Bailiffs]. There are services of officers who takes [withdraw] debts from the people. Some kind of a department of police.
+In the government, the situation is quite the same. We have federal government structures. Different ministries, different agencies. About sixty or eighty organisations. About six years ago, the (Russian) government made a plan of total migrations toward FOSS for all federal ministries. Our group was involved into this plan. In our first version of this idea it was a 3-year plan. Then they said this is too fast [to adopt], we need a 5-year plan or even more time. It was a very good plan [The plan was very good anyway]. There was a very strange situation because buerocrats decided not to do anything. There was this [plan, signed by (president) PUTIN](http://web.archive.org/web/20101228193002/http://government.ru/gov/results/13617/), but almost anyone in federal structures decided to not migrate to FOSS. There was one organisation doing everything for this plan, it's the [Федеральная служба судебных приставов - Russian Federal Service of Bailiffs](http://fssprus.ru/). There are services of officers who takes [withdraw] debts from the people. Some kind of a department of police.
 <br>**H**: Finance police?
 <br>**P**: No.
 <br>**P**: It's if someone is owing money... 
@@ -130,7 +141,7 @@ In the government, the situation is quite the same. We have federal government s
 <br>**H**: An important branch of the government?
 <br>**P**: Yes. They do everything. They do their own Linux distribution, they make certifications for security, they make education and they have about 50,000 computers and servers. They migrated all servers and 10 thousands computers.
 <br>**D**: Wow!
-<br>**P**: This is [Such was] the situation in fall [autumn] of 2015, it's maybe more by now. They do everything and share their solution with other ministries. Now every ministry, every local government of a region can take this Linux. The name is GOS Linux, where GOS means government. It's government[al] Linux, everyone can download it from the government's [web]site and use it for migrating. So this is a very good [use] case.
+<br>**P**: This is [Such was] the situation in fall [autumn] of 2015, it's maybe more by now. They do everything and share their solution with other ministries. Now every ministry, every local government of a region can take this Linux. The name is [GOS Linux](http://fap.fssprus.ru/), where GOS means government. It's government[al] Linux, everyone can download it from the government's [web]site and use it for migrating. So this is a very good [use] case.
 <br>**H**: But that is only one branch of government? Not all branches of government are using it?
 <br>**P**: Other structures of the government are using (FOSS) servers or OpenOffice but this total migration like it was described in the big plan, only one organisation of the government did it. We are trying to find out why this's happened. We found out the key issue here is education. If the people who were told to migrate does not know anything about Linux, anything about free software, if they have no images in their mind (about FOSS) and only use Windows, then it's almost impossible for this people to do something with Linux. You need to re-educate them. 
 <br>**H**: Do you know from any cities or towns who made the complete switch toward Linux?
@@ -138,12 +149,12 @@ In the government, the situation is quite the same. We have federal government s
 <br>**H**: And that worked?
 <br>**P**: Yes. Everything was good.
 <br>**H**: Can you give one example of such a city?
-<br>**P**: Example... In the Primorskiy Region, near Vladivostok, there is a small city [town] named Chernigovka, they made a complete migration (toward FOSS) seven years ago. 
+<br>**P**: Example... In the Primorskiy Region, near Vladivostok, there is a small city [town] named [Chernigovka](http://www.chernigovka.org/), they made a complete migration (toward FOSS) seven years ago. 
 <br>**H**: And do you think they will continue of doing that (using FOSS) or do you think that with the next shift of government they will change back (to Windows)?
 <br>**P**: It depends on the chief. I know very big projects of migration, for example (organisation of) [Federal Fund of] social insurance, it's about 25,000 computers, and they made total migration toward OpenOffice and the free software on several servers, and they made their own databases and FOSS engines. They do this for 5 years. It was a very sucessfull project. Then, their chief officer goes to another work and then a new chief officer comes and says: "What are you doing here? Where is my Microsoft Office? Where is my Oracle Database?" 
 <br>**H**: *laughs* This seems to be an international problem... I know this same story from my country and from several countries...
 <br>**H**: Do you know something of the military? I suppose the Russian military is one of the few militaries in the world not using happily Microsoft Software...
-<br>**P**: Yes. The military has several Linux distributions, self developed.
+<br>**P**: Yes. The military has [several Linux distributions](http://astra-linux.com/dev-mo.html), self developed.
 <br>**H**: Those are not used by the civilian branches of government?
 <br>**P**: They have the option of selling several distributions to the government too, but those are not very cheap, it's an expensive solution.
 <br>**H**: Can I also ask: What do you think about the level of education, especially of computer science education in Russia, in view of a global playing field? Do you think Russian engineers are competitive against American, or Indian, or Chinese...

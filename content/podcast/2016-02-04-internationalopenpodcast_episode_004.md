@@ -19,7 +19,7 @@ Summary: <div style="float: left; padding:5px"><img src="/images/international-o
 <ul>
 <li>previous podcast: <a href="http://internationalopenmagazine.org/2016-01-10-internationalopenpodcast_episode_003">episode 003</a></li>
 <li><a href="/category/podcast.html">overview</a></li>
-<li>next podcast: not yet recorded</li>
+<li>next podcast: <a href="http://internationalopenmagazine.org/2016-04-19-internationalopenpodcast_episode_005.html">episode 005</li>
 <li>short url: <tt>http://goo.gl/1U4kbr</tt></li>
 <li>fork/improve on <a href="https://github.com/horstjens/internationalopenmagazine/blob/master/content/podcast/2016-02-04-internationalopenpodcast_episode_004.md">github</a></li>
 </ul>
