@@ -49,14 +49,6 @@ Episode 005 of the international open podcast: Horst JENS meets Derek BREEN in M
 
 ## Audo Files:
 
-You can click on the blue timestamps below to play directly the desired part of the podcast
-
-
-<audio id="netcast" controls="controls">
-   <source src="http://spielend-programmieren.at/intopenpodcast/intopenpodcast005.ogg" type="audio/ogg"/>
-   <source src="http://spielend-programmieren.at/intopenpodcast/intopenpodcast005.mp3" type="audio/mpeg"/>
-</audio>
-    
 Right-click to download:
 
   * [intopenpodcast005.ogg](http://spielend-programmieren.at/intopenpodcast/intopenpodcast005.ogg) ogg format, good quality
@@ -64,6 +56,7 @@ Right-click to download:
   * [intopenpodcast005_32kbps.mp3](http://spielend-programmieren.at/intopenpodcast/intopenpodcast005_32kbps.mp3) mp3 format, low quality, small filesize
 
 You can find a list of all **international open podcast** files, interviews etc. at <http://spielend-programmieren.at/intopenpodcast/> and at the [graveyard of interviews](http://internationalopenmagazine.org/2015-08-24-interview_graveyard.html).
+
 
 #### Podcast feed:
 <div style="float:left; padding:5px; margin-right:15px;"><img src="/images/rss.png" alt="rss" width="100"></div>
@@ -77,6 +70,16 @@ For more information, see [podcast feed page](/pages/podcast.html).
 
 <a href="https://flic.kr/p/GnHxHM"><img src="http://internationalopenmagazine.org/images/2016-04-19-moscow/inteducationfairmoscow.jpg" width="640" alt="Horst JENS, Pavel FROLOV, Derek BREEN"></a><br><small>Horst, Pavel, Derek at international education fair Moscow, 15 April 2016. See <a href="https://flic.kr/s/aHskypCAL2">complete Album</a></small><br>
 
+#### Audio player
+
+Please note: You can click on the blue timestamps below to play directly the desired part of the podcast
+
+<audio id="netcast" controls="controls">
+   <source src="http://spielend-programmieren.at/intopenpodcast/intopenpodcast005.ogg" type="audio/ogg"/>
+   <source src="http://spielend-programmieren.at/intopenpodcast/intopenpodcast005.mp3" type="audio/mpeg"/>
+</audio>
+    
+
 ## content
 
 **technical note**: This podcast is glued togehter out of several interviews, not in chronological order. The Pavel Interview transcript is authorized by Pavel FROLOV himself and edited by [Elena Tolstyakova](https://plus.google.com/u/0/113433787552716338366).
@@ -86,8 +89,8 @@ For more information, see [podcast feed page](/pages/podcast.html).
   * <nc-ts>0:01:00</nc-ts> Derek referencing [our trip to Maker Fair Rome 2015](http://internationalopenmagazine.org/2015-10-27-makerfairerome.html)
   * <nc-ts>0:01:45</nc-ts> What Derek does in Moscow 
   * <nc-ts>0:51:48</nc-ts> Moscow, last day:  Horst and Derek chatting about the international education fair Moscow, [his talk about teaching with open source](https://goo.gl/KAUw3P), wild speculation why russian ladys are so beautiful, [Soviet arcarde game Museum](http://www.15kop.ru/en/) and Horst's impression about Moscow 
-  * <nc-ts>1:36:05</nc-ts> Interview: Pavel asking Horst about the situation of FOSS (free and open source Software) in Austria
-  * <nc-ts>2:09:13</nc-ts> Inverview: Horst asking Pavel about situation of FOSS in Russia, especially goverments and schools. See full transcript below:
+  * <nc-ts>1:36:05</nc-ts> Interview: Pavel asking Horst about the situation of FOSS (free and open source Software) in Austria. Warning: loud background noise!
+  * <nc-ts>2:09:13</nc-ts> Inverview: Horst asking Pavel about situation of FOSS in Russia, especially goverments and schools. See full transcript below: Warning: loude background noise at the start, less background noise later
   
   
   
